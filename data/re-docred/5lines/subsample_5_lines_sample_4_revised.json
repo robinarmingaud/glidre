@@ -1,0 +1,2918 @@
+[
+    {
+        "id": 0,
+        "tokenized_text": [
+            "Australia",
+            "–",
+            "Japan",
+            "relations",
+            "are",
+            "foreign",
+            "relations",
+            "between",
+            "Australia",
+            "and",
+            "Japan",
+            ".",
+            "The",
+            "relationships",
+            "are",
+            "generally",
+            "warm",
+            "and",
+            "have",
+            "since",
+            "continued",
+            "to",
+            "grown",
+            "strong",
+            "over",
+            "the",
+            "years",
+            ",",
+            "both",
+            "nations",
+            "being",
+            "considerably",
+            "close",
+            ",",
+            "substantial",
+            "and",
+            "driven",
+            "by",
+            "mutual",
+            "interests",
+            ",",
+            "with",
+            "both",
+            "nations",
+            "having",
+            "close",
+            "ties",
+            "with",
+            "the",
+            "Western",
+            "world",
+            ".",
+            "Japan",
+            "is",
+            "one",
+            "of",
+            "Australia",
+            "'s",
+            "major",
+            "economic",
+            "partners",
+            ":",
+            "it",
+            "is",
+            "Australia",
+            "'s",
+            "second",
+            "\"",
+            "largest",
+            "trading",
+            "partner",
+            "and",
+            "an",
+            "increasingly",
+            "important",
+            "source",
+            "of",
+            "capital",
+            "investment",
+            "\"",
+            ".",
+            "In",
+            "recent",
+            "times",
+            "the",
+            "relations",
+            "have",
+            "expanded",
+            "beyond",
+            "strong",
+            "economic",
+            "and",
+            "commercial",
+            "links",
+            "to",
+            "other",
+            "spheres",
+            ",",
+            "including",
+            "culture",
+            ",",
+            "tourism",
+            ",",
+            "defense",
+            "and",
+            "scientific",
+            "cooperation",
+            ".",
+            "There",
+            "was",
+            "some",
+            "tension",
+            "in",
+            "the",
+            "early",
+            "stage",
+            "of",
+            "the",
+            "relationship",
+            ",",
+            "such",
+            "as",
+            "World",
+            "War",
+            "II",
+            ",",
+            "whaling",
+            ",",
+            "and",
+            "Japan",
+            "'s",
+            "perceived",
+            "economic",
+            "domination",
+            "during",
+            "the",
+            "1980s",
+            "and",
+            "early",
+            "1990s",
+            ".",
+            "However",
+            ",",
+            "the",
+            "Australian",
+            "government",
+            "and",
+            "business",
+            "leaders",
+            "see",
+            "Japan",
+            "as",
+            "a",
+            "vital",
+            "export",
+            "market",
+            "and",
+            "an",
+            "essential",
+            "element",
+            "in",
+            "Australia",
+            "'s",
+            "future",
+            "growth",
+            "and",
+            "prosperity",
+            "in",
+            "the",
+            "Asia",
+            "-",
+            "Pacific",
+            "region",
+            ".",
+            "Japan",
+            "on",
+            "its",
+            "part",
+            "regards",
+            "Australia",
+            "as",
+            "an",
+            "important",
+            "partner",
+            ",",
+            "a",
+            "reliable",
+            "source",
+            "of",
+            "energy",
+            ",",
+            "minerals",
+            "and",
+            "other",
+            "primary",
+            "products",
+            ",",
+            "a",
+            "popular",
+            "tourist",
+            "destination",
+            ",",
+            "a",
+            "useful",
+            "conduit",
+            "to",
+            "the",
+            "West",
+            "and",
+            "the",
+            "only",
+            "other",
+            "middle",
+            "-",
+            "ranking",
+            "economic",
+            "power",
+            "in",
+            "the",
+            "Asia",
+            "-",
+            "Pacific",
+            ".",
+            "Australia",
+            "'s",
+            "former",
+            "Prime",
+            "-",
+            "Minister",
+            "Tony",
+            "Abbott",
+            "recently",
+            "hailed",
+            "Japan",
+            "as",
+            "Australia",
+            "'s",
+            "closest",
+            "friend",
+            "in",
+            "Asia",
+            ",",
+            "and",
+            "planned",
+            "on",
+            "creating",
+            "a",
+            "Free",
+            "Trade",
+            "Agreement",
+            "between",
+            "the",
+            "two",
+            "nations",
+            "in",
+            "the",
+            "coming",
+            "year",
+            ".",
+            "Defence",
+            "Minister",
+            "Marise",
+            "Payne",
+            "described",
+            "Japan",
+            "as",
+            "a",
+            "\"",
+            "key",
+            "partner",
+            "\"",
+            "in",
+            "the",
+            "region",
+            ",",
+            "Japanese",
+            "Foreign",
+            "Minister",
+            "Fumio",
+            "Kishida",
+            "describing",
+            "the",
+            "relationship",
+            "as",
+            "the",
+            "linchpin",
+            "of",
+            "security",
+            "in",
+            "the",
+            "Asia",
+            "-",
+            "Pacific",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Australia",
+                        "start": 0,
+                        "end": 0
+                    },
+                    {
+                        "value": "Australia",
+                        "start": 8,
+                        "end": 8
+                    },
+                    {
+                        "value": "Australia",
+                        "start": 56,
+                        "end": 56
+                    },
+                    {
+                        "value": "Australia",
+                        "start": 64,
+                        "end": 64
+                    },
+                    {
+                        "value": "Australia",
+                        "start": 161,
+                        "end": 161
+                    },
+                    {
+                        "value": "Australia",
+                        "start": 179,
+                        "end": 179
+                    },
+                    {
+                        "value": "Australia",
+                        "start": 223,
+                        "end": 223
+                    },
+                    {
+                        "value": "Australia",
+                        "start": 235,
+                        "end": 235
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Japan",
+                        "start": 2,
+                        "end": 2
+                    },
+                    {
+                        "value": "Japan",
+                        "start": 10,
+                        "end": 10
+                    },
+                    {
+                        "value": "Japan",
+                        "start": 52,
+                        "end": 52
+                    },
+                    {
+                        "value": "Japan",
+                        "start": 129,
+                        "end": 129
+                    },
+                    {
+                        "value": "Japan",
+                        "start": 150,
+                        "end": 150
+                    },
+                    {
+                        "value": "Japan",
+                        "start": 174,
+                        "end": 174
+                    },
+                    {
+                        "value": "Japan",
+                        "start": 233,
+                        "end": 233
+                    },
+                    {
+                        "value": "Japan",
+                        "start": 264,
+                        "end": 264
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Western",
+                        "start": 49,
+                        "end": 49
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "World War II",
+                        "start": 122,
+                        "end": 124
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "the 1980s",
+                        "start": 135,
+                        "end": 136
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "1990s",
+                        "start": 139,
+                        "end": 139
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Australian",
+                        "start": 144,
+                        "end": 144
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Asia - Pacific",
+                        "start": 169,
+                        "end": 171
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "West",
+                        "start": 207,
+                        "end": 207
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Asia-Pacific",
+                        "start": 219,
+                        "end": 221
+                    },
+                    {
+                        "value": "Asia-Pacific",
+                        "start": 290,
+                        "end": 292
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Tony Abbott",
+                        "start": 229,
+                        "end": 230
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Asia",
+                        "start": 240,
+                        "end": 240
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Free Trade Agreement",
+                        "start": 247,
+                        "end": 249
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "two",
+                        "start": 252,
+                        "end": 252
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Defence",
+                        "start": 259,
+                        "end": 259
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Marise Payne",
+                        "start": 261,
+                        "end": 262
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "Japanese",
+                        "start": 275,
+                        "end": 275
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Fumio Kishida",
+                        "start": 278,
+                        "end": 279
+                    }
+                ],
+                "type": "PER"
+            }
+        ],
+        "relations": [
+            [
+                0,
+                "head of government",
+                10
+            ],
+            [
+                0,
+                "ethnic group",
+                6
+            ],
+            [
+                1,
+                "continent",
+                11
+            ],
+            [
+                1,
+                "part of",
+                11
+            ],
+            [
+                1,
+                "ethnic group",
+                16
+            ],
+            [
+                10,
+                "country of citizenship",
+                0
+            ],
+            [
+                10,
+                "country of citizenship",
+                6
+            ],
+            [
+                17,
+                "country of citizenship",
+                1
+            ],
+            [
+                6,
+                "head of government",
+                10
+            ],
+            [
+                17,
+                "country of citizenship",
+                16
+            ],
+            [
+                15,
+                "country of citizenship",
+                6
+            ],
+            [
+                0,
+                "participant of",
+                3
+            ],
+            [
+                3,
+                "location",
+                9
+            ],
+            [
+                1,
+                "participant of",
+                3
+            ],
+            [
+                15,
+                "country of citizenship",
+                0
+            ],
+            [
+                3,
+                "location",
+                7
+            ],
+            [
+                3,
+                "location",
+                11
+            ],
+            [
+                10,
+                "applies to jurisdiction",
+                0
+            ],
+            [
+                11,
+                "has part",
+                1
+            ],
+            [
+                10,
+                "applies to jurisdiction",
+                6
+            ],
+            [
+                3,
+                "participant",
+                0
+            ],
+            [
+                3,
+                "participant",
+                1
+            ]
+        ]
+    },
+    {
+        "id": 1,
+        "tokenized_text": [
+            "Pearce",
+            "Bailey",
+            "(",
+            "1865",
+            "–",
+            "1922",
+            ")",
+            "was",
+            "an",
+            "American",
+            "neurologist",
+            "and",
+            "psychiatrist",
+            ",",
+            "educated",
+            "at",
+            "Princeton",
+            "and",
+            "Columbia",
+            "Universities",
+            ".",
+            "He",
+            "became",
+            "a",
+            "consultant",
+            "in",
+            "several",
+            "New",
+            "York",
+            "hospitals",
+            "and",
+            "with",
+            "Collins",
+            "and",
+            "Frankel",
+            "founded",
+            "the",
+            "Neurological",
+            "Institute",
+            ".",
+            "He",
+            "was",
+            "also",
+            "appointed",
+            "an",
+            "associate",
+            "professor",
+            "of",
+            "neurology",
+            "in",
+            "Columbia",
+            ".",
+            "On",
+            "the",
+            "entry",
+            "of",
+            "the",
+            "United",
+            "States",
+            "into",
+            "World",
+            "War",
+            "I",
+            ",",
+            "he",
+            "was",
+            "appointed",
+            "chief",
+            "of",
+            "the",
+            "division",
+            "of",
+            "neurology",
+            "and",
+            "psychiatry",
+            "in",
+            "the",
+            "United",
+            "States",
+            "army",
+            "with",
+            "the",
+            "rank",
+            "of",
+            "colonel",
+            ".",
+            "He",
+            "perfected",
+            "a",
+            "system",
+            "for",
+            "weeding",
+            "out",
+            "\"",
+            "mental",
+            "defectives",
+            "\"",
+            "which",
+            "is",
+            "said",
+            "to",
+            "have",
+            "been",
+            "used",
+            "as",
+            "a",
+            "model",
+            "by",
+            "the",
+            "Allies",
+            ".",
+            "His",
+            "major",
+            "literary",
+            "efforts",
+            "comprised",
+            "a",
+            "translation",
+            "of",
+            "Golobievski",
+            "'s",
+            "Atlas",
+            "and",
+            "Epitome",
+            "of",
+            "Diseases",
+            "Caused",
+            "by",
+            "Accident",
+            "(",
+            "1900",
+            ")",
+            "and",
+            "a",
+            "monograph",
+            "Accident",
+            "and",
+            "Injury",
+            ";",
+            "Relation",
+            "to",
+            "the",
+            "Nervous",
+            "System",
+            "(",
+            "1906",
+            ")",
+            ",",
+            "which",
+            "was",
+            "later",
+            "expanded",
+            "into",
+            "Diseases",
+            "of",
+            "the",
+            "Nervous",
+            "System",
+            "Resulting",
+            "from",
+            "Accident",
+            "and",
+            "Injury",
+            ",",
+            "a",
+            "valuable",
+            "work",
+            "for",
+            "the",
+            "medical",
+            "world",
+            ".",
+            "At",
+            "the",
+            "time",
+            "of",
+            "his",
+            "death",
+            ",",
+            "Bailey",
+            "was",
+            "chairman",
+            "of",
+            "the",
+            "New",
+            "York",
+            "State",
+            "Committee",
+            "for",
+            "Mental",
+            "Defectives",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Pearce Bailey",
+                        "start": 0,
+                        "end": 1
+                    },
+                    {
+                        "value": "Pearce Bailey",
+                        "start": 0,
+                        "end": 1
+                    },
+                    {
+                        "value": "Bailey",
+                        "start": 179,
+                        "end": 179
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "1865",
+                        "start": 3,
+                        "end": 3
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "1922",
+                        "start": 5,
+                        "end": 5
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "American",
+                        "start": 9,
+                        "end": 9
+                    },
+                    {
+                        "value": "the United States",
+                        "start": 76,
+                        "end": 78
+                    },
+                    {
+                        "value": "the United States",
+                        "start": 56,
+                        "end": 58
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Princeton",
+                        "start": 16,
+                        "end": 16
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Columbia Universities",
+                        "start": 18,
+                        "end": 19
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "New York",
+                        "start": 27,
+                        "end": 28
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Collins",
+                        "start": 32,
+                        "end": 32
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Frankel",
+                        "start": 34,
+                        "end": 34
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Neurological Institute",
+                        "start": 37,
+                        "end": 38
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Columbia",
+                        "start": 50,
+                        "end": 50
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "World War I",
+                        "start": 60,
+                        "end": 62
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Allies",
+                        "start": 109,
+                        "end": 109
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Golobievski",
+                        "start": 119,
+                        "end": 119
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Atlas and Epitome of Diseases Caused by Accident",
+                        "start": 121,
+                        "end": 128
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "1900",
+                        "start": 130,
+                        "end": 130
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "Accident and Injury ; Relation to the Nervous System",
+                        "start": 135,
+                        "end": 143
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "1906",
+                        "start": 145,
+                        "end": 145
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "Diseases of the Nervous System Resulting from Accident and Injury",
+                        "start": 153,
+                        "end": 162
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "New York State Committee for Mental Defectives",
+                        "start": 184,
+                        "end": 190
+                    }
+                ],
+                "type": "ORG"
+            }
+        ],
+        "relations": [
+            [
+                11,
+                "participant",
+                12
+            ],
+            [
+                19,
+                "country",
+                3
+            ],
+            [
+                0,
+                "conflict",
+                11
+            ],
+            [
+                0,
+                "country of citizenship",
+                3
+            ],
+            [
+                0,
+                "educated at",
+                5
+            ],
+            [
+                0,
+                "educated at",
+                4
+            ],
+            [
+                0,
+                "date of birth",
+                1
+            ],
+            [
+                0,
+                "date of death",
+                2
+            ],
+            [
+                0,
+                "educated at",
+                10
+            ],
+            [
+                6,
+                "country",
+                3
+            ],
+            [
+                13,
+                "notable work",
+                14
+            ],
+            [
+                14,
+                "author",
+                13
+            ],
+            [
+                12,
+                "conflict",
+                11
+            ],
+            [
+                9,
+                "country",
+                3
+            ],
+            [
+                12,
+                "participant of",
+                11
+            ],
+            [
+                11,
+                "participant",
+                0
+            ],
+            [
+                19,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                0,
+                "participant of",
+                11
+            ],
+            [
+                6,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                3
+            ]
+        ]
+    },
+    {
+        "id": 2,
+        "tokenized_text": [
+            "Street",
+            "Mobster",
+            ",",
+            "known",
+            "in",
+            "Japan",
+            "as",
+            ",",
+            "is",
+            "a",
+            "1972",
+            "Japanese",
+            "yakuza",
+            "film",
+            "directed",
+            "by",
+            "Kinji",
+            "Fukasaku",
+            "and",
+            "starring",
+            "Bunta",
+            "Sugawara",
+            "and",
+            "Noboru",
+            "Ando",
+            ".",
+            "It",
+            "is",
+            "the",
+            "sixth",
+            "installment",
+            "in",
+            "Toei",
+            "'s",
+            "Gendai",
+            "Yakuza",
+            "series",
+            "of",
+            "unrelated",
+            "films",
+            "by",
+            "different",
+            "directors",
+            ",",
+            "all",
+            "starring",
+            "Sugawara",
+            ".",
+            "Shot",
+            "on",
+            "location",
+            "in",
+            "Kawasaki",
+            ",",
+            "the",
+            "plot",
+            "centers",
+            "around",
+            "Okita",
+            ",",
+            "a",
+            "street",
+            "thug",
+            "troublemaker",
+            "released",
+            "from",
+            "prison",
+            "only",
+            "to",
+            "discover",
+            "that",
+            "the",
+            "crime",
+            "underworld",
+            "in",
+            "which",
+            "he",
+            "used",
+            "to",
+            "operate",
+            "and",
+            "the",
+            "socio",
+            "-",
+            "political",
+            "landscape",
+            "of",
+            "Japan",
+            "has",
+            "changed",
+            "dramatically",
+            ".",
+            "Complex",
+            "named",
+            "it",
+            "number",
+            "3",
+            "on",
+            "their",
+            "list",
+            "of",
+            "The",
+            "25",
+            "Best",
+            "Yakuza",
+            "Movies",
+            ".",
+            "Home",
+            "Vision",
+            "Entertainment",
+            "released",
+            "the",
+            "movie",
+            "on",
+            "DVD",
+            "in",
+            "North",
+            "America",
+            "in",
+            "2004",
+            ".",
+            "Arrow",
+            "Films",
+            "released",
+            "a",
+            "special",
+            "edition",
+            "blu",
+            "-",
+            "ray",
+            "in",
+            "Europe",
+            "and",
+            "North",
+            "America",
+            "in",
+            "June",
+            ",",
+            "2018",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Street Mobster",
+                        "start": 0,
+                        "end": 1
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Japan",
+                        "start": 5,
+                        "end": 5
+                    },
+                    {
+                        "value": "Japan",
+                        "start": 87,
+                        "end": 87
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "1972",
+                        "start": 10,
+                        "end": 10
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Japanese",
+                        "start": 11,
+                        "end": 11
+                    },
+                    {
+                        "value": "Japanese",
+                        "start": 11,
+                        "end": 11
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Kinji Fukasaku",
+                        "start": 16,
+                        "end": 17
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Bunta Sugawara",
+                        "start": 20,
+                        "end": 21
+                    },
+                    {
+                        "value": "Sugawara",
+                        "start": 46,
+                        "end": 46
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Noboru Ando",
+                        "start": 23,
+                        "end": 24
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Toei",
+                        "start": 32,
+                        "end": 32
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Gendai Yakuza",
+                        "start": 34,
+                        "end": 35
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Kawasaki",
+                        "start": 52,
+                        "end": 52
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Okita",
+                        "start": 58,
+                        "end": 58
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Complex",
+                        "start": 92,
+                        "end": 92
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "The 25 Best Yakuza Movies",
+                        "start": 101,
+                        "end": 105
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Home Vision Entertainment",
+                        "start": 107,
+                        "end": 109
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "North America",
+                        "start": 116,
+                        "end": 117
+                    },
+                    {
+                        "value": "North America",
+                        "start": 133,
+                        "end": 134
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "2004",
+                        "start": 119,
+                        "end": 119
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "Arrow Films",
+                        "start": 121,
+                        "end": 122
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Europe",
+                        "start": 131,
+                        "end": 131
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "June , 2018",
+                        "start": 136,
+                        "end": 138
+                    }
+                ],
+                "type": "TIME"
+            }
+        ],
+        "relations": [
+            [
+                0,
+                "country of origin",
+                1
+            ],
+            [
+                0,
+                "publication date",
+                2
+            ],
+            [
+                0,
+                "director",
+                4
+            ],
+            [
+                0,
+                "production company",
+                13
+            ],
+            [
+                0,
+                "cast member",
+                5
+            ],
+            [
+                0,
+                "cast member",
+                6
+            ],
+            [
+                9,
+                "country",
+                1
+            ],
+            [
+                8,
+                "production company",
+                7
+            ],
+            [
+                7,
+                "country",
+                1
+            ],
+            [
+                5,
+                "country of citizenship",
+                1
+            ],
+            [
+                6,
+                "country of citizenship",
+                1
+            ],
+            [
+                8,
+                "cast member",
+                5
+            ],
+            [
+                0,
+                "original language of work",
+                3
+            ],
+            [
+                0,
+                "series",
+                8
+            ],
+            [
+                1,
+                "ethnic group",
+                3
+            ],
+            [
+                4,
+                "country of citizenship",
+                1
+            ],
+            [
+                0,
+                "production company",
+                7
+            ],
+            [
+                8,
+                "has part",
+                0
+            ],
+            [
+                8,
+                "country of origin",
+                1
+            ],
+            [
+                4,
+                "notable work",
+                0
+            ],
+            [
+                0,
+                "part of",
+                8
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                1
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                1
+            ]
+        ]
+    },
+    {
+        "id": 3,
+        "tokenized_text": [
+            "Daan",
+            "Forest",
+            "Park",
+            "or",
+            "Da'an",
+            "Park",
+            "is",
+            "a",
+            "public",
+            "park",
+            "located",
+            "near",
+            "the",
+            "centre",
+            "of",
+            "the",
+            "Da'an",
+            "District",
+            "of",
+            "Taipei",
+            ",",
+            "Taiwan",
+            ".",
+            "The",
+            "park",
+            "occupies",
+            "twenty",
+            "-",
+            "six",
+            "hectares",
+            "and",
+            "is",
+            "bordered",
+            "on",
+            "its",
+            "north",
+            ",",
+            "south",
+            ",",
+            "east",
+            "and",
+            "west",
+            "by",
+            "Xinyi",
+            "Road",
+            ",",
+            "Heping",
+            "Road",
+            ",",
+            "Jianguo",
+            "Road",
+            "and",
+            "Xinsheng",
+            "Road",
+            ",",
+            "respectively",
+            ".",
+            "The",
+            "park",
+            "is",
+            "used",
+            "by",
+            "residents",
+            "of",
+            "Taipei",
+            "as",
+            "a",
+            "green",
+            "activity",
+            "space",
+            "and",
+            "for",
+            "various",
+            "outdoor",
+            "activities",
+            ".",
+            "The",
+            "park",
+            "was",
+            "created",
+            "in",
+            "1994",
+            "after",
+            "the",
+            "eviction",
+            "of",
+            "longtime",
+            "squatters",
+            "and",
+            "the",
+            "demolition",
+            "of",
+            "illegal",
+            "buildings",
+            "on",
+            "municipal",
+            "land",
+            ",",
+            "not",
+            "by",
+            "mayor",
+            "Chen",
+            "Shui",
+            "-",
+            "bian",
+            ",",
+            "as",
+            "is",
+            "often",
+            "cited",
+            ",",
+            "but",
+            "by",
+            "his",
+            "predecessor",
+            ",",
+            "Huang",
+            "Ta",
+            "-",
+            "chou",
+            ".",
+            "Daan",
+            "Forest",
+            "Park",
+            "was",
+            "intended",
+            "to",
+            "play",
+            "a",
+            "similar",
+            "role",
+            "as",
+            "other",
+            "major",
+            "city",
+            "parks",
+            "such",
+            "as",
+            "New",
+            "York",
+            "City",
+            "'s",
+            "Central",
+            "Park",
+            "and",
+            "London",
+            "'s",
+            "Hyde",
+            "Park",
+            ",",
+            "acting",
+            "as",
+            "the",
+            "\"",
+            "lungs",
+            "of",
+            "Taipei",
+            "city",
+            "\"",
+            "and",
+            "as",
+            "respite",
+            "for",
+            "residents",
+            "from",
+            "the",
+            "bustle",
+            "of",
+            "life",
+            "in",
+            "Taipei",
+            ".",
+            "Similar",
+            "to",
+            "the",
+            "large",
+            "parks",
+            "of",
+            "other",
+            "cities",
+            ",",
+            "Daan",
+            "Park",
+            "is",
+            "surrounded",
+            "by",
+            "high",
+            "price",
+            "luxury",
+            "condominiums",
+            "that",
+            "fetch",
+            "a",
+            "premium",
+            "due",
+            "to",
+            "their",
+            "desirable",
+            "views",
+            ",",
+            "some",
+            "reaching",
+            "the",
+            "price",
+            "of",
+            "$",
+            "400",
+            "million",
+            "New",
+            "Taiwan",
+            "dollars",
+            "(",
+            "approximately",
+            "$",
+            "14",
+            "million",
+            "US",
+            "dollars",
+            ")",
+            "in",
+            "2012",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Daan Forest Park",
+                        "start": 0,
+                        "end": 2
+                    },
+                    {
+                        "value": "Daan Forest Park",
+                        "start": 121,
+                        "end": 123
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Da'an Park",
+                        "start": 4,
+                        "end": 5
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Da'an District",
+                        "start": 16,
+                        "end": 17
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Taipei",
+                        "start": 19,
+                        "end": 19
+                    },
+                    {
+                        "value": "Taipei",
+                        "start": 64,
+                        "end": 64
+                    },
+                    {
+                        "value": "Taipei",
+                        "start": 156,
+                        "end": 156
+                    },
+                    {
+                        "value": "Taipei",
+                        "start": 170,
+                        "end": 170
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Taiwan",
+                        "start": 21,
+                        "end": 21
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "twenty - six",
+                        "start": 26,
+                        "end": 28
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Xinyi Road",
+                        "start": 43,
+                        "end": 44
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Heping Road",
+                        "start": 46,
+                        "end": 47
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Jianguo Road",
+                        "start": 49,
+                        "end": 50
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Xinsheng Road",
+                        "start": 52,
+                        "end": 53
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "1994",
+                        "start": 81,
+                        "end": 81
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Chen Shui-bian",
+                        "start": 101,
+                        "end": 104
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Huang Ta-chou",
+                        "start": 116,
+                        "end": 119
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "New York City",
+                        "start": 138,
+                        "end": 140
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Central Park",
+                        "start": 142,
+                        "end": 143
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "London",
+                        "start": 145,
+                        "end": 145
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "Hyde Park",
+                        "start": 147,
+                        "end": 148
+                    },
+                    {
+                        "value": "Daan Park",
+                        "start": 181,
+                        "end": 182
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "$ 400 million New Taiwan dollars",
+                        "start": 205,
+                        "end": 210
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "$ 14 million US dollars",
+                        "start": 213,
+                        "end": 217
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "2012",
+                        "start": 220,
+                        "end": 220
+                    }
+                ],
+                "type": "TIME"
+            }
+        ],
+        "relations": [
+            [
+                2,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                2,
+                "country",
+                4
+            ],
+            [
+                3,
+                "contains administrative territorial entity",
+                2
+            ],
+            [
+                3,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                3,
+                "country",
+                4
+            ],
+            [
+                3,
+                "contains administrative territorial entity",
+                1
+            ],
+            [
+                4,
+                "contains administrative territorial entity",
+                3
+            ],
+            [
+                6,
+                "country",
+                4
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                7,
+                "country",
+                4
+            ],
+            [
+                8,
+                "country",
+                4
+            ],
+            [
+                9,
+                "country",
+                4
+            ],
+            [
+                11,
+                "country of citizenship",
+                4
+            ],
+            [
+                12,
+                "country of citizenship",
+                4
+            ],
+            [
+                16,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                16,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                16,
+                "country",
+                4
+            ],
+            [
+                1,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                1,
+                "country",
+                4
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                0,
+                "country",
+                4
+            ],
+            [
+                0,
+                "inception",
+                10
+            ],
+            [
+                4,
+                "head of state",
+                11
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                4,
+                "contains administrative territorial entity",
+                2
+            ],
+            [
+                3,
+                "head of government",
+                11
+            ],
+            [
+                3,
+                "head of government",
+                12
+            ],
+            [
+                11,
+                "applies to jurisdiction",
+                4
+            ],
+            [
+                11,
+                "applies to jurisdiction",
+                3
+            ],
+            [
+                12,
+                "applies to jurisdiction",
+                3
+            ],
+            [
+                6,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                8,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                16,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                1,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                3
+            ]
+        ]
+    },
+    {
+        "id": 4,
+        "tokenized_text": [
+            "The",
+            "Stade",
+            "Pierre",
+            "de",
+            "Coubertin",
+            "(",
+            "French",
+            ":",
+            "Pierre",
+            "de",
+            "Coubertin",
+            "Stadium",
+            ")",
+            "is",
+            "an",
+            "indoor",
+            "arena",
+            "in",
+            "Paris",
+            ",",
+            "France",
+            ".",
+            "It",
+            "is",
+            "the",
+            "home",
+            "venue",
+            "of",
+            "the",
+            "Paris",
+            "-",
+            "Levallois",
+            "Basket",
+            "basketball",
+            "team",
+            "and",
+            "the",
+            "Open",
+            "Gaz",
+            "de",
+            "France",
+            "women",
+            "'s",
+            "tennis",
+            "tournament",
+            ".",
+            "The",
+            "Stade",
+            "Pierre",
+            "de",
+            "Coubertin",
+            "opened",
+            "in",
+            "1937",
+            "for",
+            "the",
+            "Universal",
+            "Exposition",
+            ";",
+            "it",
+            "was",
+            "rebuilt",
+            "after",
+            "the",
+            "Second",
+            "World",
+            "War",
+            "in",
+            "1946",
+            ".",
+            "Currently",
+            "the",
+            "arena",
+            "has",
+            "a",
+            "capacity",
+            "of",
+            "4,836",
+            "seats",
+            ".",
+            "In",
+            "addition",
+            "to",
+            "being",
+            "the",
+            "home",
+            "of",
+            "the",
+            "Paris",
+            "BR",
+            ",",
+            "the",
+            "Stade",
+            "Pierre",
+            "de",
+            "Coubertin",
+            "each",
+            "year",
+            "hosts",
+            "2",
+            "fencing",
+            "Grand",
+            "Prix",
+            ":",
+            "Challenge",
+            "International",
+            "de",
+            "Paris",
+            "(",
+            "in",
+            "January",
+            ")",
+            "and",
+            "Challenge",
+            "Monal",
+            "(",
+            "in",
+            "February",
+            ")",
+            ";",
+            "and",
+            "a",
+            "women",
+            "'s",
+            "tennis",
+            "tournament",
+            ":",
+            "Open",
+            "Gaz",
+            "de",
+            "France",
+            "(",
+            "in",
+            "February",
+            ")",
+            ".",
+            "The",
+            "stadium",
+            "was",
+            "used",
+            "as",
+            "a",
+            "detention",
+            "centre",
+            "during",
+            "the",
+            "Paris",
+            "massacre",
+            "of",
+            "1961",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Stade Pierre de Coubertin",
+                        "start": 1,
+                        "end": 4
+                    },
+                    {
+                        "value": "Stade Pierre de Coubertin",
+                        "start": 47,
+                        "end": 50
+                    },
+                    {
+                        "value": "Stade Pierre de Coubertin",
+                        "start": 92,
+                        "end": 95
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "French",
+                        "start": 6,
+                        "end": 6
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Pierre de Coubertin Stadium",
+                        "start": 8,
+                        "end": 11
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Paris",
+                        "start": 18,
+                        "end": 18
+                    },
+                    {
+                        "value": "Paris",
+                        "start": 146,
+                        "end": 146
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "France",
+                        "start": 20,
+                        "end": 20
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Paris - Levallois Basket basketball team",
+                        "start": 29,
+                        "end": 34
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Open Gaz de France",
+                        "start": 127,
+                        "end": 130
+                    },
+                    {
+                        "value": "Open Gaz de France",
+                        "start": 37,
+                        "end": 40
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "1937",
+                        "start": 53,
+                        "end": 53
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Universal Exposition",
+                        "start": 56,
+                        "end": 57
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Second World War",
+                        "start": 64,
+                        "end": 66
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "1946",
+                        "start": 68,
+                        "end": 68
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "4,836",
+                        "start": 77,
+                        "end": 77
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Paris BR",
+                        "start": 88,
+                        "end": 89
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "2",
+                        "start": 99,
+                        "end": 99
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Grand Prix",
+                        "start": 101,
+                        "end": 102
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Challenge International de Paris",
+                        "start": 104,
+                        "end": 107
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "January",
+                        "start": 110,
+                        "end": 110
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Challenge Monal",
+                        "start": 113,
+                        "end": 114
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "February",
+                        "start": 117,
+                        "end": 117
+                    },
+                    {
+                        "value": "February",
+                        "start": 133,
+                        "end": 133
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "1961",
+                        "start": 149,
+                        "end": 149
+                    }
+                ],
+                "type": "TIME"
+            }
+        ],
+        "relations": [
+            [
+                3,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                3,
+                "country",
+                4
+            ],
+            [
+                3,
+                "languages spoken, written or signed",
+                1
+            ],
+            [
+                4,
+                "official language",
+                1
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                0,
+                "country",
+                4
+            ],
+            [
+                0,
+                "inception",
+                7
+            ],
+            [
+                1,
+                "country",
+                4
+            ],
+            [
+                2,
+                "country",
+                4
+            ],
+            [
+                12,
+                "country",
+                4
+            ],
+            [
+                6,
+                "country",
+                4
+            ],
+            [
+                6,
+                "location",
+                0
+            ],
+            [
+                3,
+                "country",
+                1
+            ],
+            [
+                5,
+                "country",
+                4
+            ],
+            [
+                12,
+                "location",
+                3
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                15,
+                "country",
+                4
+            ],
+            [
+                17,
+                "country",
+                4
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                8,
+                "country",
+                4
+            ],
+            [
+                0,
+                "country",
+                1
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                4
+            ]
+        ]
+    }
+]

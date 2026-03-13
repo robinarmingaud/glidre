@@ -1,0 +1,5669 @@
+[
+    {
+        "id": 0,
+        "tokenized_text": [
+            "Bien",
+            "Hoa",
+            "Air",
+            "Base",
+            "is",
+            "a",
+            "Vietnam",
+            "People",
+            "'s",
+            "Air",
+            "Force",
+            "(",
+            "VPAF",
+            ";",
+            "Vietnamese",
+            ":",
+            "Không",
+            "quân",
+            "Nhân",
+            "dân",
+            "Việt",
+            "Nam",
+            ")",
+            "military",
+            "airfield",
+            "located",
+            "in",
+            "South",
+            "-",
+            "Central",
+            "southern",
+            "Vietnam",
+            "about",
+            "from",
+            "Saigon",
+            ",",
+            "across",
+            "the",
+            "Dong",
+            "Nai",
+            "river",
+            "in",
+            "the",
+            "northern",
+            "ward",
+            "of",
+            "Tân",
+            "Phong",
+            ",",
+            "and",
+            "within",
+            "the",
+            "city",
+            "of",
+            "Biên",
+            "Hòa",
+            "within",
+            "Đồng",
+            "Nai",
+            "Province",
+            ".",
+            "The",
+            "boomburb",
+            "city",
+            "is",
+            "densely",
+            "populated",
+            "and",
+            "rings",
+            "the",
+            "base",
+            ",",
+            "despite",
+            "the",
+            "astronomical",
+            "level",
+            "of",
+            "agent",
+            "orange",
+            "toxins",
+            "simply",
+            "left",
+            "there",
+            "for",
+            "decades",
+            ".",
+            "The",
+            "base",
+            "is",
+            "scheduled",
+            "to",
+            "begin",
+            "cleanup",
+            "by",
+            "2019",
+            ".",
+            "During",
+            "the",
+            "Vietnam",
+            "War",
+            "the",
+            "base",
+            "was",
+            "used",
+            "by",
+            "the",
+            "Republic",
+            "of",
+            "Vietnam",
+            "Air",
+            "Force",
+            "(",
+            "RVNAF",
+            ")",
+            ".",
+            "The",
+            "United",
+            "States",
+            "used",
+            "it",
+            "as",
+            "a",
+            "major",
+            "base",
+            "from",
+            "1961",
+            "through",
+            "1973",
+            ",",
+            "stationing",
+            "Army",
+            ",",
+            "Air",
+            "Force",
+            "(",
+            "USAF",
+            ")",
+            ",",
+            "Navy",
+            "and",
+            "Marine",
+            "units",
+            "there",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Vietnam People 's Air Force",
+                        "start": 6,
+                        "end": 10
+                    },
+                    {
+                        "value": "VPAF",
+                        "start": 12,
+                        "end": 12
+                    },
+                    {
+                        "value": "Không quân Nhân dân Việt Nam",
+                        "start": 16,
+                        "end": 21
+                    },
+                    {
+                        "value": "Bien Hoa Air Base",
+                        "start": 0,
+                        "end": 3
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Vietnamese",
+                        "start": 14,
+                        "end": 14
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Vietnam",
+                        "start": 31,
+                        "end": 31
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Saigon",
+                        "start": 34,
+                        "end": 34
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Dong Nai",
+                        "start": 38,
+                        "end": 39
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Tân Phong",
+                        "start": 46,
+                        "end": 47
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Biên Hòa",
+                        "start": 54,
+                        "end": 55
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Đồng Nai",
+                        "start": 57,
+                        "end": 58
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "2019",
+                        "start": 94,
+                        "end": 94
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Vietnam War",
+                        "start": 98,
+                        "end": 99
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Republic of Vietnam Air Force",
+                        "start": 106,
+                        "end": 110
+                    },
+                    {
+                        "value": "RVNAF",
+                        "start": 112,
+                        "end": 112
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "The United States",
+                        "start": 115,
+                        "end": 117
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "1961",
+                        "start": 125,
+                        "end": 125
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "1973",
+                        "start": 127,
+                        "end": 127
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Army",
+                        "start": 130,
+                        "end": 130
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Air Force",
+                        "start": 132,
+                        "end": 133
+                    },
+                    {
+                        "value": "USAF",
+                        "start": 135,
+                        "end": 135
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "Navy",
+                        "start": 138,
+                        "end": 138
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Marine",
+                        "start": 140,
+                        "end": 140
+                    }
+                ],
+                "type": "ORG"
+            }
+        ],
+        "relations": [
+            [
+                2,
+                "contains administrative territorial entity",
+                3
+            ],
+            [
+                2,
+                "contains administrative territorial entity",
+                4
+            ],
+            [
+                2,
+                "contains administrative territorial entity",
+                7
+            ],
+            [
+                9,
+                "participant",
+                2
+            ],
+            [
+                9,
+                "participant",
+                11
+            ],
+            [
+                3,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                3,
+                "country",
+                2
+            ],
+            [
+                0,
+                "country",
+                2
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                7
+            ],
+            [
+                4,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                4,
+                "country",
+                2
+            ],
+            [
+                5,
+                "country",
+                2
+            ],
+            [
+                6,
+                "country",
+                2
+            ],
+            [
+                6,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                6,
+                "located in the administrative territorial entity",
+                7
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                7,
+                "country",
+                2
+            ],
+            [
+                10,
+                "country",
+                2
+            ],
+            [
+                15,
+                "country",
+                11
+            ],
+            [
+                15,
+                "conflict",
+                9
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                2,
+                "contains administrative territorial entity",
+                6
+            ],
+            [
+                2,
+                "contains administrative territorial entity",
+                5
+            ],
+            [
+                10,
+                "conflict",
+                9
+            ],
+            [
+                7,
+                "contains administrative territorial entity",
+                6
+            ],
+            [
+                2,
+                "official language",
+                1
+            ],
+            [
+                16,
+                "country",
+                11
+            ],
+            [
+                14,
+                "country",
+                11
+            ],
+            [
+                17,
+                "conflict",
+                9
+            ],
+            [
+                2,
+                "participant of",
+                9
+            ],
+            [
+                11,
+                "participant of",
+                9
+            ],
+            [
+                9,
+                "participant",
+                15
+            ],
+            [
+                9,
+                "participant",
+                10
+            ],
+            [
+                9,
+                "participant",
+                17
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                6,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                10,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                15,
+                "located in the administrative territorial entity",
+                11
+            ],
+            [
+                15,
+                "participant of",
+                9
+            ],
+            [
+                10,
+                "participant of",
+                9
+            ],
+            [
+                16,
+                "located in the administrative territorial entity",
+                11
+            ],
+            [
+                14,
+                "located in the administrative territorial entity",
+                11
+            ],
+            [
+                17,
+                "participant of",
+                9
+            ]
+        ]
+    },
+    {
+        "id": 1,
+        "tokenized_text": [
+            "Brain",
+            "-",
+            "Washing",
+            ":",
+            "A",
+            "Synthesis",
+            "of",
+            "the",
+            "Russian",
+            "Textbook",
+            "on",
+            "Psychopolitics",
+            ",",
+            "sometimes",
+            "referred",
+            "to",
+            "as",
+            "The",
+            "Brainwashing",
+            "Manual",
+            ",",
+            "is",
+            "a",
+            "book",
+            "published",
+            "in",
+            "1955",
+            ".",
+            "It",
+            "purports",
+            "to",
+            "be",
+            "a",
+            "condensation",
+            "of",
+            "the",
+            "work",
+            "of",
+            "Lavrentiy",
+            "Beria",
+            ",",
+            "the",
+            "Soviet",
+            "secret",
+            "police",
+            "chief",
+            ".",
+            "The",
+            "book",
+            "states",
+            "Kenneth",
+            "Goff",
+            "as",
+            "author",
+            ".",
+            "Its",
+            "true",
+            "authorship",
+            "is",
+            "not",
+            "clear",
+            ",",
+            "the",
+            "three",
+            "common",
+            "hypotheses",
+            "being",
+            ":",
+            "Scientology",
+            "'s",
+            "founder",
+            "L.",
+            "Ron",
+            "Hubbard",
+            ",",
+            "Kenneth",
+            "Goff",
+            "(",
+            "alias",
+            "Oliver",
+            "Kenneth",
+            "Goff",
+            ")",
+            ",",
+            "or",
+            "both",
+            "L.",
+            "Ron",
+            "Hubbard",
+            "and",
+            "Kenneth",
+            "Goff",
+            "based",
+            "on",
+            "an",
+            "acquired",
+            "US",
+            "agency",
+            "report",
+            ".",
+            "The",
+            "third",
+            "hypothesis",
+            "is",
+            "questionable",
+            "as",
+            "there",
+            "is",
+            "not",
+            "proof",
+            "that",
+            "the",
+            "two",
+            "men",
+            "ever",
+            "knew",
+            "each",
+            "other",
+            ".",
+            "Claims",
+            "that",
+            "L.",
+            "Ron",
+            "Hubbard",
+            "was",
+            "the",
+            "author",
+            "are",
+            "also",
+            "dubious",
+            "as",
+            "the",
+            "only",
+            "source",
+            "of",
+            "this",
+            "claim",
+            "is",
+            "his",
+            "estranged",
+            "son",
+            ",",
+            "L",
+            "Ron",
+            "Hubbard",
+            "Jr.",
+            "It",
+            "is",
+            "also",
+            "sometimes",
+            "referred",
+            "to",
+            "as",
+            "The",
+            "Communist",
+            "Manual",
+            "of",
+            "Psycho",
+            "-",
+            "Political",
+            "Warfare",
+            "or",
+            "the",
+            "Communist",
+            "Manual",
+            "of",
+            "Instructions",
+            "of",
+            "Psychopolitical",
+            "Warfare",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Brain - Washing",
+                        "start": 0,
+                        "end": 2
+                    },
+                    {
+                        "value": "The Brainwashing Manual",
+                        "start": 17,
+                        "end": 19
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Russian",
+                        "start": 8,
+                        "end": 8
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "1955",
+                        "start": 26,
+                        "end": 26
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Lavrentiy Beria",
+                        "start": 38,
+                        "end": 39
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Soviet",
+                        "start": 42,
+                        "end": 42
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Kenneth Goff",
+                        "start": 50,
+                        "end": 51
+                    },
+                    {
+                        "value": "Kenneth Goff",
+                        "start": 75,
+                        "end": 76
+                    },
+                    {
+                        "value": "Kenneth Goff",
+                        "start": 90,
+                        "end": 91
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "three",
+                        "start": 63,
+                        "end": 63
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Scientology",
+                        "start": 68,
+                        "end": 68
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "L. Ron Hubbard",
+                        "start": 71,
+                        "end": 73
+                    },
+                    {
+                        "value": "L. Ron Hubbard",
+                        "start": 86,
+                        "end": 88
+                    },
+                    {
+                        "value": "L. Ron Hubbard",
+                        "start": 121,
+                        "end": 123
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Oliver Kenneth Goff",
+                        "start": 79,
+                        "end": 81
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "US",
+                        "start": 96,
+                        "end": 96
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "two",
+                        "start": 112,
+                        "end": 112
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "L Ron Hubbard Jr.",
+                        "start": 142,
+                        "end": 145
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "The Communist Manual of Psycho - Political Warfare",
+                        "start": 153,
+                        "end": 160
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "the Communist Manual of Instructions of Psychopolitical Warfare",
+                        "start": 162,
+                        "end": 169
+                    }
+                ],
+                "type": "MISC"
+            }
+        ],
+        "relations": [
+            [
+                8,
+                "child",
+                12
+            ],
+            [
+                12,
+                "father",
+                8
+            ],
+            [
+                0,
+                "publication date",
+                2
+            ],
+            [
+                3,
+                "country of citizenship",
+                4
+            ],
+            [
+                13,
+                "publication date",
+                2
+            ],
+            [
+                0,
+                "author",
+                5
+            ],
+            [
+                7,
+                "founded by",
+                8
+            ],
+            [
+                5,
+                "notable work",
+                0
+            ]
+        ]
+    },
+    {
+        "id": 2,
+        "tokenized_text": [
+            "Samantha",
+            "Jane",
+            "Sacramento",
+            "is",
+            "a",
+            "Gibraltar",
+            "politician",
+            ".",
+            "She",
+            "is",
+            "the",
+            "Minister",
+            "for",
+            "Housing",
+            "and",
+            "Equality",
+            "in",
+            "the",
+            "Government",
+            "of",
+            "Gibraltar",
+            ".",
+            "Samantha",
+            "Sacramento",
+            "was",
+            "born",
+            "in",
+            "Gibraltar",
+            ".",
+            "She",
+            "attended",
+            "school",
+            "in",
+            "Gibraltar",
+            "before",
+            "studying",
+            "Law",
+            "at",
+            "the",
+            "University",
+            "of",
+            "Wales",
+            "in",
+            "Cardiff",
+            ",",
+            "where",
+            "she",
+            "obtained",
+            "LLB",
+            "and",
+            "LLM",
+            "degrees",
+            ".",
+            "She",
+            "qualified",
+            "as",
+            "a",
+            "barrister",
+            "and",
+            "joined",
+            "the",
+            "Middle",
+            "Temple",
+            ".",
+            "Between",
+            "2001",
+            "and",
+            "2003",
+            "Sacramento",
+            "worked",
+            "in",
+            "the",
+            "legal",
+            "team",
+            "of",
+            "the",
+            "Commission",
+            "for",
+            "Racial",
+            "Equality",
+            "in",
+            "Cardiff",
+            ".",
+            "In",
+            "2004",
+            "she",
+            "returned",
+            "to",
+            "Gibraltar",
+            "where",
+            "she",
+            "practised",
+            "as",
+            "a",
+            "barrister",
+            ",",
+            "specialising",
+            "in",
+            "commercial",
+            "and",
+            "civil",
+            "litigation",
+            ".",
+            "Sacramento",
+            "was",
+            "elected",
+            "as",
+            "a",
+            "member",
+            "of",
+            "the",
+            "Gibraltar",
+            "Parliament",
+            "for",
+            "the",
+            "Gibraltar",
+            "Socialist",
+            "Labour",
+            "Party",
+            "in",
+            "the",
+            "December",
+            "2011",
+            "general",
+            "election",
+            ".",
+            "Following",
+            "the",
+            "election",
+            "she",
+            "was",
+            "appointed",
+            "Minister",
+            "for",
+            "Social",
+            "Services",
+            "and",
+            "Equality",
+            "in",
+            "the",
+            "government",
+            "of",
+            "Fabian",
+            "Picardo",
+            ",",
+            "becoming",
+            "Gibraltar",
+            "'s",
+            "first",
+            "minister",
+            "for",
+            "equality",
+            ".",
+            "In",
+            "June",
+            "2013",
+            "Sacramento",
+            "deputised",
+            "for",
+            "the",
+            "Chief",
+            "Minister",
+            "of",
+            "Gibraltar",
+            "during",
+            "his",
+            "absence",
+            "from",
+            "Gibraltar",
+            ",",
+            "becoming",
+            "the",
+            "first",
+            "woman",
+            "to",
+            "do",
+            "so",
+            ".",
+            "In",
+            "a",
+            "ministerial",
+            "reshuffle",
+            "in",
+            "2014",
+            "Sacramento",
+            "was",
+            "also",
+            "appointed",
+            "as",
+            "Minister",
+            "for",
+            "Tourism",
+            "and",
+            "Housing",
+            ".",
+            "In",
+            "the",
+            "2016",
+            "ministerial",
+            "reshuffle",
+            "Sacramento",
+            "became",
+            "Minister",
+            "for",
+            "Housing",
+            "and",
+            "Equality",
+            ",",
+            "which",
+            "included",
+            "responsibility",
+            "for",
+            "civic",
+            "rights",
+            ",",
+            "citizen",
+            "'s",
+            "advice",
+            ",",
+            "the",
+            "ombudsman",
+            "service",
+            ",",
+            "consumer",
+            "affairs",
+            ",",
+            "data",
+            "protection",
+            "and",
+            "health",
+            "and",
+            "safety",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Samantha Jane Sacramento",
+                        "start": 0,
+                        "end": 2
+                    },
+                    {
+                        "value": "Samantha Sacramento",
+                        "start": 22,
+                        "end": 23
+                    },
+                    {
+                        "value": "Sacramento",
+                        "start": 200,
+                        "end": 200
+                    },
+                    {
+                        "value": "Sacramento",
+                        "start": 156,
+                        "end": 156
+                    },
+                    {
+                        "value": "Sacramento",
+                        "start": 103,
+                        "end": 103
+                    },
+                    {
+                        "value": "Sacramento",
+                        "start": 68,
+                        "end": 68
+                    },
+                    {
+                        "value": "Sacramento",
+                        "start": 184,
+                        "end": 184
+                    },
+                    {
+                        "value": "Sacramento",
+                        "start": 68,
+                        "end": 68
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Gibraltar",
+                        "start": 88,
+                        "end": 88
+                    },
+                    {
+                        "value": "Gibraltar",
+                        "start": 168,
+                        "end": 168
+                    },
+                    {
+                        "value": "Gibraltar",
+                        "start": 33,
+                        "end": 33
+                    },
+                    {
+                        "value": "Gibraltar",
+                        "start": 27,
+                        "end": 27
+                    },
+                    {
+                        "value": "Gibraltar",
+                        "start": 5,
+                        "end": 5
+                    },
+                    {
+                        "value": "Gibraltar",
+                        "start": 146,
+                        "end": 146
+                    },
+                    {
+                        "value": "Gibraltar",
+                        "start": 163,
+                        "end": 163
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Housing and Equality",
+                        "start": 13,
+                        "end": 15
+                    },
+                    {
+                        "value": "Housing and Equality",
+                        "start": 204,
+                        "end": 206
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Government of Gibraltar",
+                        "start": 18,
+                        "end": 20
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "University of Wales",
+                        "start": 39,
+                        "end": 41
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Cardiff",
+                        "start": 43,
+                        "end": 43
+                    },
+                    {
+                        "value": "Cardiff",
+                        "start": 81,
+                        "end": 81
+                    },
+                    {
+                        "value": "Cardiff",
+                        "start": 81,
+                        "end": 81
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Middle Temple",
+                        "start": 61,
+                        "end": 62
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "2001",
+                        "start": 65,
+                        "end": 65
+                    },
+                    {
+                        "value": "2001",
+                        "start": 65,
+                        "end": 65
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "2003",
+                        "start": 67,
+                        "end": 67
+                    },
+                    {
+                        "value": "2003",
+                        "start": 67,
+                        "end": 67
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Commission for Racial Equality",
+                        "start": 76,
+                        "end": 79
+                    },
+                    {
+                        "value": "Commission for Racial Equality",
+                        "start": 76,
+                        "end": 79
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "2004",
+                        "start": 84,
+                        "end": 84
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Gibraltar Parliament",
+                        "start": 111,
+                        "end": 112
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Gibraltar Socialist Labour Party",
+                        "start": 115,
+                        "end": 118
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "December 2011",
+                        "start": 121,
+                        "end": 122
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Social Services and Equality",
+                        "start": 134,
+                        "end": 137
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Fabian Picardo",
+                        "start": 142,
+                        "end": 143
+                    },
+                    {
+                        "value": "Fabian Picardo",
+                        "start": 142,
+                        "end": 143
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "June 2013",
+                        "start": 154,
+                        "end": 155
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "2014",
+                        "start": 183,
+                        "end": 183
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "Tourism and Housing",
+                        "start": 191,
+                        "end": 193
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "2016",
+                        "start": 197,
+                        "end": 197
+                    }
+                ],
+                "type": "TIME"
+            }
+        ],
+        "relations": [
+            [
+                0,
+                "educated at",
+                4
+            ],
+            [
+                0,
+                "member of political party",
+                12
+            ],
+            [
+                0,
+                "place of birth",
+                1
+            ],
+            [
+                0,
+                "country of citizenship",
+                1
+            ],
+            [
+                4,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                11,
+                "applies to jurisdiction",
+                1
+            ],
+            [
+                3,
+                "located in the administrative territorial entity",
+                1
+            ],
+            [
+                1,
+                "legislative body",
+                11
+            ],
+            [
+                1,
+                "head of government",
+                15
+            ],
+            [
+                15,
+                "country of citizenship",
+                1
+            ],
+            [
+                15,
+                "place of birth",
+                1
+            ],
+            [
+                12,
+                "located in the administrative territorial entity",
+                1
+            ],
+            [
+                3,
+                "applies to jurisdiction",
+                1
+            ],
+            [
+                3,
+                "country",
+                1
+            ],
+            [
+                12,
+                "country",
+                1
+            ],
+            [
+                11,
+                "country",
+                1
+            ],
+            [
+                15,
+                "member of",
+                12
+            ],
+            [
+                15,
+                "applies to jurisdiction",
+                1
+            ],
+            [
+                11,
+                "located in the administrative territorial entity",
+                1
+            ]
+        ]
+    },
+    {
+        "id": 3,
+        "tokenized_text": [
+            "Martti",
+            "Aiha",
+            "(",
+            "born",
+            "1952",
+            ")",
+            "is",
+            "a",
+            "sculptor",
+            "from",
+            "Finland",
+            ".",
+            "He",
+            "was",
+            "born",
+            "in",
+            "Pudasjärvi",
+            "and",
+            "works",
+            "in",
+            "Fiskars",
+            ".",
+            "He",
+            "has",
+            "made",
+            "abstracted",
+            "sculptured",
+            "wall",
+            "reliefs",
+            "and",
+            "free",
+            "-",
+            "standing",
+            "sculptures",
+            ".",
+            "His",
+            "reliefs",
+            "made",
+            "of",
+            "transparent",
+            "acrylic",
+            "sheet",
+            "give",
+            "an",
+            "impression",
+            "of",
+            "immateriality",
+            ",",
+            "incorporeality",
+            "and",
+            "weightlessness",
+            ".",
+            "The",
+            "ornamental",
+            ",",
+            "flame",
+            "-",
+            "like",
+            "living",
+            "shapes",
+            "have",
+            "become",
+            "his",
+            "trademark",
+            ".",
+            "In",
+            "addition",
+            "of",
+            "acrylic",
+            "and",
+            "plywood",
+            ",",
+            "he",
+            "works",
+            "with",
+            "metal",
+            ",",
+            "wood",
+            "or",
+            "plastic",
+            ".",
+            "Many",
+            "of",
+            "Aiha",
+            "'s",
+            "works",
+            "are",
+            "related",
+            "to",
+            "his",
+            "curiosity",
+            "of",
+            "our",
+            "use",
+            "of",
+            "public",
+            "space",
+            ".",
+            "Aiha",
+            "'s",
+            "15",
+            "metres",
+            "high",
+            "sculpture",
+            "Rumba",
+            "in",
+            "black",
+            "-",
+            "painted",
+            "aluminium",
+            "was",
+            "donated",
+            "to",
+            "the",
+            "City",
+            "of",
+            "Helsinki",
+            "by",
+            "Alko",
+            ",",
+            "the",
+            "government",
+            "-",
+            "owned",
+            "alcohol",
+            "company",
+            ",",
+            "in",
+            "context",
+            "of",
+            "Alko",
+            "'s",
+            "60th",
+            "anniversary",
+            ".",
+            "The",
+            "sculpture",
+            "is",
+            "located",
+            "in",
+            "Salmisaari",
+            ",",
+            "near",
+            "Alko",
+            "'s",
+            "then",
+            "headquarters",
+            ".",
+            "Aiha",
+            "received",
+            "the",
+            "Swedish",
+            "Prince",
+            "Eugen",
+            "Medal",
+            "in",
+            "2013",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Martti Aiha",
+                        "start": 0,
+                        "end": 1
+                    },
+                    {
+                        "value": "Aiha",
+                        "start": 148,
+                        "end": 148
+                    },
+                    {
+                        "value": "Aiha",
+                        "start": 98,
+                        "end": 98
+                    },
+                    {
+                        "value": "Aiha",
+                        "start": 83,
+                        "end": 83
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "1952",
+                        "start": 4,
+                        "end": 4
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Finland",
+                        "start": 10,
+                        "end": 10
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Pudasjärvi",
+                        "start": 16,
+                        "end": 16
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Fiskars",
+                        "start": 20,
+                        "end": 20
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "15 metres",
+                        "start": 100,
+                        "end": 101
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Rumba",
+                        "start": 104,
+                        "end": 104
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "City of Helsinki",
+                        "start": 114,
+                        "end": 116
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Alko",
+                        "start": 118,
+                        "end": 118
+                    },
+                    {
+                        "value": "Alko",
+                        "start": 143,
+                        "end": 143
+                    },
+                    {
+                        "value": "Alko",
+                        "start": 130,
+                        "end": 130
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Salmisaari",
+                        "start": 140,
+                        "end": 140
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Swedish",
+                        "start": 151,
+                        "end": 151
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Prince Eugen Medal",
+                        "start": 152,
+                        "end": 154
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "2013",
+                        "start": 156,
+                        "end": 156
+                    }
+                ],
+                "type": "TIME"
+            }
+        ],
+        "relations": [
+            [
+                8,
+                "headquarters location",
+                7
+            ],
+            [
+                0,
+                "date of birth",
+                1
+            ],
+            [
+                0,
+                "country of citizenship",
+                2
+            ],
+            [
+                0,
+                "place of birth",
+                3
+            ],
+            [
+                0,
+                "award received",
+                11
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                7
+            ],
+            [
+                8,
+                "country",
+                2
+            ],
+            [
+                7,
+                "country",
+                2
+            ],
+            [
+                9,
+                "country",
+                2
+            ],
+            [
+                11,
+                "country",
+                10
+            ],
+            [
+                6,
+                "creator",
+                0
+            ],
+            [
+                3,
+                "country",
+                2
+            ],
+            [
+                8,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                3,
+                "located in the administrative territorial entity",
+                2
+            ]
+        ]
+    },
+    {
+        "id": 4,
+        "tokenized_text": [
+            "Ultimo",
+            "mondo",
+            "cannibale",
+            "(",
+            "English",
+            ":",
+            "Last",
+            "Cannibal",
+            "World",
+            ";",
+            "also",
+            "known",
+            "as",
+            "Cannibal",
+            "The",
+            "Last",
+            "Survivor",
+            "and",
+            "Jungle",
+            "Holocaust",
+            ")",
+            "is",
+            "a",
+            "1977",
+            "Italian",
+            "cannibal",
+            "exploitation",
+            "film",
+            "directed",
+            "by",
+            "Ruggero",
+            "Deodato",
+            ".",
+            "The",
+            "film",
+            "stars",
+            "Massimo",
+            "Foschi",
+            ",",
+            "Me",
+            "Me",
+            "Lai",
+            "and",
+            "Ivan",
+            "Rassimov",
+            ".",
+            "The",
+            "screenplay",
+            "was",
+            "written",
+            "by",
+            "Tito",
+            "Carpi",
+            ",",
+            "Gianfranco",
+            "Clerici",
+            "and",
+            "Renzo",
+            "Genta",
+            ",",
+            "and",
+            "tells",
+            "the",
+            "story",
+            "of",
+            "a",
+            "man",
+            "trying",
+            "to",
+            "escape",
+            "from",
+            "a",
+            "jungle",
+            "island",
+            "inhabited",
+            "by",
+            "a",
+            "native",
+            "cannibal",
+            "tribe",
+            ".",
+            "It",
+            "is",
+            "the",
+            "precursor",
+            "to",
+            "Deodato",
+            "'s",
+            "notoriously",
+            "controversial",
+            "Cannibal",
+            "Holocaust",
+            "(",
+            "1980",
+            ")",
+            ",",
+            "but",
+            "was",
+            "originally",
+            "slated",
+            "to",
+            "be",
+            "directed",
+            "by",
+            "Umberto",
+            "Lenzi",
+            "as",
+            "a",
+            "follow",
+            "-",
+            "up",
+            "to",
+            "his",
+            "prototypical",
+            "1972",
+            "cannibal",
+            "film",
+            "Man",
+            "from",
+            "Deep",
+            "River",
+            ".",
+            "While",
+            "not",
+            "prosecuted",
+            "for",
+            "obscenity",
+            ",",
+            "the",
+            "film",
+            "was",
+            "seized",
+            "and",
+            "confiscated",
+            "in",
+            "the",
+            "UK",
+            "under",
+            "Section",
+            "3",
+            "of",
+            "the",
+            "Obscene",
+            "Publications",
+            "Act",
+            "1959",
+            "during",
+            "the",
+            "video",
+            "nasty",
+            "panic",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Last Cannibal World",
+                        "start": 6,
+                        "end": 8
+                    },
+                    {
+                        "value": "Ultimo mondo cannibale",
+                        "start": 0,
+                        "end": 2
+                    },
+                    {
+                        "value": "Cannibal The Last Survivor and Jungle Holocaust",
+                        "start": 13,
+                        "end": 19
+                    },
+                    {
+                        "value": "Ultimo mondo cannibale",
+                        "start": 0,
+                        "end": 2
+                    },
+                    {
+                        "value": "Last Cannibal World",
+                        "start": 6,
+                        "end": 8
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "English",
+                        "start": 4,
+                        "end": 4
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "1977",
+                        "start": 23,
+                        "end": 23
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Italian",
+                        "start": 24,
+                        "end": 24
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Ruggero Deodato",
+                        "start": 30,
+                        "end": 31
+                    },
+                    {
+                        "value": "Deodato",
+                        "start": 86,
+                        "end": 86
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Massimo Foschi",
+                        "start": 36,
+                        "end": 37
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Me Me Lai",
+                        "start": 39,
+                        "end": 41
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Ivan Rassimov",
+                        "start": 43,
+                        "end": 44
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Tito Carpi",
+                        "start": 51,
+                        "end": 52
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Gianfranco Clerici",
+                        "start": 54,
+                        "end": 55
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Renzo Genta",
+                        "start": 57,
+                        "end": 58
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Cannibal Holocaust",
+                        "start": 90,
+                        "end": 91
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "1980",
+                        "start": 93,
+                        "end": 93
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Umberto Lenzi",
+                        "start": 104,
+                        "end": 105
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "1972",
+                        "start": 114,
+                        "end": 114
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Man from Deep River",
+                        "start": 117,
+                        "end": 120
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "UK",
+                        "start": 136,
+                        "end": 136
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Obscene Publications Act 1959",
+                        "start": 142,
+                        "end": 145
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "video nasty",
+                        "start": 148,
+                        "end": 149
+                    }
+                ],
+                "type": "MISC"
+            }
+        ],
+        "relations": [
+            [
+                4,
+                "country of citizenship",
+                16
+            ],
+            [
+                7,
+                "country of citizenship",
+                16
+            ],
+            [
+                8,
+                "country of citizenship",
+                16
+            ],
+            [
+                9,
+                "country of citizenship",
+                16
+            ],
+            [
+                10,
+                "country of citizenship",
+                16
+            ],
+            [
+                11,
+                "director",
+                4
+            ],
+            [
+                11,
+                "publication date",
+                12
+            ],
+            [
+                11,
+                "country of origin",
+                16
+            ],
+            [
+                15,
+                "director",
+                13
+            ],
+            [
+                15,
+                "publication date",
+                14
+            ],
+            [
+                0,
+                "publication date",
+                2
+            ],
+            [
+                0,
+                "director",
+                4
+            ],
+            [
+                0,
+                "cast member",
+                7
+            ],
+            [
+                0,
+                "screenwriter",
+                8
+            ],
+            [
+                0,
+                "screenwriter",
+                9
+            ],
+            [
+                0,
+                "country of origin",
+                16
+            ],
+            [
+                0,
+                "cast member",
+                5
+            ],
+            [
+                0,
+                "cast member",
+                6
+            ],
+            [
+                5,
+                "country of citizenship",
+                16
+            ],
+            [
+                6,
+                "country of citizenship",
+                16
+            ],
+            [
+                0,
+                "screenwriter",
+                10
+            ],
+            [
+                4,
+                "notable work",
+                11
+            ],
+            [
+                13,
+                "notable work",
+                15
+            ],
+            [
+                4,
+                "notable work",
+                0
+            ]
+        ]
+    },
+    {
+        "id": 5,
+        "tokenized_text": [
+            "Embedded",
+            "Visual",
+            "Basic",
+            "or",
+            "eVB",
+            ",",
+            "is",
+            "an",
+            "implementation",
+            "of",
+            "Microsoft",
+            "Visual",
+            "Basic",
+            "which",
+            "is",
+            "geared",
+            "towards",
+            "generating",
+            "programmes",
+            "for",
+            "embedded",
+            "systems",
+            "such",
+            "as",
+            "PDAs",
+            ",",
+            "cellular",
+            "telephones",
+            ",",
+            "modern",
+            "pocket",
+            "computers",
+            "and",
+            "other",
+            "programmable",
+            "electronic",
+            "systems",
+            "and",
+            "devices",
+            ",",
+            "generally",
+            "for",
+            "use",
+            "under",
+            "Windows",
+            "CE",
+            ".",
+            "The",
+            "tools",
+            "themselves",
+            "run",
+            "on",
+            "desktop",
+            "operating",
+            "systems",
+            "such",
+            "as",
+            "Windows",
+            "98",
+            ",",
+            "Windows",
+            "NT",
+            ",",
+            "Windows",
+            "XP",
+            "and",
+            "subsequent",
+            ".",
+            "The",
+            "tools",
+            "are",
+            "also",
+            "capable",
+            "of",
+            "compiling",
+            "executables",
+            "for",
+            "Windows",
+            "NT",
+            "Embedded",
+            "as",
+            "well",
+            ".",
+            "Embedded",
+            "Visual",
+            "Basic",
+            "is",
+            "available",
+            "from",
+            "Microsoft",
+            ",",
+            "as",
+            "are",
+            "other",
+            "such",
+            "tools",
+            "including",
+            "Embedded",
+            "Visual",
+            "C++",
+            "(",
+            "eVC++",
+            ")",
+            ",",
+            "which",
+            "is",
+            "discussed",
+            "in",
+            "the",
+            "Wikipedia",
+            "article",
+            "about",
+            "Microsoft",
+            "Visual",
+            "C++",
+            ",",
+            "and",
+            "Embedded",
+            "Visual",
+            "J++",
+            "(",
+            "eVJ++",
+            ")",
+            ",",
+            "as",
+            "well",
+            "as",
+            "other",
+            "development",
+            "tools",
+            "and",
+            "a",
+            "relational",
+            "database",
+            "system",
+            "for",
+            "Windows",
+            "CE",
+            "(",
+            "a",
+            "de",
+            "facto",
+            "Visual",
+            "FoxPro",
+            "replacement",
+            ")",
+            ".",
+            "A",
+            "centrally",
+            "important",
+            "Windows",
+            "CE",
+            "-",
+            "related",
+            "tool",
+            "is",
+            "ActiveSync",
+            ",",
+            "which",
+            "allows",
+            "access",
+            "of",
+            "a",
+            "device",
+            "from",
+            "a",
+            "desktop",
+            "computer",
+            "as",
+            "well",
+            "as",
+            "Control",
+            "Panel",
+            "functionality",
+            "(",
+            "e.g.",
+            "Install",
+            "&",
+            "Uninstall",
+            "Programmes",
+            ")",
+            ".",
+            "Amongst",
+            "other",
+            "tools",
+            "is",
+            "a",
+            "version",
+            "of",
+            "RegEdit",
+            "for",
+            "Windows",
+            "CE",
+            ".",
+            "The",
+            "implementations",
+            "of",
+            "these",
+            "tools",
+            "provide",
+            "objects",
+            "and",
+            "components",
+            "which",
+            "can",
+            "be",
+            "used",
+            "to",
+            "write",
+            "programmes",
+            "which",
+            "automate",
+            "Microsoft",
+            "Office",
+            "'s",
+            "Pocket",
+            "versions",
+            ",",
+            "which",
+            "would",
+            "be",
+            "the",
+            "one",
+            "way",
+            "to",
+            "get",
+            "scripting",
+            "and",
+            "macro",
+            "capability",
+            "for",
+            "the",
+            "Pocket",
+            "office",
+            "suite",
+            ".",
+            "There",
+            "is",
+            "not",
+            "an",
+            "Embedded",
+            "Visual",
+            "InterDev",
+            "version",
+            ",",
+            "nor",
+            "have",
+            "MSDN",
+            "or",
+            "Visual",
+            "Source",
+            "Safe",
+            "been",
+            "ported",
+            "to",
+            "Windows",
+            "CE",
+            ".",
+            "The",
+            "other",
+            "means",
+            "of",
+            "obtaining",
+            "Visual",
+            "Basic",
+            "functionality",
+            "under",
+            "Windows",
+            "CE",
+            "is",
+            "to",
+            "install",
+            "the",
+            "Windows",
+            "Script",
+            "Host",
+            "implementation",
+            "which",
+            "is",
+            "a",
+            "non",
+            "-",
+            "default",
+            "install",
+            "available",
+            "from",
+            "the",
+            "installation",
+            "CD",
+            "-",
+            "Rom",
+            ".",
+            "Version",
+            "3",
+            "of",
+            "the",
+            "embedded",
+            "Visual",
+            "Basic",
+            ",",
+            "Visual",
+            "J++",
+            ",",
+            "and",
+            "Visual",
+            "C++",
+            "tools",
+            "approximate",
+            "the",
+            "language",
+            "and",
+            "implementation",
+            "of",
+            "Visual",
+            "Basic",
+            "6.0",
+            ",",
+            "Visual",
+            "J++",
+            "6.0",
+            ",",
+            "and",
+            "Visual",
+            "C++",
+            "6.0",
+            ".",
+            "The",
+            "CD",
+            "-",
+            "Roms",
+            "for",
+            "installation",
+            "of",
+            "these",
+            "tools",
+            "have",
+            "been",
+            "provided",
+            "for",
+            "free",
+            "from",
+            "Microsoft",
+            ".",
+            "A",
+            "further",
+            "update",
+            "of",
+            "the",
+            "latter",
+            ",",
+            "version",
+            "4.5",
+            ",",
+            "is",
+            "also",
+            "available",
+            ".",
+            "Programming",
+            "tools",
+            "for",
+            ".NET",
+            "systems",
+            "are",
+            "also",
+            "produced",
+            "by",
+            "Microsoft",
+            "One",
+            "Basic",
+            "development",
+            "tool",
+            "which",
+            "can",
+            "be",
+            "run",
+            "on",
+            "board",
+            "the",
+            "Windows",
+            "CE",
+            "machines",
+            "themselves",
+            "is",
+            "the",
+            "third",
+            "-",
+            "party",
+            "NS",
+            "BASIC"
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Embedded Visual Basic",
+                        "start": 0,
+                        "end": 2
+                    },
+                    {
+                        "value": "eVB",
+                        "start": 4,
+                        "end": 4
+                    },
+                    {
+                        "value": "Embedded Visual Basic",
+                        "start": 83,
+                        "end": 85
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Microsoft Visual Basic",
+                        "start": 10,
+                        "end": 12
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "PDAs",
+                        "start": 24,
+                        "end": 24
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Windows CE",
+                        "start": 267,
+                        "end": 268
+                    },
+                    {
+                        "value": "Windows CE",
+                        "start": 191,
+                        "end": 192
+                    },
+                    {
+                        "value": "Windows CE",
+                        "start": 136,
+                        "end": 137
+                    },
+                    {
+                        "value": "Windows CE",
+                        "start": 44,
+                        "end": 45
+                    },
+                    {
+                        "value": "Windows CE",
+                        "start": 150,
+                        "end": 151
+                    },
+                    {
+                        "value": "Windows CE",
+                        "start": 255,
+                        "end": 256
+                    },
+                    {
+                        "value": "Windows CE",
+                        "start": 378,
+                        "end": 379
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Windows 98",
+                        "start": 57,
+                        "end": 58
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Windows NT",
+                        "start": 60,
+                        "end": 61
+                    },
+                    {
+                        "value": "Windows NT",
+                        "start": 77,
+                        "end": 78
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Windows XP",
+                        "start": 63,
+                        "end": 64
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Microsoft",
+                        "start": 89,
+                        "end": 89
+                    },
+                    {
+                        "value": "Microsoft",
+                        "start": 341,
+                        "end": 341
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Embedded Visual C++",
+                        "start": 97,
+                        "end": 99
+                    },
+                    {
+                        "value": "eVC++",
+                        "start": 101,
+                        "end": 101
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Wikipedia",
+                        "start": 109,
+                        "end": 109
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Microsoft Visual C++",
+                        "start": 112,
+                        "end": 114
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Embedded Visual J++",
+                        "start": 117,
+                        "end": 119
+                    },
+                    {
+                        "value": "eVJ++",
+                        "start": 121,
+                        "end": 121
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Visual FoxPro",
+                        "start": 142,
+                        "end": 143
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "ActiveSync",
+                        "start": 156,
+                        "end": 156
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Control Panel",
+                        "start": 171,
+                        "end": 172
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Install & Uninstall Programmes",
+                        "start": 176,
+                        "end": 179
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "RegEdit",
+                        "start": 189,
+                        "end": 189
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Microsoft Office",
+                        "start": 212,
+                        "end": 213
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "Pocket",
+                        "start": 215,
+                        "end": 215
+                    },
+                    {
+                        "value": "Pocket",
+                        "start": 232,
+                        "end": 232
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "Embedded Visual InterDev",
+                        "start": 240,
+                        "end": 242
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    {
+                        "value": "MSDN",
+                        "start": 247,
+                        "end": 247
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    {
+                        "value": "Visual Source Safe",
+                        "start": 249,
+                        "end": 251
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    {
+                        "value": "Visual Basic",
+                        "start": 297,
+                        "end": 298
+                    },
+                    {
+                        "value": "Visual Basic",
+                        "start": 263,
+                        "end": 264
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    {
+                        "value": "Windows Script Host",
+                        "start": 273,
+                        "end": 275
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    {
+                        "value": "CD - Rom",
+                        "start": 288,
+                        "end": 290
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    {
+                        "value": "Visual J++",
+                        "start": 300,
+                        "end": 301
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    {
+                        "value": "Visual C++",
+                        "start": 304,
+                        "end": 305
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    {
+                        "value": "Visual Basic 6.0",
+                        "start": 313,
+                        "end": 315
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    {
+                        "value": "Visual J++ 6.0",
+                        "start": 317,
+                        "end": 319
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    {
+                        "value": "Visual C++ 6.0",
+                        "start": 322,
+                        "end": 324
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    {
+                        "value": "CD - Roms",
+                        "start": 327,
+                        "end": 329
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    {
+                        "value": ".NET",
+                        "start": 360,
+                        "end": 360
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    {
+                        "value": "Microsoft One Basic",
+                        "start": 366,
+                        "end": 368
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    {
+                        "value": "NS BASIC",
+                        "start": 387,
+                        "end": 388
+                    }
+                ],
+                "type": "MISC"
+            }
+        ],
+        "relations": [
+            [
+                8,
+                "developer",
+                7
+            ],
+            [
+                1,
+                "developer",
+                7
+            ],
+            [
+                25,
+                "developer",
+                7
+            ],
+            [
+                26,
+                "developer",
+                7
+            ],
+            [
+                7,
+                "product or material produced",
+                17
+            ],
+            [
+                10,
+                "developer",
+                7
+            ],
+            [
+                17,
+                "developer",
+                7
+            ],
+            [
+                16,
+                "developer",
+                7
+            ],
+            [
+                28,
+                "developer",
+                7
+            ],
+            [
+                3,
+                "developer",
+                7
+            ],
+            [
+                29,
+                "developer",
+                7
+            ],
+            [
+                6,
+                "series",
+                5
+            ],
+            [
+                12,
+                "developer",
+                7
+            ],
+            [
+                13,
+                "developer",
+                7
+            ],
+            [
+                19,
+                "developer",
+                7
+            ],
+            [
+                5,
+                "developer",
+                7
+            ],
+            [
+                7,
+                "product or material produced",
+                10
+            ],
+            [
+                7,
+                "product or material produced",
+                20
+            ],
+            [
+                11,
+                "developer",
+                7
+            ],
+            [
+                22,
+                "developer",
+                7
+            ],
+            [
+                7,
+                "product or material produced",
+                5
+            ],
+            [
+                31,
+                "developer",
+                7
+            ],
+            [
+                7,
+                "product or material produced",
+                31
+            ],
+            [
+                23,
+                "developer",
+                7
+            ],
+            [
+                32,
+                "developer",
+                7
+            ],
+            [
+                27,
+                "developer",
+                7
+            ],
+            [
+                14,
+                "developer",
+                7
+            ],
+            [
+                27,
+                "subclass of",
+                1
+            ],
+            [
+                6,
+                "manufacturer",
+                7
+            ],
+            [
+                20,
+                "developer",
+                7
+            ],
+            [
+                29,
+                "subclass of",
+                26
+            ],
+            [
+                4,
+                "developer",
+                7
+            ],
+            [
+                6,
+                "developer",
+                7
+            ],
+            [
+                0,
+                "developer",
+                7
+            ],
+            [
+                21,
+                "developer",
+                7
+            ],
+            [
+                5,
+                "has part",
+                6
+            ]
+        ]
+    },
+    {
+        "id": 6,
+        "tokenized_text": [
+            "Epic",
+            "And",
+            "Other",
+            "Hits",
+            "is",
+            "a",
+            "compilation",
+            "album",
+            "released",
+            "by",
+            "Faith",
+            "No",
+            "More",
+            "in",
+            "2005",
+            ".",
+            "Despite",
+            "the",
+            "album",
+            "'s",
+            "title",
+            ",",
+            "only",
+            "a",
+            "handful",
+            "of",
+            "songs",
+            "on",
+            "it",
+            "are",
+            "actual",
+            "hits",
+            ",",
+            "even",
+            "though",
+            "the",
+            "band",
+            "had",
+            "other",
+            "hits",
+            "which",
+            "do",
+            "not",
+            "appear",
+            "here",
+            ".",
+            "The",
+            "compilation",
+            "greatly",
+            "focuses",
+            "on",
+            "the",
+            "band",
+            "'s",
+            "1989",
+            "album",
+            "The",
+            "Real",
+            "Thing",
+            ",",
+            "with",
+            "six",
+            "out",
+            "of",
+            "the",
+            "ten",
+            "tracks",
+            "taken",
+            "from",
+            "it",
+            ".",
+            "Epic",
+            "And",
+            "Other",
+            "Hits",
+            "is",
+            "generally",
+            "considered",
+            "a",
+            "\"",
+            "weak",
+            "\"",
+            "compilation",
+            ",",
+            "and",
+            "many",
+            "fans",
+            "see",
+            "it",
+            "as",
+            "a",
+            "way",
+            "to",
+            "cash",
+            "in",
+            "on",
+            "the",
+            "success",
+            "of",
+            "Mike",
+            "Patton",
+            ".",
+            "Most",
+            "notably",
+            ",",
+            "the",
+            "Mosley",
+            "-",
+            "era",
+            "track",
+            "\"",
+            "Arabian",
+            "Disco",
+            "\"",
+            "is",
+            "included",
+            ",",
+            "from",
+            "the",
+            "We",
+            "Care",
+            "A",
+            "Lot",
+            "album",
+            ",",
+            "which",
+            "is",
+            "currently",
+            "out",
+            "of",
+            "print",
+            "on",
+            "CD",
+            ".",
+            "The",
+            "album",
+            "also",
+            "contains",
+            "no",
+            "tracks",
+            "from",
+            "King",
+            "for",
+            "a",
+            "Day",
+            "...",
+            "Fool",
+            "for",
+            "a",
+            "Lifetime",
+            "or",
+            "Introduce",
+            "Yourself",
+            ".",
+            "It",
+            "is",
+            "presumed",
+            "that",
+            "this",
+            "album",
+            "consists",
+            "of",
+            "a",
+            "small",
+            "selection",
+            "of",
+            "songs",
+            "licensed",
+            "by",
+            "Warner",
+            "Bros",
+            "Records",
+            "to",
+            "the",
+            "budget",
+            "label",
+            "Flashback",
+            ",",
+            "and",
+            "as",
+            "such",
+            "no",
+            "other",
+            "songs",
+            "could",
+            "be",
+            "included",
+            "without",
+            "breaching",
+            "copyright",
+            ".",
+            "This",
+            "compilation",
+            "is",
+            "generally",
+            "not",
+            "mentioned",
+            "in",
+            "the",
+            "band",
+            "'s",
+            "canon",
+            "due",
+            "to",
+            "their",
+            "lack",
+            "of",
+            "involvement",
+            "in",
+            "it",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Epic And Other Hits",
+                        "start": 0,
+                        "end": 3
+                    },
+                    {
+                        "value": "Epic And Other Hits",
+                        "start": 71,
+                        "end": 74
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Faith No More",
+                        "start": 10,
+                        "end": 12
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "2005",
+                        "start": 14,
+                        "end": 14
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "1989",
+                        "start": 54,
+                        "end": 54
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "The Real Thing",
+                        "start": 56,
+                        "end": 58
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "six",
+                        "start": 61,
+                        "end": 61
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "ten",
+                        "start": 65,
+                        "end": 65
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Mike Patton",
+                        "start": 99,
+                        "end": 100
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Mosley",
+                        "start": 106,
+                        "end": 106
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Arabian Disco",
+                        "start": 111,
+                        "end": 112
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "We Care A Lot",
+                        "start": 119,
+                        "end": 122
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "King for a Day ... Fool for a Lifetime",
+                        "start": 141,
+                        "end": 149
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Introduce Yourself",
+                        "start": 151,
+                        "end": 152
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Warner Bros Records",
+                        "start": 169,
+                        "end": 171
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Flashback",
+                        "start": 176,
+                        "end": 176
+                    }
+                ],
+                "type": "ORG"
+            }
+        ],
+        "relations": [
+            [
+                10,
+                "performer",
+                1
+            ],
+            [
+                0,
+                "publication date",
+                2
+            ],
+            [
+                0,
+                "record label",
+                13
+            ],
+            [
+                0,
+                "performer",
+                1
+            ],
+            [
+                4,
+                "publication date",
+                3
+            ],
+            [
+                4,
+                "performer",
+                1
+            ],
+            [
+                12,
+                "performer",
+                1
+            ],
+            [
+                9,
+                "performer",
+                1
+            ],
+            [
+                1,
+                "has part",
+                7
+            ],
+            [
+                11,
+                "performer",
+                1
+            ],
+            [
+                7,
+                "member of",
+                1
+            ],
+            [
+                9,
+                "part of",
+                10
+            ],
+            [
+                1,
+                "notable work",
+                10
+            ],
+            [
+                1,
+                "notable work",
+                0
+            ],
+            [
+                1,
+                "notable work",
+                4
+            ],
+            [
+                1,
+                "notable work",
+                12
+            ],
+            [
+                1,
+                "notable work",
+                9
+            ],
+            [
+                7,
+                "part of",
+                1
+            ],
+            [
+                1,
+                "notable work",
+                11
+            ],
+            [
+                10,
+                "has part",
+                9
+            ]
+        ]
+    },
+    {
+        "id": 7,
+        "tokenized_text": [
+            "Siebe",
+            "Gorman",
+            "&",
+            "Company",
+            "Ltd",
+            "was",
+            "a",
+            "British",
+            "company",
+            "that",
+            "developed",
+            "diving",
+            "equipment",
+            "and",
+            "breathing",
+            "equipment",
+            "and",
+            "worked",
+            "on",
+            "commercial",
+            "diving",
+            "and",
+            "marine",
+            "salvage",
+            "projects",
+            ".",
+            "The",
+            "company",
+            "advertised",
+            "itself",
+            "as",
+            "'",
+            "Submarine",
+            "Engineers",
+            "'",
+            ".",
+            "It",
+            "was",
+            "founded",
+            "by",
+            "Augustus",
+            "Siebe",
+            ",",
+            "a",
+            "German",
+            "-",
+            "born",
+            "British",
+            "engineer",
+            "chiefly",
+            "known",
+            "for",
+            "his",
+            "contributions",
+            "to",
+            "diving",
+            "equipment",
+            ".",
+            "Siebe",
+            "plc",
+            "started",
+            "in",
+            "the",
+            "1970s",
+            "as",
+            "a",
+            "continuation",
+            "of",
+            "Siebe",
+            "Gorman",
+            "when",
+            "Siebe",
+            "Gorman",
+            "started",
+            "to",
+            "take",
+            "over",
+            "other",
+            "firms",
+            ",",
+            "to",
+            "mean",
+            "the",
+            "new",
+            "conglomerate",
+            "to",
+            "distinguish",
+            "it",
+            "from",
+            "Siebe",
+            "Gorman",
+            "'s",
+            "original",
+            "breathing",
+            "apparatus",
+            "and",
+            "diving",
+            "gear",
+            "core",
+            "business",
+            ".",
+            "Siebe",
+            "plc",
+            "was",
+            "once",
+            "one",
+            "of",
+            "the",
+            "United",
+            "Kingdom",
+            "'s",
+            "largest",
+            "engineering",
+            "businesses",
+            ".",
+            "It",
+            "was",
+            "a",
+            "constituent",
+            "of",
+            "the",
+            "FTSE",
+            "100",
+            "Index",
+            "but",
+            "in",
+            "1999",
+            "it",
+            "merged",
+            "with",
+            "BTR",
+            "plc",
+            "to",
+            "form",
+            "Invensys",
+            ".",
+            "Invensys",
+            "was",
+            "taken",
+            "over",
+            "by",
+            "the",
+            "French",
+            "multinational",
+            "Schneider",
+            "Electric",
+            "for",
+            "£",
+            "3.4",
+            "billion",
+            "in",
+            "January",
+            "2014",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Siebe Gorman & Company Ltd",
+                        "start": 0,
+                        "end": 4
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "British",
+                        "start": 7,
+                        "end": 7
+                    },
+                    {
+                        "value": "British",
+                        "start": 47,
+                        "end": 47
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Submarine Engineers",
+                        "start": 32,
+                        "end": 33
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Augustus Siebe",
+                        "start": 40,
+                        "end": 41
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "German",
+                        "start": 44,
+                        "end": 44
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Siebe plc",
+                        "start": 58,
+                        "end": 59
+                    },
+                    {
+                        "value": "Siebe plc",
+                        "start": 101,
+                        "end": 102
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "the 1970s",
+                        "start": 62,
+                        "end": 63
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Siebe Gorman",
+                        "start": 68,
+                        "end": 69
+                    },
+                    {
+                        "value": "Siebe Gorman",
+                        "start": 71,
+                        "end": 72
+                    },
+                    {
+                        "value": "Siebe Gorman",
+                        "start": 89,
+                        "end": 90
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "United Kingdom",
+                        "start": 108,
+                        "end": 109
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "FTSE 100 Index",
+                        "start": 121,
+                        "end": 123
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "1999",
+                        "start": 126,
+                        "end": 126
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "BTR plc",
+                        "start": 130,
+                        "end": 131
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Invensys",
+                        "start": 134,
+                        "end": 134
+                    },
+                    {
+                        "value": "Invensys",
+                        "start": 136,
+                        "end": 136
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "French",
+                        "start": 142,
+                        "end": 142
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Schneider Electric",
+                        "start": 144,
+                        "end": 145
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "£3.4 billion",
+                        "start": 147,
+                        "end": 149
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "January 2014",
+                        "start": 151,
+                        "end": 152
+                    }
+                ],
+                "type": "TIME"
+            }
+        ],
+        "relations": [
+            [
+                0,
+                "founded by",
+                3
+            ],
+            [
+                12,
+                "inception",
+                10
+            ],
+            [
+                12,
+                "parent organization",
+                14
+            ],
+            [
+                3,
+                "country of citizenship",
+                1
+            ],
+            [
+                3,
+                "country of citizenship",
+                8
+            ],
+            [
+                5,
+                "dissolved, abolished or demolished",
+                10
+            ],
+            [
+                5,
+                "founded by",
+                3
+            ],
+            [
+                14,
+                "subsidiary",
+                12
+            ],
+            [
+                14,
+                "country",
+                13
+            ],
+            [
+                11,
+                "dissolved, abolished or demolished",
+                10
+            ],
+            [
+                7,
+                "followed by",
+                5
+            ],
+            [
+                7,
+                "founded by",
+                3
+            ],
+            [
+                5,
+                "followed by",
+                12
+            ],
+            [
+                5,
+                "country",
+                8
+            ],
+            [
+                12,
+                "follows",
+                11
+            ],
+            [
+                5,
+                "owned by",
+                12
+            ],
+            [
+                12,
+                "country",
+                8
+            ],
+            [
+                12,
+                "owned by",
+                14
+            ],
+            [
+                12,
+                "follows",
+                5
+            ],
+            [
+                0,
+                "followed by",
+                12
+            ],
+            [
+                5,
+                "inception",
+                6
+            ],
+            [
+                7,
+                "country",
+                8
+            ],
+            [
+                5,
+                "follows",
+                7
+            ],
+            [
+                11,
+                "followed by",
+                12
+            ],
+            [
+                12,
+                "follows",
+                0
+            ],
+            [
+                14,
+                "located in the administrative territorial entity",
+                13
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                8
+            ],
+            [
+                12,
+                "located in the administrative territorial entity",
+                8
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                8
+            ]
+        ]
+    },
+    {
+        "id": 8,
+        "tokenized_text": [
+            "Professor",
+            "James",
+            "Katorobo",
+            "is",
+            "a",
+            "former",
+            "United",
+            "Nations",
+            "diplomat",
+            "from",
+            "Uganda",
+            "and",
+            "a",
+            "former",
+            "lecturer",
+            "at",
+            "Makerere",
+            "University",
+            "in",
+            "Kampala",
+            ".",
+            "Katorobo",
+            "was",
+            "chief",
+            "technical",
+            "adviser",
+            "at",
+            "the",
+            "United",
+            "Nations",
+            "headquarters",
+            "in",
+            "New",
+            "York",
+            "in",
+            "charge",
+            "of",
+            "the",
+            "Management",
+            ",",
+            "Development",
+            ",",
+            "and",
+            "Governance",
+            "Division",
+            "under",
+            "the",
+            "United",
+            "Nations",
+            "Development",
+            "Programme",
+            "(",
+            "UNDP",
+            ")",
+            ".",
+            "He",
+            "was",
+            "also",
+            "part",
+            "of",
+            "the",
+            "UN",
+            "mission",
+            "of",
+            "advisers",
+            "in",
+            "Rwanda",
+            "immediately",
+            "after",
+            "the",
+            "1994",
+            "Rwandan",
+            "genocide",
+            "before",
+            "moving",
+            "to",
+            "the",
+            "United",
+            "Nations",
+            "in",
+            "New",
+            "York",
+            "in",
+            "1997",
+            ".",
+            "While",
+            "in",
+            "New",
+            "York",
+            ",",
+            "Katorobo",
+            "had",
+            "a",
+            "brief",
+            "assignment",
+            "overseeing",
+            "needs",
+            "and",
+            "aid",
+            "to",
+            "Somalia",
+            "during",
+            "its",
+            "civil",
+            "war",
+            ".",
+            "He",
+            "worked",
+            "out",
+            "of",
+            "Nairobi",
+            ",",
+            "Kenya",
+            ",",
+            "owing",
+            "to",
+            "the",
+            "violence",
+            "in",
+            "the",
+            "Horn",
+            "of",
+            "Africa",
+            ".",
+            "He",
+            "also",
+            "worked",
+            "with",
+            "the",
+            "UN",
+            "in",
+            "East",
+            "Timor",
+            ",",
+            "and",
+            "he",
+            "frequently",
+            "visited",
+            "these",
+            "two",
+            "countries",
+            "while",
+            "stationed",
+            "in",
+            "New",
+            "York",
+            ".",
+            "Katorobo",
+            "obtained",
+            "his",
+            "doctorate",
+            "degree",
+            "(",
+            "PhD",
+            ")",
+            "in",
+            "African",
+            "Studies",
+            "from",
+            "the",
+            "Massachusetts",
+            "Institute",
+            "of",
+            "Technology",
+            "(",
+            "MIT",
+            ")",
+            "in",
+            "1975",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "James Katorobo",
+                        "start": 1,
+                        "end": 2
+                    },
+                    {
+                        "value": "Katorobo",
+                        "start": 21,
+                        "end": 21
+                    },
+                    {
+                        "value": "Katorobo",
+                        "start": 90,
+                        "end": 90
+                    },
+                    {
+                        "value": "Katorobo",
+                        "start": 147,
+                        "end": 147
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "United Nations",
+                        "start": 6,
+                        "end": 7
+                    },
+                    {
+                        "value": "United Nations",
+                        "start": 28,
+                        "end": 29
+                    },
+                    {
+                        "value": "UN",
+                        "start": 61,
+                        "end": 61
+                    },
+                    {
+                        "value": "United Nations",
+                        "start": 77,
+                        "end": 78
+                    },
+                    {
+                        "value": "UN",
+                        "start": 129,
+                        "end": 129
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Uganda",
+                        "start": 10,
+                        "end": 10
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Makerere University",
+                        "start": 16,
+                        "end": 17
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Kampala",
+                        "start": 19,
+                        "end": 19
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "New York",
+                        "start": 32,
+                        "end": 33
+                    },
+                    {
+                        "value": "New York",
+                        "start": 80,
+                        "end": 81
+                    },
+                    {
+                        "value": "New York",
+                        "start": 87,
+                        "end": 88
+                    },
+                    {
+                        "value": "New York",
+                        "start": 144,
+                        "end": 145
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Management",
+                        "start": 38,
+                        "end": 38
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Development",
+                        "start": 40,
+                        "end": 40
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Governance Division",
+                        "start": 43,
+                        "end": 44
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "United Nations Development Programme",
+                        "start": 47,
+                        "end": 50
+                    },
+                    {
+                        "value": "UNDP",
+                        "start": 52,
+                        "end": 52
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Rwanda",
+                        "start": 66,
+                        "end": 66
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "1994",
+                        "start": 70,
+                        "end": 70
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Rwandan",
+                        "start": 71,
+                        "end": 71
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "1997",
+                        "start": 83,
+                        "end": 83
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Somalia",
+                        "start": 100,
+                        "end": 100
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Nairobi",
+                        "start": 110,
+                        "end": 110
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "Kenya",
+                        "start": 112,
+                        "end": 112
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Horn of Africa",
+                        "start": 120,
+                        "end": 122
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "East Timor",
+                        "start": 131,
+                        "end": 132
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "two",
+                        "start": 139,
+                        "end": 139
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    {
+                        "value": "African Studies",
+                        "start": 156,
+                        "end": 157
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    {
+                        "value": "Massachusetts Institute of Technology",
+                        "start": 160,
+                        "end": 163
+                    },
+                    {
+                        "value": "MIT",
+                        "start": 165,
+                        "end": 165
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    {
+                        "value": "1975",
+                        "start": 168,
+                        "end": 168
+                    }
+                ],
+                "type": "TIME"
+            }
+        ],
+        "relations": [
+            [
+                0,
+                "employer",
+                1
+            ],
+            [
+                0,
+                "educated at",
+                21
+            ],
+            [
+                1,
+                "headquarters location",
+                5
+            ],
+            [
+                1,
+                "subsidiary",
+                9
+            ],
+            [
+                3,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                9,
+                "part of",
+                1
+            ],
+            [
+                9,
+                "parent organization",
+                1
+            ],
+            [
+                10,
+                "member of",
+                1
+            ],
+            [
+                15,
+                "country",
+                16
+            ],
+            [
+                18,
+                "member of",
+                1
+            ],
+            [
+                4,
+                "country",
+                2
+            ],
+            [
+                3,
+                "country",
+                2
+            ],
+            [
+                0,
+                "country of citizenship",
+                2
+            ],
+            [
+                0,
+                "employer",
+                3
+            ],
+            [
+                1,
+                "has part",
+                9
+            ],
+            [
+                16,
+                "member of",
+                1
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                2,
+                "member of",
+                1
+            ],
+            [
+                14,
+                "member of",
+                1
+            ],
+            [
+                15,
+                "located in the administrative territorial entity",
+                16
+            ],
+            [
+                4,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                3,
+                "located in the administrative territorial entity",
+                2
+            ]
+        ]
+    },
+    {
+        "id": 9,
+        "tokenized_text": [
+            "Herzogenbusch",
+            "concentration",
+            "camp",
+            "(",
+            ",",
+            ",",
+            ")",
+            "was",
+            "a",
+            "Nazi",
+            "concentration",
+            "camp",
+            "located",
+            "in",
+            "Vught",
+            "near",
+            "the",
+            "city",
+            "of",
+            "'",
+            "s",
+            "-",
+            "Hertogenbosch",
+            ",",
+            "Netherlands",
+            ".",
+            "Herzogenbusch",
+            "was",
+            ",",
+            "with",
+            "Natzweiler",
+            "-",
+            "Struthof",
+            "in",
+            "occupied",
+            "France",
+            ",",
+            "the",
+            "only",
+            "concentration",
+            "camp",
+            "run",
+            "directly",
+            "by",
+            "the",
+            "SS",
+            "in",
+            "western",
+            "Europe",
+            "outside",
+            "Germany",
+            ".",
+            "The",
+            "camp",
+            "was",
+            "first",
+            "used",
+            "in",
+            "1943",
+            "and",
+            "held",
+            "31,000",
+            "prisoners",
+            ".",
+            "749",
+            "prisoners",
+            "died",
+            "in",
+            "the",
+            "camp",
+            ",",
+            "and",
+            "the",
+            "others",
+            "were",
+            "transferred",
+            "to",
+            "other",
+            "camps",
+            "shortly",
+            "before",
+            "the",
+            "camp",
+            "was",
+            "liberated",
+            "by",
+            "the",
+            "Allied",
+            "Forces",
+            "in",
+            "1944",
+            ".",
+            "After",
+            "the",
+            "war",
+            "the",
+            "camp",
+            "was",
+            "used",
+            "as",
+            "a",
+            "prison",
+            "for",
+            "Germans",
+            "and",
+            "Dutch",
+            "collaborators",
+            ".",
+            "Today",
+            "there",
+            "is",
+            "a",
+            "visitors",
+            "'",
+            "center",
+            "with",
+            "exhibitions",
+            "and",
+            "a",
+            "national",
+            "monument",
+            "remembering",
+            "the",
+            "camp",
+            "and",
+            "its",
+            "victims",
+            ".",
+            "The",
+            "camp",
+            "is",
+            "now",
+            "a",
+            "museum",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Herzogenbusch",
+                        "start": 26,
+                        "end": 26
+                    },
+                    {
+                        "value": "Herzogenbusch",
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Nazi",
+                        "start": 9,
+                        "end": 9
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Vught",
+                        "start": 14,
+                        "end": 14
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "s - Hertogenbosch",
+                        "start": 20,
+                        "end": 22
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Netherlands",
+                        "start": 24,
+                        "end": 24
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Natzweiler-Struthof",
+                        "start": 30,
+                        "end": 32
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "France",
+                        "start": 35,
+                        "end": 35
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "SS",
+                        "start": 45,
+                        "end": 45
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Europe",
+                        "start": 48,
+                        "end": 48
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Germany",
+                        "start": 50,
+                        "end": 50
+                    },
+                    {
+                        "value": "Germans",
+                        "start": 103,
+                        "end": 103
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "1943",
+                        "start": 58,
+                        "end": 58
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "31,000",
+                        "start": 61,
+                        "end": 61
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "749",
+                        "start": 64,
+                        "end": 64
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Allied Forces",
+                        "start": 87,
+                        "end": 88
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "1944",
+                        "start": 90,
+                        "end": 90
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Dutch",
+                        "start": 105,
+                        "end": 105
+                    }
+                ],
+                "type": "LOC"
+            }
+        ],
+        "relations": [
+            [
+                2,
+                "country",
+                4
+            ],
+            [
+                4,
+                "continent",
+                8
+            ],
+            [
+                6,
+                "continent",
+                8
+            ],
+            [
+                9,
+                "continent",
+                8
+            ],
+            [
+                3,
+                "country",
+                4
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                0,
+                "country",
+                4
+            ],
+            [
+                5,
+                "country",
+                6
+            ],
+            [
+                15,
+                "country",
+                4
+            ],
+            [
+                3,
+                "continent",
+                8
+            ],
+            [
+                3,
+                "country",
+                15
+            ],
+            [
+                4,
+                "contains administrative territorial entity",
+                3
+            ],
+            [
+                7,
+                "country",
+                9
+            ],
+            [
+                0,
+                "country",
+                15
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                3,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                6
+            ],
+            [
+                15,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                3,
+                "located in the administrative territorial entity",
+                15
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                9
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                15
+            ]
+        ]
+    }
+]

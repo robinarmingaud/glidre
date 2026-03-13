@@ -1,0 +1,752 @@
+[
+    {
+        "id": 0,
+        "tokenized_text": [
+            "Howrah",
+            "is",
+            "a",
+            "suburb",
+            "of",
+            "the",
+            "City",
+            "of",
+            "Clarence",
+            ",",
+            "part",
+            "of",
+            "the",
+            "greater",
+            "Hobart",
+            "area",
+            ",",
+            "Tasmania",
+            ",",
+            "Australia",
+            ".",
+            "It",
+            "is",
+            "east",
+            "of",
+            "Bellerive",
+            "and",
+            "north",
+            "of",
+            "Tranmere",
+            ".",
+            "Howrah",
+            "is",
+            "a",
+            "beachside",
+            "suburb",
+            ",",
+            "with",
+            "views",
+            "across",
+            "the",
+            "Derwent",
+            "River",
+            "to",
+            "Hobart",
+            "City",
+            ".",
+            "Clarence",
+            "Street",
+            "runs",
+            "through",
+            "the",
+            "centre",
+            "of",
+            "the",
+            "suburb",
+            "separating",
+            "the",
+            "hillside",
+            "section",
+            "from",
+            "the",
+            "beachside",
+            ".",
+            "Howrah",
+            "has",
+            "a",
+            "number",
+            "of",
+            "parks",
+            "including",
+            "Wentworth",
+            "Park",
+            ",",
+            "which",
+            "is",
+            "one",
+            "of",
+            "the",
+            "key",
+            "sport",
+            "(",
+            "such",
+            "as",
+            "soccer",
+            ",",
+            "field",
+            "hockey",
+            "and",
+            "touch",
+            "football",
+            ")",
+            "and",
+            "recreation",
+            "areas",
+            "on",
+            "the",
+            "Eastern",
+            "Shore",
+            ".",
+            "Clarence",
+            "High",
+            "School",
+            "is",
+            "generally",
+            "thought",
+            "to",
+            "be",
+            "in",
+            "Howrah",
+            ",",
+            "due",
+            "to",
+            "it",
+            "being",
+            "located",
+            "west",
+            "of",
+            "Wentworth",
+            "Street",
+            ",",
+            "however",
+            "it",
+            "is",
+            "in",
+            "Bellerive",
+            ".",
+            "Howrah",
+            "has",
+            "a",
+            "primary",
+            "school",
+            ",",
+            "Shoreline",
+            "Shopping",
+            "Centre",
+            ",",
+            "is",
+            "the",
+            "largest",
+            "shopping",
+            "centre",
+            "in",
+            "Howrah",
+            ".",
+            "Howrah",
+            "was",
+            "named",
+            "after",
+            "Howrah",
+            "House",
+            ",",
+            "a",
+            "property",
+            "established",
+            "in",
+            "the",
+            "1830s",
+            "on",
+            "Clarence",
+            "Plains",
+            "by",
+            "a",
+            "retired",
+            "Indian",
+            "Army",
+            "officer",
+            "who",
+            "took",
+            "the",
+            "name",
+            "from",
+            "a",
+            "place",
+            "of",
+            "the",
+            "same",
+            "name",
+            "near",
+            "Calcutta",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Howrah",
+                        "start": 127,
+                        "end": 127
+                    },
+                    {
+                        "value": "Howrah",
+                        "start": 64,
+                        "end": 64
+                    },
+                    {
+                        "value": "Howrah",
+                        "start": 143,
+                        "end": 143
+                    },
+                    {
+                        "value": "Howrah",
+                        "start": 109,
+                        "end": 109
+                    },
+                    {
+                        "value": "Howrah",
+                        "start": 0,
+                        "end": 0
+                    },
+                    {
+                        "value": "Howrah",
+                        "start": 31,
+                        "end": 31
+                    },
+                    {
+                        "value": "Howrah",
+                        "start": 145,
+                        "end": 145
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "City of Clarence",
+                        "start": 6,
+                        "end": 8
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "greater Hobart area",
+                        "start": 13,
+                        "end": 15
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Tasmania",
+                        "start": 17,
+                        "end": 17
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Australia",
+                        "start": 19,
+                        "end": 19
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Bellerive",
+                        "start": 25,
+                        "end": 25
+                    },
+                    {
+                        "value": "Bellerive",
+                        "start": 125,
+                        "end": 125
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Tranmere",
+                        "start": 29,
+                        "end": 29
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Derwent River",
+                        "start": 41,
+                        "end": 42
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Hobart City",
+                        "start": 44,
+                        "end": 45
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Clarence Street",
+                        "start": 47,
+                        "end": 48
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Wentworth Park",
+                        "start": 71,
+                        "end": 72
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Eastern Shore",
+                        "start": 97,
+                        "end": 98
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Clarence High School",
+                        "start": 100,
+                        "end": 102
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Wentworth Street",
+                        "start": 118,
+                        "end": 119
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Shoreline Shopping Centre",
+                        "start": 133,
+                        "end": 135
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Howrah House",
+                        "start": 149,
+                        "end": 150
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "the 1830s",
+                        "start": 156,
+                        "end": 157
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Clarence Plains",
+                        "start": 159,
+                        "end": 160
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "Indian Army",
+                        "start": 164,
+                        "end": 165
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "Calcutta",
+                        "start": 179,
+                        "end": 179
+                    }
+                ],
+                "type": "LOC"
+            }
+        ],
+        "relations": [
+            [
+                1,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                1,
+                "country",
+                4
+            ],
+            [
+                1,
+                "contains administrative territorial entity",
+                5
+            ],
+            [
+                3,
+                "contains administrative territorial entity",
+                1
+            ],
+            [
+                3,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                3,
+                "country",
+                4
+            ],
+            [
+                3,
+                "contains administrative territorial entity",
+                8
+            ],
+            [
+                3,
+                "contains administrative territorial entity",
+                17
+            ],
+            [
+                3,
+                "contains administrative territorial entity",
+                19
+            ],
+            [
+                4,
+                "contains administrative territorial entity",
+                3
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                7,
+                "country",
+                4
+            ],
+            [
+                8,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                8,
+                "country",
+                4
+            ],
+            [
+                9,
+                "country",
+                4
+            ],
+            [
+                10,
+                "owned by",
+                1
+            ],
+            [
+                10,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                10,
+                "country",
+                4
+            ],
+            [
+                11,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                11,
+                "country",
+                4
+            ],
+            [
+                12,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                12,
+                "country",
+                4
+            ],
+            [
+                12,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                13,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                13,
+                "country",
+                4
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                2,
+                "country",
+                4
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                1
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                0,
+                "country",
+                4
+            ],
+            [
+                17,
+                "country",
+                4
+            ],
+            [
+                19,
+                "country",
+                4
+            ],
+            [
+                14,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                14,
+                "country",
+                4
+            ],
+            [
+                15,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                15,
+                "country",
+                4
+            ],
+            [
+                17,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                6,
+                "country",
+                4
+            ],
+            [
+                6,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                5,
+                "country",
+                4
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                1
+            ],
+            [
+                3,
+                "contains administrative territorial entity",
+                2
+            ],
+            [
+                1,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                8,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                10,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                11,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                12,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                13,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                17,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                19,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                14,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                15,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                6,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                12,
+                "located in the administrative territorial entity",
+                1
+            ]
+        ]
+    }
+]

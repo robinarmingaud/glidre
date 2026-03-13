@@ -1,0 +1,2850 @@
+[
+    {
+        "id": 0,
+        "tokenized_text": [
+            "\"",
+            "Down",
+            "by",
+            "the",
+            "Water",
+            "\"",
+            "is",
+            "a",
+            "song",
+            "by",
+            "English",
+            "alternative",
+            "rock",
+            "musician",
+            "PJ",
+            "Harvey",
+            ".",
+            "It",
+            "is",
+            "the",
+            "seventh",
+            "track",
+            "and",
+            "the",
+            "lead",
+            "single",
+            "from",
+            "her",
+            "third",
+            "studio",
+            "album",
+            "To",
+            "Bring",
+            "You",
+            "My",
+            "Love",
+            ",",
+            "released",
+            "in",
+            "February",
+            "1995",
+            "on",
+            "Island",
+            "Records",
+            ".",
+            "The",
+            "song",
+            "was",
+            "written",
+            "by",
+            "Harvey",
+            ",",
+            "and",
+            "self",
+            "-",
+            "produced",
+            "with",
+            "Flood",
+            "and",
+            "John",
+            "Parish",
+            ".",
+            "The",
+            "song",
+            "diverged",
+            "significantly",
+            "from",
+            "Harvey",
+            "'s",
+            "former",
+            "indie",
+            "rock",
+            "and",
+            "punk",
+            "blues",
+            "influence",
+            ",",
+            "opting",
+            "to",
+            "use",
+            "electronic",
+            "instruments",
+            "such",
+            "as",
+            "a",
+            "synthesized",
+            "organ",
+            "and",
+            "an",
+            "orchestral",
+            "ensemble",
+            ".",
+            "The",
+            "lyrics",
+            "narrate",
+            "the",
+            "story",
+            "of",
+            "a",
+            "woman",
+            "drowning",
+            "her",
+            "daughter",
+            "and",
+            "reference",
+            "the",
+            "traditional",
+            "American",
+            "folk",
+            "song",
+            "\"",
+            "Salty",
+            "Dog",
+            "Blues",
+            "\"",
+            ".",
+            "\"",
+            "Down",
+            "by",
+            "the",
+            "Water",
+            "\"",
+            "was",
+            "Harvey",
+            "'s",
+            "mainstream",
+            "breakthrough",
+            "in",
+            "the",
+            "United",
+            "States",
+            ",",
+            "where",
+            "the",
+            "song",
+            "reached",
+            "number",
+            "2",
+            "on",
+            "Billboards",
+            "Modern",
+            "Rock",
+            "Tracks",
+            "chart",
+            "and",
+            "received",
+            "extensive",
+            "rotation",
+            "on",
+            "MTV",
+            "and",
+            "college",
+            "radio",
+            "stations",
+            ".",
+            "The",
+            "song",
+            "received",
+            "critical",
+            "acclaim",
+            "upon",
+            "its",
+            "release",
+            ",",
+            "charting",
+            "in",
+            "Canada",
+            ",",
+            "Ireland",
+            ",",
+            "the",
+            "United",
+            "Kingdom",
+            "and",
+            "the",
+            "United",
+            "States",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Down by the Water",
+                        "start": 1,
+                        "end": 4
+                    },
+                    {
+                        "value": "Down by the Water",
+                        "start": 117,
+                        "end": 120
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "English",
+                        "start": 10,
+                        "end": 10
+                    },
+                    {
+                        "value": "United Kingdom",
+                        "start": 171,
+                        "end": 172
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "PJ Harvey",
+                        "start": 14,
+                        "end": 15
+                    },
+                    {
+                        "value": "Harvey",
+                        "start": 123,
+                        "end": 123
+                    },
+                    {
+                        "value": "Harvey",
+                        "start": 50,
+                        "end": 50
+                    },
+                    {
+                        "value": "Harvey",
+                        "start": 67,
+                        "end": 67
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "To Bring You My Love",
+                        "start": 31,
+                        "end": 35
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "February 1995",
+                        "start": 39,
+                        "end": 40
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Island Records",
+                        "start": 42,
+                        "end": 43
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Flood",
+                        "start": 57,
+                        "end": 57
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "John Parish",
+                        "start": 59,
+                        "end": 60
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "American",
+                        "start": 107,
+                        "end": 107
+                    },
+                    {
+                        "value": "the United States",
+                        "start": 174,
+                        "end": 176
+                    },
+                    {
+                        "value": "the United States",
+                        "start": 128,
+                        "end": 130
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Salty Dog Blues",
+                        "start": 111,
+                        "end": 113
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Billboards Modern Rock Tracks",
+                        "start": 139,
+                        "end": 142
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "MTV",
+                        "start": 149,
+                        "end": 149
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Canada",
+                        "start": 166,
+                        "end": 166
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Ireland",
+                        "start": 168,
+                        "end": 168
+                    }
+                ],
+                "type": "LOC"
+            }
+        ],
+        "relations": [
+            [
+                2,
+                "record label",
+                5
+            ],
+            [
+                2,
+                "country of citizenship",
+                1
+            ],
+            [
+                11,
+                "country",
+                8
+            ],
+            [
+                0,
+                "performer",
+                2
+            ],
+            [
+                0,
+                "publication date",
+                4
+            ],
+            [
+                0,
+                "record label",
+                5
+            ],
+            [
+                0,
+                "part of",
+                3
+            ],
+            [
+                3,
+                "performer",
+                2
+            ],
+            [
+                3,
+                "publication date",
+                4
+            ],
+            [
+                3,
+                "record label",
+                5
+            ],
+            [
+                0,
+                "lyrics by",
+                2
+            ],
+            [
+                9,
+                "country of origin",
+                8
+            ],
+            [
+                2,
+                "notable work",
+                0
+            ],
+            [
+                3,
+                "has part",
+                0
+            ],
+            [
+                2,
+                "notable work",
+                3
+            ],
+            [
+                11,
+                "located in the administrative territorial entity",
+                8
+            ]
+        ]
+    },
+    {
+        "id": 1,
+        "tokenized_text": [
+            "The",
+            "National",
+            "Socialist",
+            "Freedom",
+            "Movement",
+            "(",
+            ",",
+            "NSFB",
+            ")",
+            "or",
+            "National",
+            "Socialist",
+            "Freedom",
+            "Party",
+            "(",
+            ",",
+            "NSFP",
+            ")",
+            "was",
+            "a",
+            "far",
+            "-",
+            "right",
+            "political",
+            "party",
+            "in",
+            "Weimar",
+            "Germany",
+            "created",
+            "in",
+            "April",
+            "1924",
+            "during",
+            "the",
+            "aftermath",
+            "of",
+            "the",
+            "Beer",
+            "Hall",
+            "Putsch",
+            ".",
+            "Adolf",
+            "Hitler",
+            "and",
+            "many",
+            "Nazi",
+            "leaders",
+            "were",
+            "jailed",
+            "after",
+            "the",
+            "failed",
+            "coup",
+            "attempt",
+            "and",
+            "the",
+            "Nazi",
+            "Party",
+            "was",
+            "outlawed",
+            "in",
+            "what",
+            "came",
+            "to",
+            "be",
+            "known",
+            "as",
+            "the",
+            "Time",
+            "of",
+            "Struggle",
+            ".",
+            "The",
+            "remaining",
+            "Nazis",
+            "formed",
+            "the",
+            "NSFB",
+            "as",
+            "a",
+            "legal",
+            "means",
+            "of",
+            "carrying",
+            "on",
+            "the",
+            "party",
+            "and",
+            "its",
+            "ideology",
+            ".",
+            "Included",
+            "in",
+            "this",
+            "party",
+            "was",
+            "the",
+            "similarly",
+            "reformed",
+            "and",
+            "renamed",
+            "Frontbann",
+            ",",
+            "which",
+            "was",
+            "a",
+            "legal",
+            "alternative",
+            "to",
+            "the",
+            "SA",
+            ".",
+            "Eugene",
+            "Davidson",
+            "notes",
+            "that",
+            "\"",
+            "[",
+            "t]he",
+            "Far",
+            "Right",
+            "could",
+            "not",
+            "agree",
+            "on",
+            "much",
+            "of",
+            "anything",
+            "for",
+            "long",
+            ",",
+            "not",
+            "even",
+            "on",
+            "who",
+            "was",
+            "the",
+            "chief",
+            "enemy",
+            "\"",
+            ",",
+            "with",
+            "NSFP",
+            "Reichstag",
+            "deputy",
+            "Reinhold",
+            "Wulle",
+            "believing",
+            "that",
+            "the",
+            "Catholics",
+            "were",
+            "a",
+            "greater",
+            "danger",
+            "than",
+            "the",
+            "Jews",
+            ".",
+            "Wulle",
+            "told",
+            "a",
+            "party",
+            "gathering",
+            "in",
+            "January",
+            "1925",
+            "that",
+            "Hitler",
+            "would",
+            "never",
+            "again",
+            "regain",
+            "his",
+            "former",
+            "authority",
+            ".",
+            "Hitler",
+            "himself",
+            "had",
+            "given",
+            "up",
+            "his",
+            "leadership",
+            "of",
+            "the",
+            "party",
+            "during",
+            "the",
+            "duration",
+            "of",
+            "his",
+            "imprisonment",
+            ",",
+            "telling",
+            "people",
+            "who",
+            "came",
+            "to",
+            "see",
+            "him",
+            "that",
+            "the",
+            "grounds",
+            "for",
+            "his",
+            "decision",
+            "were",
+            "that",
+            "he",
+            "was",
+            "overworked",
+            "writing",
+            "a",
+            "voluminous",
+            "book",
+            ".",
+            "NSFP",
+            "leaders",
+            "Albrecht",
+            "von",
+            "Graefe",
+            "and",
+            "Erich",
+            "Ludendorff",
+            "both",
+            "quit",
+            "the",
+            "NSFP",
+            "in",
+            "February",
+            "1925",
+            ",",
+            "only",
+            "a",
+            "little",
+            "more",
+            "than",
+            "a",
+            "year",
+            "after",
+            "it",
+            "was",
+            "founded",
+            ".",
+            "On",
+            "27",
+            "February",
+            "1925",
+            ",",
+            "the",
+            "Nazi",
+            "Party",
+            "was",
+            "reformed",
+            "after",
+            "the",
+            "ban",
+            "expired",
+            "in",
+            "January",
+            "and",
+            "Hitler",
+            "had",
+            "been",
+            "released",
+            "from",
+            "prison",
+            "in",
+            "December",
+            "1924",
+            ".",
+            "The",
+            "NSFB",
+            "was",
+            "then",
+            "reabsorbed",
+            "into",
+            "the",
+            "Nazi",
+            "Party",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "National Socialist Freedom Party",
+                        "start": 10,
+                        "end": 13
+                    },
+                    {
+                        "value": "National Socialist Freedom Movement",
+                        "start": 1,
+                        "end": 4
+                    },
+                    {
+                        "value": "NSFB",
+                        "start": 273,
+                        "end": 273
+                    },
+                    {
+                        "value": "NSFB",
+                        "start": 7,
+                        "end": 7
+                    },
+                    {
+                        "value": "NSFB",
+                        "start": 77,
+                        "end": 77
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "NSFP",
+                        "start": 142,
+                        "end": 142
+                    },
+                    {
+                        "value": "NSFP",
+                        "start": 228,
+                        "end": 228
+                    },
+                    {
+                        "value": "NSFP",
+                        "start": 217,
+                        "end": 217
+                    },
+                    {
+                        "value": "NSFP",
+                        "start": 16,
+                        "end": 16
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Weimar Germany",
+                        "start": 26,
+                        "end": 27
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "April 1924",
+                        "start": 30,
+                        "end": 31
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Beer Hall Putsch",
+                        "start": 37,
+                        "end": 39
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Adolf Hitler",
+                        "start": 41,
+                        "end": 42
+                    },
+                    {
+                        "value": "Hitler",
+                        "start": 168,
+                        "end": 168
+                    },
+                    {
+                        "value": "Hitler",
+                        "start": 177,
+                        "end": 177
+                    },
+                    {
+                        "value": "Hitler",
+                        "start": 262,
+                        "end": 262
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Nazi Party",
+                        "start": 56,
+                        "end": 57
+                    },
+                    {
+                        "value": "Nazi Party",
+                        "start": 251,
+                        "end": 252
+                    },
+                    {
+                        "value": "Nazi Party",
+                        "start": 279,
+                        "end": 280
+                    },
+                    {
+                        "value": "Nazi",
+                        "start": 45,
+                        "end": 45
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Time of Struggle",
+                        "start": 68,
+                        "end": 70
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Nazis",
+                        "start": 74,
+                        "end": 74
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Frontbann",
+                        "start": 101,
+                        "end": 101
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "SA",
+                        "start": 110,
+                        "end": 110
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Eugene Davidson",
+                        "start": 112,
+                        "end": 113
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Far Right",
+                        "start": 119,
+                        "end": 120
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Reichstag",
+                        "start": 143,
+                        "end": 143
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Reinhold Wulle",
+                        "start": 145,
+                        "end": 146
+                    },
+                    {
+                        "value": "Wulle",
+                        "start": 159,
+                        "end": 159
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Catholics",
+                        "start": 150,
+                        "end": 150
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "Jews",
+                        "start": 157,
+                        "end": 157
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "January 1925",
+                        "start": 165,
+                        "end": 166
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "Albrecht von Graefe",
+                        "start": 219,
+                        "end": 221
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "Erich Ludendorff",
+                        "start": 223,
+                        "end": 224
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    {
+                        "value": "February 1925",
+                        "start": 230,
+                        "end": 231
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    {
+                        "value": "a year",
+                        "start": 238,
+                        "end": 239
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    {
+                        "value": "27 February 1925",
+                        "start": 246,
+                        "end": 248
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    {
+                        "value": "January",
+                        "start": 260,
+                        "end": 260
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    {
+                        "value": "December 1924",
+                        "start": 269,
+                        "end": 270
+                    }
+                ],
+                "type": "TIME"
+            }
+        ],
+        "relations": [
+            [
+                0,
+                "country",
+                2
+            ],
+            [
+                0,
+                "inception",
+                3
+            ],
+            [
+                2,
+                "legislative body",
+                13
+            ],
+            [
+                5,
+                "country of citizenship",
+                2
+            ],
+            [
+                5,
+                "member of political party",
+                6
+            ],
+            [
+                6,
+                "country",
+                2
+            ],
+            [
+                6,
+                "chairperson",
+                5
+            ],
+            [
+                14,
+                "member of political party",
+                0
+            ],
+            [
+                14,
+                "country of citizenship",
+                2
+            ],
+            [
+                14,
+                "member of political party",
+                1
+            ],
+            [
+                18,
+                "member of political party",
+                0
+            ],
+            [
+                18,
+                "country of citizenship",
+                2
+            ],
+            [
+                19,
+                "member of political party",
+                0
+            ],
+            [
+                19,
+                "country of citizenship",
+                2
+            ],
+            [
+                19,
+                "member of political party",
+                1
+            ],
+            [
+                4,
+                "country",
+                2
+            ],
+            [
+                13,
+                "applies to jurisdiction",
+                2
+            ],
+            [
+                13,
+                "country",
+                2
+            ],
+            [
+                1,
+                "country",
+                2
+            ],
+            [
+                1,
+                "inception",
+                3
+            ],
+            [
+                18,
+                "member of",
+                1
+            ],
+            [
+                9,
+                "country",
+                2
+            ],
+            [
+                1,
+                "chairperson",
+                18
+            ],
+            [
+                0,
+                "chairperson",
+                18
+            ],
+            [
+                5,
+                "member of",
+                8
+            ],
+            [
+                8,
+                "chairperson",
+                5
+            ],
+            [
+                0,
+                "chairperson",
+                19
+            ],
+            [
+                7,
+                "country",
+                2
+            ],
+            [
+                0,
+                "dissolved, abolished or demolished",
+                22
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                6,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                13,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                1,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                2
+            ]
+        ]
+    },
+    {
+        "id": 2,
+        "tokenized_text": [
+            "Australian",
+            "Geographic",
+            "is",
+            "a",
+            "media",
+            "business",
+            "that",
+            "produces",
+            "the",
+            "Australian",
+            "Geographic",
+            "magazine",
+            ",",
+            "DMag",
+            "magazine",
+            ",",
+            "specialist",
+            "book",
+            "titles",
+            ",",
+            "travel",
+            "guides",
+            ",",
+            "diaries",
+            "and",
+            "calendars",
+            "and",
+            "online",
+            "media",
+            ".",
+            "It",
+            "published",
+            "editions",
+            "of",
+            "the",
+            "Australian",
+            "Encyclopaedia",
+            ".",
+            "It",
+            "previously",
+            "operated",
+            "the",
+            "Australian",
+            "Geographical",
+            "retail",
+            "chain",
+            "stores",
+            "and",
+            "Australian",
+            "Geographic",
+            "Travel",
+            "and",
+            "Australian",
+            "Geographic",
+            "Adventures",
+            ".",
+            "Australian",
+            "Geographic",
+            "magazine",
+            ",",
+            "originally",
+            "titled",
+            "Dick",
+            "Smith",
+            "'s",
+            "Australian",
+            "Geographic",
+            ",",
+            "is",
+            "a",
+            "bi",
+            "-",
+            "monthly",
+            "geographical",
+            "journal",
+            "created",
+            "by",
+            "Dick",
+            "Smith",
+            "in",
+            "1986",
+            ".",
+            "The",
+            "magazine",
+            "focuses",
+            "mainly",
+            "on",
+            "stories",
+            "about",
+            "Australia",
+            ",",
+            "or",
+            "about",
+            "Australian",
+            "people",
+            "in",
+            "other",
+            "countries",
+            ".",
+            "The",
+            "six",
+            "editions",
+            "published",
+            "each",
+            "year",
+            "are",
+            "available",
+            "by",
+            "subscription",
+            "and",
+            "on",
+            "newsstands",
+            ".",
+            "They",
+            "include",
+            "posters",
+            "or",
+            "sheet",
+            "maps",
+            "in",
+            "each",
+            "edition",
+            ",",
+            "as",
+            "well",
+            "as",
+            "photographs",
+            "and",
+            "detailed",
+            "technical",
+            "illustrations",
+            ".",
+            "Australian",
+            "Geographic",
+            "also",
+            "has",
+            "a",
+            "website",
+            "that",
+            "includes",
+            "the",
+            "entire",
+            "magazine",
+            "digital",
+            "archive",
+            ".",
+            "Each",
+            "year",
+            ",",
+            "a",
+            "portion",
+            "of",
+            "the",
+            "profits",
+            "is",
+            "provided",
+            "to",
+            "the",
+            "Australian",
+            "Geographic",
+            "Society",
+            ",",
+            "which",
+            "Australian",
+            "Geographic",
+            "claims",
+            "is",
+            "the",
+            "non",
+            "-",
+            "profit",
+            "arm",
+            "of",
+            "Australian",
+            "Geographic",
+            ".",
+            "Members",
+            "of",
+            "the",
+            "public",
+            "were",
+            "invited",
+            "to",
+            "become",
+            "members",
+            "and",
+            "make",
+            "financial",
+            "contributions",
+            "to",
+            "the",
+            "Society",
+            ".",
+            "In",
+            "a",
+            "circular",
+            "relationship",
+            ",",
+            "the",
+            "magazine",
+            "was",
+            "represented",
+            "to",
+            "be",
+            "the",
+            "\"",
+            "official",
+            "journal",
+            "of",
+            "the",
+            "Australian",
+            "Geographic",
+            "Society",
+            "\"",
+            ".",
+            "Through",
+            "its",
+            "Society",
+            ",",
+            "Australian",
+            "Geographic",
+            "supports",
+            "scientific",
+            "research",
+            "as",
+            "well",
+            "as",
+            "environmental",
+            "and",
+            "community",
+            "projects",
+            ".",
+            "Funds",
+            "are",
+            "also",
+            "used",
+            "to",
+            "highlight",
+            "and",
+            "support",
+            "Australian",
+            "adventurers",
+            "and",
+            "produce",
+            "related",
+            "diaries",
+            ",",
+            "calendars",
+            "and",
+            "books",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Australian Geographic",
+                        "start": 163,
+                        "end": 164
+                    },
+                    {
+                        "value": "Australian Geographic",
+                        "start": 132,
+                        "end": 133
+                    },
+                    {
+                        "value": "Australian Geographic",
+                        "start": 219,
+                        "end": 220
+                    },
+                    {
+                        "value": "Australian Geographic",
+                        "start": 0,
+                        "end": 1
+                    },
+                    {
+                        "value": "Australian Geographic",
+                        "start": 173,
+                        "end": 174
+                    },
+                    {
+                        "value": "Australian Geographic",
+                        "start": 9,
+                        "end": 10
+                    },
+                    {
+                        "value": "Dick Smith 's Australian Geographic",
+                        "start": 62,
+                        "end": 66
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "DMag",
+                        "start": 13,
+                        "end": 13
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Australian Encyclopaedia",
+                        "start": 35,
+                        "end": 36
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Australian Geographical",
+                        "start": 42,
+                        "end": 43
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Australian Geographic Travel",
+                        "start": 48,
+                        "end": 50
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Australian Geographic Adventures",
+                        "start": 52,
+                        "end": 54
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Australian Geographic",
+                        "start": 56,
+                        "end": 57
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Dick Smith",
+                        "start": 77,
+                        "end": 78
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "1986",
+                        "start": 80,
+                        "end": 80
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Australian",
+                        "start": 93,
+                        "end": 93
+                    },
+                    {
+                        "value": "Australian",
+                        "start": 240,
+                        "end": 240
+                    },
+                    {
+                        "value": "Australia",
+                        "start": 89,
+                        "end": 89
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "six",
+                        "start": 100,
+                        "end": 100
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Australian Geographic Society",
+                        "start": 158,
+                        "end": 160
+                    },
+                    {
+                        "value": "Australian Geographic Society",
+                        "start": 210,
+                        "end": 212
+                    },
+                    {
+                        "value": "Society",
+                        "start": 191,
+                        "end": 191
+                    },
+                    {
+                        "value": "Society",
+                        "start": 217,
+                        "end": 217
+                    }
+                ],
+                "type": "ORG"
+            }
+        ],
+        "relations": [
+            [
+                6,
+                "founded by",
+                7
+            ],
+            [
+                6,
+                "inception",
+                8
+            ],
+            [
+                6,
+                "country",
+                9
+            ],
+            [
+                6,
+                "country of origin",
+                9
+            ],
+            [
+                11,
+                "country",
+                9
+            ],
+            [
+                0,
+                "founded by",
+                7
+            ],
+            [
+                0,
+                "inception",
+                8
+            ],
+            [
+                0,
+                "country",
+                9
+            ],
+            [
+                3,
+                "country",
+                9
+            ],
+            [
+                11,
+                "located in the administrative territorial entity",
+                9
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                9
+            ],
+            [
+                3,
+                "located in the administrative territorial entity",
+                9
+            ]
+        ]
+    },
+    {
+        "id": 3,
+        "tokenized_text": [
+            "Kevin",
+            "Durell",
+            "Edwards",
+            "(",
+            "born",
+            "October",
+            "30",
+            ",",
+            "1965",
+            ")",
+            "is",
+            "a",
+            "retired",
+            "American",
+            "professional",
+            "basketball",
+            "player",
+            "who",
+            "currently",
+            "serves",
+            "as",
+            "DePaul",
+            "University",
+            "men",
+            "'s",
+            "basketball",
+            "team",
+            "'s",
+            "director",
+            "of",
+            "community",
+            ",",
+            "corporate",
+            ",",
+            "and",
+            "professional",
+            "relations",
+            ".",
+            "Edwards",
+            "was",
+            "selected",
+            "by",
+            "the",
+            "Miami",
+            "Heat",
+            "with",
+            "the",
+            "20th",
+            "overall",
+            "pick",
+            "of",
+            "the",
+            "1988",
+            "NBA",
+            "draft",
+            ".",
+            "Edwards",
+            "was",
+            "the",
+            "second",
+            "ever",
+            "draft",
+            "pick",
+            "in",
+            "Miami",
+            "Heat",
+            "history",
+            ",",
+            "behind",
+            "teammate",
+            "Rony",
+            "Seikaly",
+            "who",
+            "was",
+            "selected",
+            "as",
+            "the",
+            "9th",
+            "pick",
+            "in",
+            "the",
+            "same",
+            "draft",
+            ".",
+            "He",
+            "played",
+            "in",
+            "11",
+            "NBA",
+            "seasons",
+            "for",
+            "the",
+            "Heat",
+            ",",
+            "New",
+            "Jersey",
+            "Nets",
+            ",",
+            "Orlando",
+            "Magic",
+            "and",
+            "Vancouver",
+            "Grizzlies",
+            ".",
+            "Edwards",
+            "best",
+            "year",
+            "as",
+            "a",
+            "pro",
+            "came",
+            "during",
+            "the",
+            "1993–94",
+            "season",
+            "as",
+            "a",
+            "member",
+            "of",
+            "the",
+            "Nets",
+            ",",
+            "appearing",
+            "in",
+            "all",
+            "82",
+            "games",
+            "and",
+            "averaging",
+            "14.0",
+            "ppg",
+            ".",
+            "He",
+            "had",
+            "the",
+            "most",
+            "points",
+            "in",
+            "all",
+            "of",
+            "his",
+            "seasons",
+            "with",
+            "the",
+            "Nets",
+            ".",
+            "In",
+            "his",
+            "NBA",
+            "career",
+            ",",
+            "Edwards",
+            "scored",
+            "a",
+            "total",
+            "of",
+            "6,596",
+            "points",
+            "in",
+            "604",
+            "games",
+            ".",
+            "He",
+            "retired",
+            "as",
+            "a",
+            "member",
+            "of",
+            "the",
+            "Grizzlies",
+            "in",
+            "2001",
+            ".",
+            "He",
+            "has",
+            "a",
+            "wife",
+            "and",
+            "three",
+            "children",
+            ".",
+            "He",
+            "played",
+            "collegiately",
+            "at",
+            "DePaul",
+            "University",
+            "and",
+            "Lakeland",
+            "Community",
+            "College",
+            "(",
+            "in",
+            "Kirtland",
+            ",",
+            "Ohio",
+            ")",
+            ".",
+            "After",
+            "retiring",
+            "from",
+            "basketball",
+            ",",
+            "Edwards",
+            "produced",
+            "movies",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Kevin Durell Edwards",
+                        "start": 0,
+                        "end": 2
+                    },
+                    {
+                        "value": "Edwards",
+                        "start": 151,
+                        "end": 151
+                    },
+                    {
+                        "value": "Edwards",
+                        "start": 38,
+                        "end": 38
+                    },
+                    {
+                        "value": "Edwards",
+                        "start": 56,
+                        "end": 56
+                    },
+                    {
+                        "value": "Edwards",
+                        "start": 104,
+                        "end": 104
+                    },
+                    {
+                        "value": "Edwards",
+                        "start": 203,
+                        "end": 203
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "October 30 , 1965",
+                        "start": 5,
+                        "end": 8
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "American",
+                        "start": 13,
+                        "end": 13
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "DePaul University",
+                        "start": 21,
+                        "end": 22
+                    },
+                    {
+                        "value": "DePaul University",
+                        "start": 185,
+                        "end": 186
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Miami Heat",
+                        "start": 43,
+                        "end": 44
+                    },
+                    {
+                        "value": "Miami Heat",
+                        "start": 64,
+                        "end": 65
+                    },
+                    {
+                        "value": "Heat",
+                        "start": 92,
+                        "end": 92
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "1988",
+                        "start": 52,
+                        "end": 52
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "NBA",
+                        "start": 53,
+                        "end": 53
+                    },
+                    {
+                        "value": "NBA",
+                        "start": 88,
+                        "end": 88
+                    },
+                    {
+                        "value": "NBA",
+                        "start": 148,
+                        "end": 148
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Rony Seikaly",
+                        "start": 70,
+                        "end": 71
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "11",
+                        "start": 87,
+                        "end": 87
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "New Jersey Nets",
+                        "start": 94,
+                        "end": 96
+                    },
+                    {
+                        "value": "Nets",
+                        "start": 120,
+                        "end": 120
+                    },
+                    {
+                        "value": "Nets",
+                        "start": 144,
+                        "end": 144
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Orlando Magic",
+                        "start": 98,
+                        "end": 99
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Vancouver Grizzlies",
+                        "start": 101,
+                        "end": 102
+                    },
+                    {
+                        "value": "Grizzlies",
+                        "start": 169,
+                        "end": 169
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "1993–94",
+                        "start": 113,
+                        "end": 113
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "82",
+                        "start": 125,
+                        "end": 125
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "6,596",
+                        "start": 156,
+                        "end": 156
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "604",
+                        "start": 159,
+                        "end": 159
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "2001",
+                        "start": 171,
+                        "end": 171
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "three",
+                        "start": 178,
+                        "end": 178
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "Lakeland Community College",
+                        "start": 188,
+                        "end": 190
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "Kirtland",
+                        "start": 193,
+                        "end": 193
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    {
+                        "value": "Ohio",
+                        "start": 195,
+                        "end": 195
+                    }
+                ],
+                "type": "LOC"
+            }
+        ],
+        "relations": [
+            [
+                0,
+                "country of citizenship",
+                2
+            ],
+            [
+                0,
+                "member of sports team",
+                4
+            ],
+            [
+                0,
+                "member of sports team",
+                9
+            ],
+            [
+                0,
+                "member of sports team",
+                10
+            ],
+            [
+                0,
+                "member of sports team",
+                11
+            ],
+            [
+                0,
+                "date of birth",
+                1
+            ],
+            [
+                7,
+                "member of sports team",
+                4
+            ],
+            [
+                18,
+                "located in the administrative territorial entity",
+                20
+            ],
+            [
+                4,
+                "league",
+                6
+            ],
+            [
+                9,
+                "league",
+                6
+            ],
+            [
+                10,
+                "league",
+                6
+            ],
+            [
+                11,
+                "league",
+                6
+            ],
+            [
+                0,
+                "educated at",
+                3
+            ],
+            [
+                0,
+                "educated at",
+                18
+            ],
+            [
+                2,
+                "contains administrative territorial entity",
+                20
+            ],
+            [
+                19,
+                "located in the administrative territorial entity",
+                20
+            ],
+            [
+                18,
+                "located in the administrative territorial entity",
+                19
+            ]
+        ]
+    },
+    {
+        "id": 4,
+        "tokenized_text": [
+            "The",
+            "first",
+            "instance",
+            "of",
+            "a",
+            "figure",
+            "of",
+            "the",
+            "lion",
+            "as",
+            "symbol",
+            "of",
+            "the",
+            "Kingdom",
+            "of",
+            "León",
+            "is",
+            "found",
+            "in",
+            "minted",
+            "coins",
+            "of",
+            "Alfonso",
+            "VII",
+            ",",
+            "called",
+            "the",
+            "Emperor",
+            "(",
+            "1126",
+            "-",
+            "1157",
+            ")",
+            ".",
+            "Until",
+            "then",
+            ",",
+            "the",
+            "cross",
+            "had",
+            "a",
+            "preponderant",
+            "position",
+            "on",
+            "documents",
+            "and",
+            "coins",
+            "of",
+            "Leonese",
+            "monarchs",
+            "since",
+            "that",
+            "reign",
+            "the",
+            "cross",
+            "was",
+            "gradually",
+            "displaced",
+            "by",
+            "the",
+            "lion",
+            ".",
+            "The",
+            "Spanish",
+            "historian",
+            "and",
+            "heraldist",
+            "Martín",
+            "de",
+            "Riquer",
+            "explained",
+            "that",
+            "the",
+            "lion",
+            "was",
+            "already",
+            "used",
+            "as",
+            "heraldic",
+            "emblem",
+            "in",
+            "1148",
+            ".",
+            "At",
+            "the",
+            "end",
+            "of",
+            "the",
+            "reign",
+            "of",
+            "Alfonso",
+            "VII",
+            ",",
+            "the",
+            "figure",
+            "of",
+            "this",
+            "animal",
+            "began",
+            "to",
+            "appear",
+            "on",
+            "royal",
+            "documents",
+            "as",
+            "personal",
+            "device",
+            "of",
+            "the",
+            "monarch",
+            "and",
+            "became",
+            "pervasive",
+            "during",
+            "reigns",
+            "of",
+            "Ferdinand",
+            "II",
+            "(",
+            "1157",
+            "-",
+            "1188",
+            ")",
+            "and",
+            "Alfonso",
+            "IX",
+            "(",
+            "1188",
+            "-",
+            "1230",
+            ")",
+            ".",
+            "The",
+            "first",
+            "reference",
+            "to",
+            "the",
+            "lion",
+            "as",
+            "personal",
+            "emblem",
+            "of",
+            "the",
+            "monarch",
+            ",",
+            "and",
+            "thus",
+            "the",
+            "kingdom",
+            "find",
+            "in",
+            "Chronica",
+            "Adefonsi",
+            "imperatoris",
+            ",",
+            "at",
+            "the",
+            "times",
+            "of",
+            "Alfonso",
+            "VII",
+            ",",
+            "this",
+            "chronicle",
+            "when",
+            "describing",
+            "participants",
+            "armies",
+            "in",
+            "the",
+            "taking",
+            "of",
+            "Almería",
+            ",",
+            "the",
+            "text",
+            "literally",
+            "says",
+            ":",
+            "The",
+            "heraldic",
+            "symbol",
+            "of",
+            "León",
+            "is",
+            "the",
+            "prominent",
+            "feature",
+            "of",
+            "flags",
+            "of",
+            "León",
+            ",",
+            "including",
+            "the",
+            "historical",
+            "standards",
+            "of",
+            "the",
+            "former",
+            "Kingdom",
+            "of",
+            "León",
+            ",",
+            "the",
+            "flags",
+            "of",
+            "the",
+            "City",
+            "of",
+            "León",
+            "and",
+            "the",
+            "Province",
+            "of",
+            "León",
+            ",",
+            "and",
+            "others",
+            "representing",
+            "the",
+            "region",
+            "known",
+            "as",
+            "León",
+            "or",
+            "the",
+            "Leonese",
+            "Country",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Leonese",
+                        "start": 48,
+                        "end": 48
+                    },
+                    {
+                        "value": "Kingdom of León",
+                        "start": 13,
+                        "end": 15
+                    },
+                    {
+                        "value": "Leonese Country",
+                        "start": 227,
+                        "end": 228
+                    },
+                    {
+                        "value": "León",
+                        "start": 215,
+                        "end": 215
+                    },
+                    {
+                        "value": "León",
+                        "start": 210,
+                        "end": 210
+                    },
+                    {
+                        "value": "León",
+                        "start": 202,
+                        "end": 202
+                    },
+                    {
+                        "value": "León",
+                        "start": 224,
+                        "end": 224
+                    },
+                    {
+                        "value": "León",
+                        "start": 183,
+                        "end": 183
+                    },
+                    {
+                        "value": "León",
+                        "start": 191,
+                        "end": 191
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Alfonso VII",
+                        "start": 22,
+                        "end": 23
+                    },
+                    {
+                        "value": "Alfonso VII",
+                        "start": 90,
+                        "end": 91
+                    },
+                    {
+                        "value": "Alfonso VII",
+                        "start": 159,
+                        "end": 160
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "1126",
+                        "start": 29,
+                        "end": 29
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "1157",
+                        "start": 31,
+                        "end": 31
+                    },
+                    {
+                        "value": "1157",
+                        "start": 119,
+                        "end": 119
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Spanish",
+                        "start": 63,
+                        "end": 63
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Martín de Riquer",
+                        "start": 67,
+                        "end": 69
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "1148",
+                        "start": 81,
+                        "end": 81
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Ferdinand II",
+                        "start": 116,
+                        "end": 117
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "1188",
+                        "start": 121,
+                        "end": 121
+                    },
+                    {
+                        "value": "1188",
+                        "start": 127,
+                        "end": 127
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Alfonso IX",
+                        "start": 124,
+                        "end": 125
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "1230",
+                        "start": 129,
+                        "end": 129
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Chronica Adefonsi imperatoris",
+                        "start": 151,
+                        "end": 153
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Almería",
+                        "start": 172,
+                        "end": 172
+                    }
+                ],
+                "type": "LOC"
+            }
+        ],
+        "relations": [
+            [
+                9,
+                "country of citizenship",
+                0
+            ],
+            [
+                0,
+                "head of state",
+                1
+            ],
+            [
+                1,
+                "child",
+                7
+            ],
+            [
+                7,
+                "date of death",
+                8
+            ],
+            [
+                9,
+                "date of death",
+                10
+            ],
+            [
+                1,
+                "date of death",
+                3
+            ],
+            [
+                7,
+                "father",
+                1
+            ],
+            [
+                1,
+                "applies to jurisdiction",
+                0
+            ]
+        ]
+    }
+]

@@ -1,0 +1,773 @@
+[
+    {
+        "id": 0,
+        "tokenized_text": [
+            "Elspeth",
+            "Attwooll",
+            "(",
+            "born",
+            "1",
+            "February",
+            "1943",
+            "in",
+            "Chislehurst",
+            "which",
+            "was",
+            "formerly",
+            "in",
+            "Kent",
+            "and",
+            "now",
+            "is",
+            "in",
+            "the",
+            "London",
+            "Borough",
+            "of",
+            "Bromley",
+            ")",
+            "is",
+            "a",
+            "retired",
+            "Scottish",
+            "Liberal",
+            "Democrat",
+            "politician",
+            ".",
+            "She",
+            "is",
+            "a",
+            "former",
+            "Member",
+            "of",
+            "the",
+            "European",
+            "Parliament",
+            "(",
+            "MEP",
+            ")",
+            "for",
+            "Scotland",
+            ".",
+            "She",
+            "has",
+            "stood",
+            "as",
+            "a",
+            "parliamentary",
+            "candidate",
+            "for",
+            "Glasgow",
+            "Maryhill",
+            "in",
+            "every",
+            "general",
+            "election",
+            "from",
+            "October",
+            "1974",
+            "to",
+            "1997",
+            ".",
+            "She",
+            "was",
+            "part",
+            "of",
+            "the",
+            "Liberal",
+            "Democrat",
+            "delegation",
+            "to",
+            "the",
+            "Scottish",
+            "Constitutional",
+            "Convention",
+            ".",
+            "She",
+            "was",
+            "first",
+            "elected",
+            "to",
+            "the",
+            "European",
+            "Parliament",
+            "in",
+            "1999",
+            ",",
+            "the",
+            "first",
+            "Liberal",
+            "Democrat",
+            "ever",
+            "to",
+            "be",
+            "elected",
+            "to",
+            "the",
+            "European",
+            "Parliament",
+            "from",
+            "Scotland",
+            ",",
+            "and",
+            "retained",
+            "her",
+            "seat",
+            "in",
+            "2004",
+            ".",
+            "She",
+            "stood",
+            "down",
+            "as",
+            "MEP",
+            "at",
+            "the",
+            "2009",
+            "European",
+            "Parliamentary",
+            "elections",
+            ",",
+            "after",
+            "ten",
+            "years",
+            "in",
+            "Brussels",
+            "and",
+            "Strasbourg",
+            ".",
+            "While",
+            "an",
+            "MEP",
+            ",",
+            "she",
+            "served",
+            "on",
+            "the",
+            "Fisheries",
+            "and",
+            "Regional",
+            "Development",
+            "Committees",
+            ",",
+            "being",
+            "elected",
+            "a",
+            "vice",
+            "-",
+            "chair",
+            "of",
+            "the",
+            "former",
+            ".",
+            "Her",
+            "work",
+            "in",
+            "the",
+            "European",
+            "Parliament",
+            "was",
+            "highly",
+            "respected",
+            ",",
+            "and",
+            "she",
+            "drafted",
+            "many",
+            "influential",
+            "reports",
+            ",",
+            "including",
+            "one",
+            "on",
+            "Community",
+            "action",
+            "in",
+            "relation",
+            "to",
+            "whaling",
+            "which",
+            "stressed",
+            "the",
+            "need",
+            "for",
+            "the",
+            "European",
+            "Union",
+            "to",
+            "use",
+            "its",
+            "influence",
+            "to",
+            "secure",
+            "the",
+            "International",
+            "Whaling",
+            "Commission",
+            "and",
+            "agreement",
+            "between",
+            "the",
+            "pro-",
+            "and",
+            "anti-",
+            "whaling",
+            "lobbies",
+            "within",
+            "it",
+            ".",
+            "She",
+            "was",
+            "and",
+            "is",
+            "a",
+            "passionate",
+            "advocate",
+            "of",
+            "radical",
+            "decentralisation",
+            "of",
+            "the",
+            "Common",
+            "Fisheries",
+            "Policy",
+            ".",
+            "She",
+            "was",
+            "succeeded",
+            "as",
+            "Liberal",
+            "Democrat",
+            "MEP",
+            "for",
+            "Scotland",
+            "by",
+            "George",
+            "Lyon",
+            ",",
+            "farmer",
+            "and",
+            "former",
+            "MSP",
+            "for",
+            "Argyll",
+            "and",
+            "Bute",
+            ".",
+            "Previously",
+            ",",
+            "Elspeth",
+            "Attwooll",
+            "taught",
+            "jurisprudence",
+            "and",
+            "legal",
+            "theory",
+            "at",
+            "the",
+            "School",
+            "of",
+            "Law",
+            "of",
+            "the",
+            "University",
+            "of",
+            "Glasgow",
+            ",",
+            "where",
+            "she",
+            "was",
+            "a",
+            "senior",
+            "lecturer",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Elspeth Attwooll",
+                        "start": 0,
+                        "end": 1
+                    },
+                    {
+                        "value": "Elspeth Attwooll",
+                        "start": 254,
+                        "end": 255
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "1 February 1943",
+                        "start": 4,
+                        "end": 6
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Chislehurst",
+                        "start": 8,
+                        "end": 8
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Kent",
+                        "start": 13,
+                        "end": 13
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "London Borough",
+                        "start": 19,
+                        "end": 20
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Bromley",
+                        "start": 22,
+                        "end": 22
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Scottish Liberal Democrat",
+                        "start": 27,
+                        "end": 29
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "MEP",
+                        "start": 42,
+                        "end": 42
+                    },
+                    {
+                        "value": "MEP",
+                        "start": 118,
+                        "end": 118
+                    },
+                    {
+                        "value": "MEP",
+                        "start": 136,
+                        "end": 136
+                    },
+                    {
+                        "value": "Member of the European Parliament",
+                        "start": 36,
+                        "end": 40
+                    },
+                    {
+                        "value": "MEP",
+                        "start": 236,
+                        "end": 236
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Scotland",
+                        "start": 45,
+                        "end": 45
+                    },
+                    {
+                        "value": "Scotland",
+                        "start": 105,
+                        "end": 105
+                    },
+                    {
+                        "value": "Scotland",
+                        "start": 238,
+                        "end": 238
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Glasgow Maryhill",
+                        "start": 55,
+                        "end": 56
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "October 1974",
+                        "start": 62,
+                        "end": 63
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "1997",
+                        "start": 65,
+                        "end": 65
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Liberal Democrat",
+                        "start": 72,
+                        "end": 73
+                    },
+                    {
+                        "value": "Liberal Democrat",
+                        "start": 94,
+                        "end": 95
+                    },
+                    {
+                        "value": "Liberal Democrat",
+                        "start": 234,
+                        "end": 235
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Scottish Constitutional Convention",
+                        "start": 77,
+                        "end": 79
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "European Parliament",
+                        "start": 87,
+                        "end": 88
+                    },
+                    {
+                        "value": "European Parliament",
+                        "start": 102,
+                        "end": 103
+                    },
+                    {
+                        "value": "European Parliament",
+                        "start": 162,
+                        "end": 163
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "1999",
+                        "start": 90,
+                        "end": 90
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "2004",
+                        "start": 112,
+                        "end": 112
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "2009",
+                        "start": 121,
+                        "end": 121
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "ten years",
+                        "start": 127,
+                        "end": 128
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "Brussels",
+                        "start": 130,
+                        "end": 130
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    {
+                        "value": "Strasbourg",
+                        "start": 132,
+                        "end": 132
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    {
+                        "value": "Fisheries and Regional Development Committees",
+                        "start": 142,
+                        "end": 146
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    {
+                        "value": "European Union",
+                        "start": 190,
+                        "end": 191
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    {
+                        "value": "International Whaling Commission",
+                        "start": 199,
+                        "end": 201
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    {
+                        "value": "Common Fisheries Policy",
+                        "start": 226,
+                        "end": 228
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    {
+                        "value": "George Lyon",
+                        "start": 240,
+                        "end": 241
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    {
+                        "value": "Argyll and Bute",
+                        "start": 248,
+                        "end": 250
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    {
+                        "value": "School of Law of the University of Glasgow",
+                        "start": 263,
+                        "end": 270
+                    }
+                ],
+                "type": "ORG"
+            }
+        ],
+        "relations": [
+            [
+                0,
+                "date of birth",
+                1
+            ],
+            [
+                0,
+                "position held",
+                7
+            ],
+            [
+                0,
+                "place of birth",
+                2
+            ],
+            [
+                0,
+                "member of political party",
+                6
+            ],
+            [
+                0,
+                "member of political party",
+                12
+            ],
+            [
+                14,
+                "has part",
+                7
+            ],
+            [
+                7,
+                "part of",
+                14
+            ],
+            [
+                22,
+                "legislative body",
+                14
+            ],
+            [
+                25,
+                "country of citizenship",
+                8
+            ],
+            [
+                25,
+                "member of political party",
+                12
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                13,
+                "applies to jurisdiction",
+                8
+            ],
+            [
+                26,
+                "located in the administrative territorial entity",
+                8
+            ],
+            [
+                19,
+                "legislative body",
+                14
+            ],
+            [
+                7,
+                "part of",
+                22
+            ],
+            [
+                22,
+                "contains administrative territorial entity",
+                8
+            ],
+            [
+                8,
+                "member of",
+                22
+            ],
+            [
+                25,
+                "member of",
+                6
+            ],
+            [
+                25,
+                "position held",
+                7
+            ],
+            [
+                0,
+                "place of birth",
+                5
+            ],
+            [
+                0,
+                "country of citizenship",
+                8
+            ],
+            [
+                14,
+                "applies to jurisdiction",
+                22
+            ],
+            [
+                14,
+                "applies to jurisdiction",
+                19
+            ],
+            [
+                22,
+                "has part",
+                7
+            ]
+        ]
+    }
+]

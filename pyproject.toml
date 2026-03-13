@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel", "build"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["glidre", "glidre.*", "training"]
+
+[tool.setuptools.dynamic]
+version = {attr = "glidre.__version__"}
+
+[project]
+name = "glidre"
+description = "Generalist model for Document Relation Extraction"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [
+  {name = "Robin Armingaud", email = "robin.armingaud@cea.fr"}
+]
+
+dependencies = [
+    "transformers==4.51.3",
+    "datasets==4.5.0",
+    "torch",
+    "GLiNER==0.2.13",
+    "tqdm",
+]
+
+dynamic = ["version"]
+
+

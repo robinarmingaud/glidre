@@ -1,0 +1,2382 @@
+[
+    {
+        "id": 0,
+        "tokenized_text": [
+            "Prayer",
+            "in",
+            "the",
+            "Hebrew",
+            "Bible",
+            "is",
+            "an",
+            "evolving",
+            "means",
+            "of",
+            "interacting",
+            "with",
+            "God",
+            ",",
+            "most",
+            "frequently",
+            "through",
+            "a",
+            "spontaneous",
+            ",",
+            "individual",
+            ",",
+            "unorganized",
+            "form",
+            "of",
+            "petitioning",
+            "and/or",
+            "thanking",
+            ".",
+            "Standardized",
+            "prayer",
+            "such",
+            "as",
+            "is",
+            "done",
+            "today",
+            "is",
+            "non",
+            "-",
+            "existent",
+            ",",
+            "though",
+            "beginning",
+            "in",
+            "Deuteronomy",
+            ",",
+            "the",
+            "Bible",
+            "lays",
+            "the",
+            "groundwork",
+            "for",
+            "organized",
+            "prayer",
+            ",",
+            "including",
+            "basic",
+            "liturgical",
+            "guidelines",
+            ",",
+            "and",
+            "by",
+            "the",
+            "Bible",
+            "'s",
+            "later",
+            "books",
+            ",",
+            "prayer",
+            "has",
+            "evolved",
+            "to",
+            "a",
+            "more",
+            "standardized",
+            "form",
+            ",",
+            "although",
+            "still",
+            "radically",
+            "different",
+            "from",
+            "the",
+            "form",
+            "practiced",
+            "by",
+            "modern",
+            "Jews",
+            ".",
+            "Individual",
+            "prayer",
+            "is",
+            "described",
+            "by",
+            "the",
+            "Tanakh",
+            "two",
+            "ways",
+            ".",
+            "The",
+            "first",
+            "of",
+            "these",
+            "is",
+            "when",
+            "prayer",
+            "is",
+            "described",
+            "as",
+            "occurring",
+            ",",
+            "and",
+            "a",
+            "result",
+            "is",
+            "achieved",
+            ",",
+            "but",
+            "no",
+            "further",
+            "information",
+            "regarding",
+            "a",
+            "person",
+            "'s",
+            "prayer",
+            "is",
+            "given",
+            ".",
+            "In",
+            "these",
+            "instances",
+            ",",
+            "such",
+            "as",
+            "with",
+            "Isaac",
+            ",",
+            "Moses",
+            ",",
+            "Samuel",
+            ",",
+            "and",
+            "Job",
+            ",",
+            "the",
+            "act",
+            "of",
+            "praying",
+            "is",
+            "a",
+            "method",
+            "of",
+            "changing",
+            "a",
+            "situation",
+            "for",
+            "the",
+            "better",
+            ".",
+            "The",
+            "second",
+            "way",
+            "in",
+            "which",
+            "prayer",
+            "is",
+            "depicted",
+            "is",
+            "through",
+            "fully",
+            "fleshed",
+            "out",
+            "episodes",
+            "of",
+            "prayer",
+            ",",
+            "where",
+            "a",
+            "person",
+            "'s",
+            "prayer",
+            "is",
+            "related",
+            "in",
+            "full",
+            ".",
+            "Many",
+            "famous",
+            "biblical",
+            "personalities",
+            "have",
+            "such",
+            "a",
+            "prayer",
+            ",",
+            "including",
+            "every",
+            "major",
+            "character",
+            "from",
+            "Hannah",
+            "to",
+            "Hezekiah",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Prayer in the Hebrew Bible",
+                        "start": 0,
+                        "end": 4
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "God",
+                        "start": 12,
+                        "end": 12
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Deuteronomy",
+                        "start": 44,
+                        "end": 44
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Bible",
+                        "start": 47,
+                        "end": 47
+                    },
+                    {
+                        "value": "Bible",
+                        "start": 63,
+                        "end": 63
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Jews",
+                        "start": 87,
+                        "end": 87
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Tanakh",
+                        "start": 95,
+                        "end": 95
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Isaac",
+                        "start": 136,
+                        "end": 136
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Moses",
+                        "start": 138,
+                        "end": 138
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Samuel",
+                        "start": 140,
+                        "end": 140
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Job",
+                        "start": 143,
+                        "end": 143
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Hannah",
+                        "start": 201,
+                        "end": 201
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Hezekiah",
+                        "start": 203,
+                        "end": 203
+                    }
+                ],
+                "type": "PER"
+            }
+        ],
+        "relations": [
+            [
+                2,
+                "part of",
+                3
+            ],
+            [
+                6,
+                "present in work",
+                3
+            ],
+            [
+                7,
+                "present in work",
+                3
+            ],
+            [
+                8,
+                "present in work",
+                3
+            ],
+            [
+                11,
+                "present in work",
+                3
+            ],
+            [
+                3,
+                "has part",
+                2
+            ],
+            [
+                9,
+                "present in work",
+                3
+            ],
+            [
+                10,
+                "present in work",
+                3
+            ]
+        ]
+    },
+    {
+        "id": 1,
+        "tokenized_text": [
+            "This",
+            "is",
+            "a",
+            "list",
+            "of",
+            "institutions",
+            "related",
+            "to",
+            "the",
+            "culture",
+            "of",
+            "Sweden",
+            ".",
+            "Swedish",
+            "20th",
+            "-",
+            "century",
+            "culture",
+            "is",
+            "noted",
+            "by",
+            "pioneering",
+            "works",
+            "by",
+            "the",
+            "early",
+            "days",
+            "of",
+            "cinema",
+            ",",
+            "with",
+            "Mauritz",
+            "Stiller",
+            "and",
+            "Victor",
+            "Sjöström",
+            ".",
+            "Later",
+            ",",
+            "moguls",
+            "like",
+            "Ingmar",
+            "Bergman",
+            "and",
+            "actresses",
+            "such",
+            "as",
+            "Greta",
+            "Garbo",
+            ",",
+            "Ingrid",
+            "Bergman",
+            "and",
+            "Anita",
+            "Ekberg",
+            "made",
+            "careers",
+            "abroad",
+            ".",
+            "Swedish",
+            "music",
+            "is",
+            "in",
+            "many",
+            "minds",
+            "connected",
+            "with",
+            "ABBA",
+            ",",
+            "although",
+            "more",
+            "recently",
+            "indie",
+            "bands",
+            "like",
+            "The",
+            "Soundtrack",
+            "of",
+            "Our",
+            "Lives",
+            ",",
+            "The",
+            "Hives",
+            ",",
+            "Sahara",
+            "Hotnights",
+            "and",
+            "The",
+            "(",
+            "International",
+            ")",
+            "Noise",
+            "Conspiracy",
+            "have",
+            "started",
+            "achieving",
+            "international",
+            "fame",
+            ".",
+            "The",
+            "Swedish",
+            "hip",
+            "hop",
+            "scene",
+            "is",
+            "booming",
+            ".",
+            "Swedish",
+            "literature",
+            "is",
+            "also",
+            "vibrant",
+            "and",
+            "active",
+            ",",
+            "and",
+            "Sweden",
+            "ranks",
+            "third",
+            "in",
+            "the",
+            "list",
+            "of",
+            "countries",
+            "with",
+            "the",
+            "most",
+            "Nobel",
+            "Prize",
+            "laureates",
+            "in",
+            "literature",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Sweden",
+                        "start": 11,
+                        "end": 11
+                    },
+                    {
+                        "value": "Sweden",
+                        "start": 116,
+                        "end": 116
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Swedish",
+                        "start": 100,
+                        "end": 100
+                    },
+                    {
+                        "value": "Swedish",
+                        "start": 13,
+                        "end": 13
+                    },
+                    {
+                        "value": "Swedish",
+                        "start": 59,
+                        "end": 59
+                    },
+                    {
+                        "value": "Swedish",
+                        "start": 107,
+                        "end": 107
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "20th-century",
+                        "start": 14,
+                        "end": 16
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Mauritz Stiller",
+                        "start": 31,
+                        "end": 32
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Victor Sjöström",
+                        "start": 34,
+                        "end": 35
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Ingmar Bergman",
+                        "start": 41,
+                        "end": 42
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Greta Garbo",
+                        "start": 47,
+                        "end": 48
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Ingrid Bergman",
+                        "start": 50,
+                        "end": 51
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Anita Ekberg",
+                        "start": 53,
+                        "end": 54
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "ABBA",
+                        "start": 67,
+                        "end": 67
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "The Soundtrack of Our Lives",
+                        "start": 75,
+                        "end": 79
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "The Hives",
+                        "start": 81,
+                        "end": 82
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Sahara Hotnights",
+                        "start": 84,
+                        "end": 85
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "The ( International ) Noise Conspiracy",
+                        "start": 87,
+                        "end": 92
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Nobel Prize",
+                        "start": 127,
+                        "end": 128
+                    }
+                ],
+                "type": "MISC"
+            }
+        ],
+        "relations": [
+            [
+                3,
+                "country of citizenship",
+                0
+            ],
+            [
+                3,
+                "country of citizenship",
+                1
+            ],
+            [
+                4,
+                "country of citizenship",
+                0
+            ],
+            [
+                4,
+                "country of citizenship",
+                1
+            ],
+            [
+                5,
+                "country of citizenship",
+                0
+            ],
+            [
+                5,
+                "country of citizenship",
+                1
+            ],
+            [
+                6,
+                "country of citizenship",
+                0
+            ],
+            [
+                6,
+                "country of citizenship",
+                1
+            ],
+            [
+                7,
+                "country of citizenship",
+                0
+            ],
+            [
+                7,
+                "country of citizenship",
+                1
+            ],
+            [
+                8,
+                "country of citizenship",
+                0
+            ],
+            [
+                8,
+                "country of citizenship",
+                1
+            ],
+            [
+                9,
+                "country",
+                0
+            ],
+            [
+                9,
+                "country",
+                1
+            ],
+            [
+                11,
+                "country",
+                0
+            ],
+            [
+                11,
+                "country",
+                1
+            ],
+            [
+                4,
+                "languages spoken, written or signed",
+                1
+            ],
+            [
+                0,
+                "official language",
+                1
+            ],
+            [
+                10,
+                "country",
+                0
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                0
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                1
+            ],
+            [
+                11,
+                "located in the administrative territorial entity",
+                0
+            ],
+            [
+                11,
+                "located in the administrative territorial entity",
+                1
+            ],
+            [
+                10,
+                "located in the administrative territorial entity",
+                0
+            ]
+        ]
+    },
+    {
+        "id": 2,
+        "tokenized_text": [
+            "The",
+            "Rambler",
+            "Classic",
+            "is",
+            "an",
+            "intermediate",
+            "sized",
+            "automobile",
+            "that",
+            "was",
+            "built",
+            "and",
+            "sold",
+            "by",
+            "American",
+            "Motors",
+            "Corporation",
+            "(",
+            "AMC",
+            ")",
+            "from",
+            "the",
+            "1961",
+            "to",
+            "1966",
+            "model",
+            "years",
+            ".",
+            "The",
+            "Classic",
+            "took",
+            "the",
+            "place",
+            "of",
+            "the",
+            "Rambler",
+            "Six",
+            "and",
+            "Rambler",
+            "Rebel",
+            "V-8",
+            "names",
+            ",",
+            "which",
+            "were",
+            "retired",
+            "at",
+            "the",
+            "end",
+            "of",
+            "the",
+            "1960",
+            "model",
+            "year",
+            ".",
+            "Introduced",
+            "at",
+            "first",
+            "as",
+            "only",
+            "a",
+            "six",
+            "-",
+            "passenger",
+            "four",
+            "-",
+            "door",
+            "sedan",
+            "and",
+            "station",
+            "wagon",
+            "versions",
+            ",",
+            "additional",
+            "body",
+            "styles",
+            "were",
+            "added",
+            "with",
+            "two",
+            "-",
+            "door",
+            "models",
+            "available",
+            "as",
+            "a",
+            "\"",
+            "post",
+            "\"",
+            "sedan",
+            "and",
+            "in",
+            "1964",
+            "as",
+            "a",
+            "sporty",
+            "pillar",
+            "-",
+            "less",
+            "hardtop",
+            ",",
+            "as",
+            "well",
+            "as",
+            "a",
+            "convertible",
+            "for",
+            "1965",
+            "and",
+            "1966",
+            ".",
+            "Motor",
+            "Trend",
+            "magazine",
+            "selected",
+            "AMC",
+            "'s",
+            "Classic",
+            "line",
+            "as",
+            "Car",
+            "of",
+            "the",
+            "Year",
+            "award",
+            "for",
+            "1963",
+            ".",
+            "The",
+            "Rambler",
+            "Rebel",
+            "name",
+            "replaced",
+            "Classic",
+            "on",
+            "AMC",
+            "'s",
+            "completely",
+            "redesigned",
+            "large",
+            "-",
+            "line",
+            "of",
+            "cars",
+            "in",
+            "1967",
+            ",",
+            "and",
+            "for",
+            "1968",
+            "the",
+            "Rebel",
+            "was",
+            "renamed",
+            "the",
+            "AMC",
+            "Rebel",
+            "as",
+            "AMC",
+            "began",
+            "the",
+            "process",
+            "of",
+            "phasing",
+            "out",
+            "the",
+            "Rambler",
+            "marque",
+            ".",
+            "Throughout",
+            "its",
+            "life",
+            "in",
+            "the",
+            "AMC",
+            "model",
+            "line",
+            "-",
+            "up",
+            ",",
+            "the",
+            "Classic",
+            "was",
+            "the",
+            "high",
+            "-",
+            "volume",
+            "seller",
+            "for",
+            "the",
+            "independent",
+            "automaker",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Classic",
+                        "start": 29,
+                        "end": 29
+                    },
+                    {
+                        "value": "Classic",
+                        "start": 117,
+                        "end": 117
+                    },
+                    {
+                        "value": "Classic",
+                        "start": 181,
+                        "end": 181
+                    },
+                    {
+                        "value": "Classic",
+                        "start": 133,
+                        "end": 133
+                    },
+                    {
+                        "value": "Rambler Classic",
+                        "start": 1,
+                        "end": 2
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "American Motors Corporation",
+                        "start": 14,
+                        "end": 16
+                    },
+                    {
+                        "value": "AMC",
+                        "start": 18,
+                        "end": 18
+                    },
+                    {
+                        "value": "AMC",
+                        "start": 115,
+                        "end": 115
+                    },
+                    {
+                        "value": "AMC",
+                        "start": 135,
+                        "end": 135
+                    },
+                    {
+                        "value": "AMC",
+                        "start": 158,
+                        "end": 158
+                    },
+                    {
+                        "value": "AMC",
+                        "start": 174,
+                        "end": 174
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "1961",
+                        "start": 22,
+                        "end": 22
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "1966",
+                        "start": 109,
+                        "end": 109
+                    },
+                    {
+                        "value": "1966",
+                        "start": 24,
+                        "end": 24
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Rambler Six",
+                        "start": 35,
+                        "end": 36
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Rambler Rebel V-8",
+                        "start": 38,
+                        "end": 40
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "1960",
+                        "start": 51,
+                        "end": 51
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "six",
+                        "start": 61,
+                        "end": 61
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "four",
+                        "start": 64,
+                        "end": 64
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "two",
+                        "start": 79,
+                        "end": 79
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "1964",
+                        "start": 92,
+                        "end": 92
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "1965",
+                        "start": 107,
+                        "end": 107
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Motor Trend",
+                        "start": 111,
+                        "end": 112
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Car of the Year award",
+                        "start": 120,
+                        "end": 124
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "1963",
+                        "start": 126,
+                        "end": 126
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Rambler Rebel",
+                        "start": 129,
+                        "end": 130
+                    },
+                    {
+                        "value": "Rebel",
+                        "start": 151,
+                        "end": 151
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "1967",
+                        "start": 145,
+                        "end": 145
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "1968",
+                        "start": 149,
+                        "end": 149
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "AMC Rebel",
+                        "start": 155,
+                        "end": 156
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "Rambler",
+                        "start": 166,
+                        "end": 166
+                    }
+                ],
+                "type": "MISC"
+            }
+        ],
+        "relations": [
+            [
+                0,
+                "manufacturer",
+                1
+            ],
+            [
+                0,
+                "follows",
+                4
+            ],
+            [
+                0,
+                "followed by",
+                15
+            ],
+            [
+                18,
+                "follows",
+                0
+            ],
+            [
+                19,
+                "manufacturer",
+                1
+            ],
+            [
+                4,
+                "manufacturer",
+                1
+            ],
+            [
+                4,
+                "followed by",
+                0
+            ],
+            [
+                5,
+                "manufacturer",
+                1
+            ],
+            [
+                15,
+                "manufacturer",
+                1
+            ],
+            [
+                15,
+                "follows",
+                0
+            ],
+            [
+                15,
+                "followed by",
+                18
+            ],
+            [
+                0,
+                "follows",
+                5
+            ],
+            [
+                18,
+                "manufacturer",
+                1
+            ],
+            [
+                18,
+                "follows",
+                15
+            ],
+            [
+                0,
+                "followed by",
+                18
+            ],
+            [
+                0,
+                "inception",
+                2
+            ],
+            [
+                5,
+                "followed by",
+                0
+            ]
+        ]
+    },
+    {
+        "id": 3,
+        "tokenized_text": [
+            "Fall",
+            "River",
+            "(",
+            "2011",
+            "population",
+            ":",
+            "11,526",
+            ")",
+            "is",
+            "a",
+            "suburban",
+            "community",
+            "in",
+            "Halifax",
+            ",",
+            "Nova",
+            "Scotia",
+            ",",
+            "Canada",
+            ".",
+            "It",
+            "is",
+            "located",
+            "north",
+            "-",
+            "northeast",
+            "of",
+            "the",
+            "Bedford",
+            "Basin",
+            ",",
+            "northeast",
+            "of",
+            "Bedford",
+            "and",
+            "Lower",
+            "Sackville",
+            "and",
+            "north",
+            "of",
+            "Waverley",
+            ".",
+            "Fall",
+            "River",
+            "'s",
+            "name",
+            "is",
+            "derived",
+            "from",
+            "a",
+            "stream",
+            "running",
+            "between",
+            "Miller",
+            "Lake",
+            "and",
+            "Lake",
+            "Thomas",
+            "which",
+            "had",
+            "a",
+            "waterfall",
+            ".",
+            "These",
+            "falls",
+            "supplied",
+            "water",
+            "power",
+            "for",
+            "several",
+            "mills",
+            "during",
+            "the",
+            "19th",
+            "century",
+            "as",
+            "well",
+            "as",
+            "a",
+            "local",
+            "electrical",
+            "utility",
+            "during",
+            "the",
+            "early",
+            "20th",
+            "century",
+            ".",
+            "The",
+            "waterfall",
+            "was",
+            "demolished",
+            "in",
+            "the",
+            "late",
+            "1950s",
+            "as",
+            "a",
+            "result",
+            "of",
+            "the",
+            "construction",
+            "of",
+            "the",
+            "Bicentennial",
+            "Highway",
+            "leading",
+            "to",
+            "Halifax",
+            ";",
+            "the",
+            "waterfall",
+            "was",
+            "located",
+            "where",
+            "the",
+            "4-lane",
+            "expressway",
+            "currently",
+            "runs",
+            "up",
+            "the",
+            "hill",
+            "from",
+            "the",
+            "crossing",
+            "of",
+            "Lake",
+            "Thomas",
+            "to",
+            "the",
+            "interchange",
+            "with",
+            "Highway",
+            "118",
+            "at",
+            "Miller",
+            "Lake",
+            ".",
+            "Hydro",
+            "-",
+            "electric",
+            "power",
+            "is",
+            "now",
+            "generated",
+            "by",
+            "an",
+            "underground",
+            "tunnel",
+            "that",
+            "carries",
+            "the",
+            "water",
+            "from",
+            "Miller",
+            "Lake",
+            "which",
+            "once",
+            "flowed",
+            "through",
+            "this",
+            "stream",
+            "and",
+            "down",
+            "the",
+            "waterfall",
+            ".",
+            "Turbines",
+            "produce",
+            "electricity",
+            "for",
+            "the",
+            "main",
+            "grid",
+            ",",
+            "during",
+            "peak",
+            "periods",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Fall River",
+                        "start": 0,
+                        "end": 1
+                    },
+                    {
+                        "value": "Fall River",
+                        "start": 42,
+                        "end": 43
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "2011",
+                        "start": 3,
+                        "end": 3
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "11,526",
+                        "start": 6,
+                        "end": 6
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Halifax",
+                        "start": 13,
+                        "end": 13
+                    },
+                    {
+                        "value": "Halifax",
+                        "start": 108,
+                        "end": 108
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Nova Scotia",
+                        "start": 15,
+                        "end": 16
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Canada",
+                        "start": 18,
+                        "end": 18
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Bedford Basin",
+                        "start": 28,
+                        "end": 29
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Bedford",
+                        "start": 33,
+                        "end": 33
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Lower Sackville",
+                        "start": 35,
+                        "end": 36
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Waverley",
+                        "start": 40,
+                        "end": 40
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Miller Lake",
+                        "start": 53,
+                        "end": 54
+                    },
+                    {
+                        "value": "Miller Lake",
+                        "start": 136,
+                        "end": 137
+                    },
+                    {
+                        "value": "Miller Lake",
+                        "start": 155,
+                        "end": 156
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Lake Thomas",
+                        "start": 127,
+                        "end": 128
+                    },
+                    {
+                        "value": "Lake Thomas",
+                        "start": 56,
+                        "end": 57
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "19th century",
+                        "start": 73,
+                        "end": 74
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "20th century",
+                        "start": 85,
+                        "end": 86
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "1950s",
+                        "start": 95,
+                        "end": 95
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Bicentennial Highway",
+                        "start": 104,
+                        "end": 105
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "4-lane",
+                        "start": 116,
+                        "end": 116
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Highway 118",
+                        "start": 133,
+                        "end": 134
+                    }
+                ],
+                "type": "LOC"
+            }
+        ],
+        "relations": [
+            [
+                3,
+                "country",
+                5
+            ],
+            [
+                5,
+                "contains administrative territorial entity",
+                4
+            ],
+            [
+                15,
+                "country",
+                5
+            ],
+            [
+                15,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                17,
+                "country",
+                5
+            ],
+            [
+                0,
+                "country",
+                5
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                4,
+                "country",
+                5
+            ],
+            [
+                4,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                16,
+                "country",
+                5
+            ],
+            [
+                6,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                11,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                10,
+                "country",
+                5
+            ],
+            [
+                6,
+                "country",
+                5
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                8,
+                "country",
+                5
+            ],
+            [
+                7,
+                "country",
+                5
+            ],
+            [
+                11,
+                "country",
+                5
+            ],
+            [
+                8,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                10,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                17,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                9,
+                "country",
+                5
+            ],
+            [
+                3,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                15,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                17,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                10,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                6,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                8,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                11,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                5
+            ]
+        ]
+    },
+    {
+        "id": 4,
+        "tokenized_text": [
+            "Dune",
+            "II",
+            ":",
+            "The",
+            "Building",
+            "of",
+            "a",
+            "Dynasty",
+            "(",
+            "titled",
+            "Dune",
+            "II",
+            ":",
+            "Battle",
+            "for",
+            "Arrakis",
+            "in",
+            "Europe",
+            "and",
+            "Dune",
+            ":",
+            "The",
+            "Battle",
+            "for",
+            "Arrakis",
+            "for",
+            "the",
+            "North",
+            "American",
+            "Mega",
+            "Drive",
+            "/",
+            "Genesis",
+            "port",
+            "respectively",
+            ")",
+            "is",
+            "a",
+            "real",
+            "-",
+            "time",
+            "strategy",
+            "Dune",
+            "video",
+            "game",
+            "developed",
+            "by",
+            "Westwood",
+            "Studios",
+            "and",
+            "released",
+            "by",
+            "Virgin",
+            "Games",
+            "in",
+            "December",
+            "1992",
+            ".",
+            "It",
+            "is",
+            "based",
+            "upon",
+            "David",
+            "Lynch",
+            "'s",
+            "1984",
+            "movie",
+            "Dune",
+            ",",
+            "an",
+            "adaptation",
+            "of",
+            "Frank",
+            "Herbert",
+            "'s",
+            "science",
+            "fiction",
+            "novel",
+            "of",
+            "the",
+            "same",
+            "name",
+            ".",
+            "While",
+            "not",
+            "necessarily",
+            "the",
+            "first",
+            "real",
+            "-",
+            "time",
+            "strategy",
+            "(",
+            "RTS",
+            ")",
+            "video",
+            "game",
+            ",",
+            "Dune",
+            "II",
+            "established",
+            "the",
+            "format",
+            "that",
+            "would",
+            "be",
+            "followed",
+            "for",
+            "years",
+            "to",
+            "come",
+            ".",
+            "As",
+            "such",
+            ",",
+            "Dune",
+            "II",
+            "is",
+            "the",
+            "archetypal",
+            "\"",
+            "real",
+            "-",
+            "time",
+            "strategy",
+            "\"",
+            "game",
+            ".",
+            "Striking",
+            "a",
+            "balance",
+            "between",
+            "complexity",
+            "and",
+            "innovation",
+            ",",
+            "it",
+            "was",
+            "a",
+            "huge",
+            "success",
+            "and",
+            "laid",
+            "the",
+            "foundation",
+            "for",
+            "Command",
+            "&",
+            "Conquer",
+            ",",
+            "Warcraft",
+            ",",
+            "StarCraft",
+            ",",
+            "and",
+            "many",
+            "other",
+            "RTS",
+            "games",
+            "that",
+            "followed",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Dune II : The Building of a Dynasty",
+                        "start": 0,
+                        "end": 7
+                    },
+                    {
+                        "value": "Dune II : Battle for Arrakis in Europe",
+                        "start": 10,
+                        "end": 17
+                    },
+                    {
+                        "value": "Dune : The Battle for Arrakis for the North American Mega Drive / Genesis port",
+                        "start": 19,
+                        "end": 33
+                    },
+                    {
+                        "value": "Dune II",
+                        "start": 115,
+                        "end": 116
+                    },
+                    {
+                        "value": "Dune II",
+                        "start": 98,
+                        "end": 99
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Dune",
+                        "start": 42,
+                        "end": 42
+                    },
+                    {
+                        "value": "Dune",
+                        "start": 67,
+                        "end": 67
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Westwood Studios",
+                        "start": 47,
+                        "end": 48
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Virgin Games",
+                        "start": 52,
+                        "end": 53
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "December 1992",
+                        "start": 55,
+                        "end": 56
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "David Lynch",
+                        "start": 62,
+                        "end": 63
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "1984",
+                        "start": 65,
+                        "end": 65
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Frank Herbert",
+                        "start": 72,
+                        "end": 73
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "real - time strategy",
+                        "start": 88,
+                        "end": 91
+                    },
+                    {
+                        "value": "RTS",
+                        "start": 157,
+                        "end": 157
+                    },
+                    {
+                        "value": "RTS",
+                        "start": 93,
+                        "end": 93
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Command & Conquer",
+                        "start": 146,
+                        "end": 148
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Warcraft",
+                        "start": 150,
+                        "end": 150
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "StarCraft",
+                        "start": 152,
+                        "end": 152
+                    }
+                ],
+                "type": "MISC"
+            }
+        ],
+        "relations": [
+            [
+                0,
+                "developer",
+                2
+            ],
+            [
+                0,
+                "publisher",
+                3
+            ],
+            [
+                0,
+                "publication date",
+                4
+            ],
+            [
+                0,
+                "genre",
+                8
+            ],
+            [
+                1,
+                "developer",
+                2
+            ],
+            [
+                1,
+                "publisher",
+                3
+            ],
+            [
+                1,
+                "publication date",
+                6
+            ],
+            [
+                1,
+                "author",
+                7
+            ],
+            [
+                9,
+                "genre",
+                8
+            ],
+            [
+                10,
+                "genre",
+                8
+            ],
+            [
+                11,
+                "genre",
+                8
+            ],
+            [
+                1,
+                "genre",
+                8
+            ],
+            [
+                7,
+                "notable work",
+                1
+            ]
+        ]
+    }
+]

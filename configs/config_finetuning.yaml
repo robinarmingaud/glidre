@@ -1,0 +1,67 @@
+# Model Configuration
+model_name: microsoft/deberta-v3-large # Hugging Face model rel
+labels_encoder: "BAAI/bge-large-en-v1.5" # Hugging Face model labels
+name: "glidre large re-docred"
+max_width: 12
+hidden_size: 768
+dropout: 0.4
+fine_tune: true
+atlop: true
+subtoken_pooling: first
+fuse_layers: false
+post_fusion_schema: ""
+span_mode: markerV0
+compile: false
+cross_attention: false
+weights: null
+pretrain: false
+
+# Training Parameters
+num_steps: 10000
+workers : 4
+train_batch_size: 4
+accumulation_steps: 4
+eval_every: 100
+save_steps: 100
+warmup_ratio: 0.1
+scheduler_type: "cosine"
+pooling : "mean"
+
+# loss function
+self_rel: true
+loss: ""
+loss_alpha: 0.8
+loss_gamma: 3
+label_smoothing: 0
+loss_reduction: "sum"
+
+# Learning Rate and weight decay Configuration
+lr_encoder: 1e-5
+lr_others: 1e-4
+weight_decay_encoder: 0.01
+weight_decay_other: 0.01
+
+max_grad_norm: 10.0
+
+# Directory Paths
+save_path: "finetuned_models/re-docred"
+train_data: "data/re-docred/train_revised.json" 
+val_data: "data/re-docred/validation_revised.json"
+test_data: "data/re-docred/test_revised.json"
+
+# Pretrained Model Path
+# Use null if no pretrained
+checkpoint: null
+
+save_total_limit: 3 #maximum amount of checkpoints to save
+
+# Advanced Training Settings
+size_sup: -1
+max_types: 100
+shuffle_types: true
+random_drop: true
+max_neg_type_ratio: 1
+max_len: 512
+freeze_token_rep: false
+seed: 42
+tokenized: true

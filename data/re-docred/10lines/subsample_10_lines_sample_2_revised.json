@@ -1,0 +1,6139 @@
+[
+    {
+        "id": 0,
+        "tokenized_text": [
+            "Sorry",
+            "I",
+            "'m",
+            "Late",
+            "is",
+            "the",
+            "second",
+            "studio",
+            "album",
+            "by",
+            "English",
+            "recording",
+            "artist",
+            "Cher",
+            "Lloyd",
+            ".",
+            "It",
+            "was",
+            "released",
+            "on",
+            "27",
+            "May",
+            "2014",
+            ",",
+            "by",
+            "Epic",
+            "Records",
+            ",",
+            "Syco",
+            "Music",
+            ",",
+            "and",
+            "Mr.",
+            "Kanani",
+            ".",
+            "Lloyd",
+            "herself",
+            "co",
+            "-",
+            "wrote",
+            "five",
+            "songs",
+            "on",
+            "the",
+            "album",
+            ",",
+            "working",
+            "with",
+            "new",
+            "producers",
+            "and",
+            "songwriters",
+            "such",
+            "as",
+            "Beth",
+            "Ditto",
+            "and",
+            "Tove",
+            "Lo",
+            ".",
+            "It",
+            "is",
+            "her",
+            "last",
+            "album",
+            "released",
+            "through",
+            "Epic",
+            "and",
+            "Syco",
+            ".",
+            "Sorry",
+            "I",
+            "'m",
+            "Late",
+            "received",
+            "generally",
+            "positive",
+            "reviews",
+            "during",
+            "its",
+            "US",
+            "release",
+            ",",
+            "with",
+            "many",
+            "critics",
+            "praising",
+            "Lloyd",
+            "'s",
+            "personality",
+            "and",
+            "vulnerability",
+            "on",
+            "the",
+            "album",
+            ",",
+            "and",
+            "commenting",
+            "on",
+            "the",
+            "maturity",
+            "in",
+            "comparison",
+            "to",
+            "her",
+            "debut",
+            "studio",
+            "album",
+            ",",
+            "Sticks",
+            "and",
+            "Stones",
+            "(",
+            "2011",
+            ")",
+            ".",
+            "The",
+            "album",
+            "was",
+            "preceded",
+            "by",
+            "the",
+            "singles",
+            "\"",
+            "I",
+            "Wish",
+            "\"",
+            "and",
+            "\"",
+            "Sirens",
+            "\"",
+            ",",
+            "both",
+            "of",
+            "which",
+            "received",
+            "equally",
+            "positive",
+            "reviews",
+            ".",
+            "The",
+            "album",
+            "was",
+            "described",
+            "as",
+            "\"",
+            "fun",
+            "\"",
+            "and",
+            "\"",
+            "sweet",
+            "but",
+            "sharp",
+            "\"",
+            "by",
+            "critics",
+            ".",
+            "To",
+            "promote",
+            "the",
+            "album",
+            ",",
+            "Lloyd",
+            "embarked",
+            "on",
+            "her",
+            "I",
+            "Wish",
+            "Tour",
+            ",",
+            "her",
+            "second",
+            "headlining",
+            "concert",
+            "tour",
+            "and",
+            "her",
+            "first",
+            "by",
+            "touring",
+            "North",
+            "America",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Sorry I 'm Late",
+                        "start": 0,
+                        "end": 3
+                    },
+                    {
+                        "value": "Sorry I 'm Late",
+                        "start": 71,
+                        "end": 74
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "English",
+                        "start": 10,
+                        "end": 10
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Cher Lloyd",
+                        "start": 13,
+                        "end": 14
+                    },
+                    {
+                        "value": "Lloyd",
+                        "start": 35,
+                        "end": 35
+                    },
+                    {
+                        "value": "Lloyd",
+                        "start": 88,
+                        "end": 88
+                    },
+                    {
+                        "value": "Lloyd",
+                        "start": 163,
+                        "end": 163
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "27 May 2014",
+                        "start": 20,
+                        "end": 22
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Epic Records",
+                        "start": 25,
+                        "end": 26
+                    },
+                    {
+                        "value": "Epic",
+                        "start": 67,
+                        "end": 67
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Syco Music",
+                        "start": 28,
+                        "end": 29
+                    },
+                    {
+                        "value": "Syco",
+                        "start": 69,
+                        "end": 69
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Kanani",
+                        "start": 33,
+                        "end": 33
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "five",
+                        "start": 40,
+                        "end": 40
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Beth Ditto",
+                        "start": 54,
+                        "end": 55
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Tove Lo",
+                        "start": 57,
+                        "end": 58
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "US",
+                        "start": 81,
+                        "end": 81
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Sticks and Stones",
+                        "start": 110,
+                        "end": 112
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "2011",
+                        "start": 114,
+                        "end": 114
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "I Wish",
+                        "start": 125,
+                        "end": 126
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Sirens",
+                        "start": 130,
+                        "end": 130
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "I Wish Tour",
+                        "start": 167,
+                        "end": 169
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "North America",
+                        "start": 181,
+                        "end": 182
+                    }
+                ],
+                "type": "LOC"
+            }
+        ],
+        "relations": [
+            [
+                0,
+                "publication date",
+                3
+            ],
+            [
+                0,
+                "record label",
+                4
+            ],
+            [
+                0,
+                "record label",
+                5
+            ],
+            [
+                11,
+                "performer",
+                2
+            ],
+            [
+                11,
+                "publication date",
+                12
+            ],
+            [
+                13,
+                "performer",
+                2
+            ],
+            [
+                14,
+                "performer",
+                2
+            ],
+            [
+                15,
+                "performer",
+                2
+            ],
+            [
+                11,
+                "record label",
+                4
+            ],
+            [
+                11,
+                "record label",
+                5
+            ],
+            [
+                13,
+                "record label",
+                4
+            ],
+            [
+                13,
+                "record label",
+                5
+            ],
+            [
+                10,
+                "part of",
+                16
+            ],
+            [
+                2,
+                "record label",
+                4
+            ],
+            [
+                16,
+                "has part",
+                10
+            ],
+            [
+                13,
+                "followed by",
+                14
+            ],
+            [
+                14,
+                "record label",
+                4
+            ],
+            [
+                0,
+                "performer",
+                2
+            ],
+            [
+                0,
+                "follows",
+                11
+            ],
+            [
+                13,
+                "part of",
+                0
+            ],
+            [
+                14,
+                "record label",
+                5
+            ],
+            [
+                14,
+                "follows",
+                13
+            ],
+            [
+                2,
+                "record label",
+                5
+            ],
+            [
+                11,
+                "followed by",
+                0
+            ],
+            [
+                14,
+                "part of",
+                0
+            ],
+            [
+                2,
+                "notable work",
+                11
+            ],
+            [
+                2,
+                "notable work",
+                13
+            ],
+            [
+                2,
+                "notable work",
+                14
+            ],
+            [
+                2,
+                "notable work",
+                15
+            ],
+            [
+                2,
+                "notable work",
+                0
+            ],
+            [
+                0,
+                "has part",
+                13
+            ],
+            [
+                0,
+                "has part",
+                14
+            ]
+        ]
+    },
+    {
+        "id": 1,
+        "tokenized_text": [
+            "Umreth",
+            "(",
+            "Gujarati",
+            ":",
+            "ઉમરેઠ",
+            ")",
+            "is",
+            "a",
+            "taluka",
+            "and",
+            "the",
+            "administrative",
+            "center",
+            "of",
+            "Anand",
+            "District",
+            "in",
+            "the",
+            "state",
+            "of",
+            "Gujarat",
+            ",",
+            "India",
+            ".",
+            "It",
+            "is",
+            "administered",
+            "by",
+            "Umreth",
+            "Nagarpalika",
+            ".",
+            "It",
+            "is",
+            "part",
+            "of",
+            "the",
+            "region",
+            "known",
+            "as",
+            "Charotar",
+            ",",
+            "located",
+            "in",
+            "Anand",
+            "and",
+            "Kheda",
+            "districts",
+            ".",
+            "Umreth",
+            "is",
+            "also",
+            "known",
+            "as",
+            "the",
+            "Silk",
+            "City",
+            "of",
+            "Charotar",
+            ".",
+            "It",
+            "became",
+            "famous",
+            "for",
+            "silk",
+            "sarees",
+            "and",
+            "its",
+            "Pol",
+            "culture",
+            ".",
+            "It",
+            "commonly",
+            "looks",
+            "like",
+            "Harappa",
+            "architecture",
+            ".",
+            "Umreth",
+            "lines",
+            "between",
+            "Dwarka",
+            ",",
+            "Nadiad",
+            "and",
+            "Dakor",
+            "on",
+            "the",
+            "State",
+            "Highway",
+            "known",
+            "as",
+            "“",
+            "PragatiPath",
+            "”",
+            ".",
+            "It",
+            "is",
+            "connected",
+            "with",
+            "Baroda",
+            ",",
+            "Anand",
+            ",",
+            "Nadiad",
+            ",",
+            "Ahmedabad",
+            ",",
+            "Godhra",
+            ",",
+            "Kapadvanj",
+            ",",
+            "and",
+            "Balasinor",
+            "via",
+            "roadway",
+            ".",
+            "The",
+            "railway",
+            "line",
+            "is",
+            "broad",
+            "gauge",
+            "connecting",
+            "it",
+            "to",
+            "Godhra",
+            ",",
+            "covering",
+            "the",
+            "Dakor",
+            "route",
+            "from",
+            "Anand",
+            ".",
+            "You",
+            "may",
+            "Visit",
+            "Blog",
+            "Regarding",
+            "Umreth",
+            "By",
+            "Vivek",
+            "Doshi",
+            "of",
+            "Umreth",
+            ".",
+            "Umreth",
+            "has",
+            "seen",
+            "rapid",
+            "economic",
+            "growth",
+            "along",
+            "the",
+            "Umreth",
+            "-",
+            "Dakor",
+            "and",
+            "Nadiad",
+            "-",
+            "Dakor",
+            "road",
+            "belt",
+            ".",
+            "Umreth",
+            "has",
+            "an",
+            "own",
+            "GIDC",
+            "Estate",
+            ",",
+            "Mainly",
+            "timber",
+            "industries",
+            "and",
+            "Mamra",
+            "(",
+            "Puffed",
+            "Rice",
+            ")",
+            "industries",
+            "are",
+            "well",
+            "developed",
+            "in",
+            "Umreth",
+            ".",
+            "But",
+            "still",
+            "puffed",
+            "rice",
+            "industries",
+            "need",
+            "support",
+            "from",
+            "the",
+            "government",
+            "to",
+            "stay",
+            "viable",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Umreth",
+                        "start": 0,
+                        "end": 0
+                    },
+                    {
+                        "value": "Umreth",
+                        "start": 144,
+                        "end": 144
+                    },
+                    {
+                        "value": "Umreth",
+                        "start": 146,
+                        "end": 146
+                    },
+                    {
+                        "value": "Umreth",
+                        "start": 164,
+                        "end": 164
+                    },
+                    {
+                        "value": "Umreth",
+                        "start": 185,
+                        "end": 185
+                    },
+                    {
+                        "value": "Umreth",
+                        "start": 48,
+                        "end": 48
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Gujarati",
+                        "start": 2,
+                        "end": 2
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "ઉમરેઠ",
+                        "start": 4,
+                        "end": 4
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Anand District",
+                        "start": 14,
+                        "end": 15
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Gujarat",
+                        "start": 20,
+                        "end": 20
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "India",
+                        "start": 22,
+                        "end": 22
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Umreth Nagarpalika",
+                        "start": 28,
+                        "end": 29
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Charotar",
+                        "start": 39,
+                        "end": 39
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Anand",
+                        "start": 132,
+                        "end": 132
+                    },
+                    {
+                        "value": "Anand",
+                        "start": 101,
+                        "end": 101
+                    },
+                    {
+                        "value": "Anand",
+                        "start": 43,
+                        "end": 43
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Kheda",
+                        "start": 45,
+                        "end": 45
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Silk City of Charotar",
+                        "start": 54,
+                        "end": 57
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Pol",
+                        "start": 67,
+                        "end": 67
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Harappa",
+                        "start": 74,
+                        "end": 74
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Dwarka",
+                        "start": 80,
+                        "end": 80
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Nadiad",
+                        "start": 82,
+                        "end": 82
+                    },
+                    {
+                        "value": "Nadiad",
+                        "start": 103,
+                        "end": 103
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Dakor",
+                        "start": 84,
+                        "end": 84
+                    },
+                    {
+                        "value": "Dakor",
+                        "start": 129,
+                        "end": 129
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "State Highway",
+                        "start": 87,
+                        "end": 88
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "PragatiPath",
+                        "start": 92,
+                        "end": 92
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "Baroda",
+                        "start": 99,
+                        "end": 99
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "Ahmedabad",
+                        "start": 105,
+                        "end": 105
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    {
+                        "value": "Godhra",
+                        "start": 107,
+                        "end": 107
+                    },
+                    {
+                        "value": "Godhra",
+                        "start": 125,
+                        "end": 125
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    {
+                        "value": "Kapadvanj",
+                        "start": 109,
+                        "end": 109
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    {
+                        "value": "Balasinor",
+                        "start": 112,
+                        "end": 112
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    {
+                        "value": "Vivek Doshi",
+                        "start": 141,
+                        "end": 142
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    {
+                        "value": "Umreth - Dakor",
+                        "start": 154,
+                        "end": 156
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    {
+                        "value": "Nadiad - Dakor",
+                        "start": 158,
+                        "end": 160
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    {
+                        "value": "GIDC Estate",
+                        "start": 168,
+                        "end": 169
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    {
+                        "value": "Mamra",
+                        "start": 175,
+                        "end": 175
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    {
+                        "value": "Puffed Rice",
+                        "start": 177,
+                        "end": 178
+                    }
+                ],
+                "type": "MISC"
+            }
+        ],
+        "relations": [
+            [
+                4,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                4,
+                "country",
+                5
+            ],
+            [
+                4,
+                "contains administrative territorial entity",
+                3
+            ],
+            [
+                4,
+                "contains administrative territorial entity",
+                7
+            ],
+            [
+                4,
+                "contains administrative territorial entity",
+                9
+            ],
+            [
+                4,
+                "contains administrative territorial entity",
+                8
+            ],
+            [
+                4,
+                "official language",
+                1
+            ],
+            [
+                5,
+                "contains administrative territorial entity",
+                4
+            ],
+            [
+                15,
+                "country",
+                5
+            ],
+            [
+                16,
+                "country",
+                5
+            ],
+            [
+                19,
+                "country",
+                5
+            ],
+            [
+                19,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                3,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                3,
+                "country",
+                5
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                7,
+                "country",
+                5
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                9,
+                "country",
+                5
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                7
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                0,
+                "country",
+                5
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                8
+            ],
+            [
+                10,
+                "country",
+                5
+            ],
+            [
+                13,
+                "country",
+                5
+            ],
+            [
+                17,
+                "country",
+                5
+            ],
+            [
+                18,
+                "country",
+                5
+            ],
+            [
+                8,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                8,
+                "country",
+                5
+            ],
+            [
+                14,
+                "country",
+                5
+            ],
+            [
+                21,
+                "country",
+                5
+            ],
+            [
+                22,
+                "country",
+                5
+            ],
+            [
+                20,
+                "country",
+                5
+            ],
+            [
+                25,
+                "country",
+                5
+            ],
+            [
+                24,
+                "country",
+                5
+            ],
+            [
+                2,
+                "country",
+                5
+            ],
+            [
+                26,
+                "country",
+                5
+            ],
+            [
+                12,
+                "country",
+                5
+            ],
+            [
+                15,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                6,
+                "country",
+                5
+            ],
+            [
+                5,
+                "contains administrative territorial entity",
+                1
+            ],
+            [
+                1,
+                "country",
+                5
+            ],
+            [
+                14,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                9
+            ],
+            [
+                8,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                3,
+                "contains administrative territorial entity",
+                0
+            ],
+            [
+                15,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                16,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                3,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                10,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                13,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                17,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                18,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                8,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                14,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                21,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                22,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                20,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                25,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                24,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                26,
+                "located in the administrative territorial entity",
+                5
+            ]
+        ]
+    },
+    {
+        "id": 2,
+        "tokenized_text": [
+            "Arctic",
+            "Monkeys",
+            "are",
+            "a",
+            "four",
+            "-",
+            "piece",
+            "indie",
+            "rock",
+            "band",
+            "from",
+            "Sheffield",
+            ",",
+            "England",
+            ".",
+            "Since",
+            "signing",
+            "for",
+            "Domino",
+            "Records",
+            "in",
+            "2005",
+            ",",
+            "the",
+            "band",
+            "have",
+            "gained",
+            "popularity",
+            "in",
+            "many",
+            "parts",
+            "of",
+            "the",
+            "world",
+            ",",
+            "and",
+            "have",
+            "gradually",
+            "progressed",
+            "to",
+            "playing",
+            "larger",
+            "venues",
+            ".",
+            "Following",
+            "the",
+            "release",
+            "of",
+            "\"",
+            "I",
+            "Bet",
+            "You",
+            "Look",
+            "Good",
+            "on",
+            "the",
+            "Dancefloor",
+            "\"",
+            "in",
+            "October",
+            "2005",
+            ",",
+            "the",
+            "band",
+            "had",
+            "a",
+            "near",
+            "-",
+            "continuous",
+            "touring",
+            "schedule",
+            "that",
+            "culminated",
+            "with",
+            "performances",
+            "at",
+            "the",
+            "Reading",
+            "and",
+            "Leeds",
+            "Festivals",
+            ".",
+            "Following",
+            "the",
+            "release",
+            "of",
+            "their",
+            "album",
+            ",",
+            "Favourite",
+            "Worst",
+            "Nightmare",
+            ",",
+            "on",
+            "23",
+            "April",
+            "2007",
+            ",",
+            "the",
+            "band",
+            "began",
+            "a",
+            "series",
+            "of",
+            "tours",
+            "that",
+            "included",
+            "a",
+            "headline",
+            "appearance",
+            "at",
+            "the",
+            "Glastonbury",
+            "Festival",
+            "as",
+            "well",
+            "as",
+            "hosting",
+            "their",
+            "own",
+            "\"",
+            "mini",
+            "-",
+            "festival",
+            "\"",
+            "at",
+            "Lancashire",
+            "County",
+            "Cricket",
+            "Ground",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Arctic Monkeys",
+                        "start": 0,
+                        "end": 1
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "four - piece",
+                        "start": 4,
+                        "end": 6
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Sheffield",
+                        "start": 11,
+                        "end": 11
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "England",
+                        "start": 13,
+                        "end": 13
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Domino Records",
+                        "start": 18,
+                        "end": 19
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "2005",
+                        "start": 21,
+                        "end": 21
+                    },
+                    {
+                        "value": "October 2005",
+                        "start": 59,
+                        "end": 60
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "I Bet You Look Good on the Dancefloor",
+                        "start": 49,
+                        "end": 56
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Reading and Leeds Festivals",
+                        "start": 77,
+                        "end": 80
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Favourite Worst Nightmare",
+                        "start": 89,
+                        "end": 91
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "23 April 2007",
+                        "start": 94,
+                        "end": 96
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Glastonbury Festival",
+                        "start": 112,
+                        "end": 113
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Lancashire County Cricket Ground",
+                        "start": 126,
+                        "end": 129
+                    }
+                ],
+                "type": "LOC"
+            }
+        ],
+        "relations": [
+            [
+                6,
+                "publication date",
+                5
+            ],
+            [
+                6,
+                "performer",
+                0
+            ],
+            [
+                6,
+                "record label",
+                4
+            ],
+            [
+                8,
+                "publication date",
+                9
+            ],
+            [
+                8,
+                "performer",
+                0
+            ],
+            [
+                8,
+                "record label",
+                4
+            ],
+            [
+                0,
+                "location of formation",
+                2
+            ],
+            [
+                0,
+                "record label",
+                4
+            ],
+            [
+                0,
+                "notable work",
+                6
+            ],
+            [
+                0,
+                "notable work",
+                8
+            ]
+        ]
+    },
+    {
+        "id": 3,
+        "tokenized_text": [
+            "Northwestern",
+            "Lehigh",
+            "School",
+            "District",
+            "is",
+            "a",
+            "public",
+            "school",
+            "district",
+            "in",
+            "the",
+            "northwestern",
+            "corner",
+            "of",
+            "Lehigh",
+            "County",
+            ",",
+            "Pennsylvania",
+            ",",
+            "in",
+            "the",
+            "United",
+            "States",
+            ".",
+            "It",
+            "serves",
+            "Heidelberg",
+            ",",
+            "Lowhill",
+            ",",
+            "Lynn",
+            ",",
+            "and",
+            "Weisenberg",
+            "Townships",
+            ".",
+            "The",
+            "district",
+            "is",
+            "composed",
+            "of",
+            "approximately",
+            "2,250",
+            "students",
+            ",",
+            "with",
+            "two",
+            "elementary",
+            "schools",
+            ",",
+            "Weisenberg",
+            "Elementary",
+            "and",
+            "Northwestern",
+            "Lehigh",
+            "Elementary",
+            ",",
+            "one",
+            "middle",
+            "school",
+            ",",
+            "and",
+            "one",
+            "high",
+            "school",
+            ".",
+            "All",
+            "schools",
+            "offer",
+            "gifted",
+            "programs",
+            "and",
+            "special",
+            "education",
+            "programs",
+            ".",
+            "In",
+            "2004",
+            "-",
+            "2005",
+            ",",
+            "the",
+            "Northwestern",
+            "Lehigh",
+            "School",
+            "District",
+            "completed",
+            "a",
+            "Facility",
+            "Master",
+            "Plan",
+            "(",
+            "FMP",
+            ")",
+            "to",
+            "analyze",
+            "and",
+            "document",
+            "the",
+            "status",
+            "of",
+            "all",
+            "District",
+            "facilities",
+            ".",
+            "The",
+            "purpose",
+            "of",
+            "the",
+            "FMP",
+            "was",
+            "to",
+            "determine",
+            "the",
+            "extent",
+            ",",
+            "priority",
+            ",",
+            "and",
+            "estimated",
+            "costs",
+            "of",
+            "much",
+            "needed",
+            "facility",
+            "repairs",
+            ".",
+            "Based",
+            "on",
+            "this",
+            "study",
+            ",",
+            "the",
+            "District",
+            "engaged",
+            "the",
+            "help",
+            "of",
+            "many",
+            "employees",
+            "and",
+            "community",
+            "members",
+            "to",
+            "prioritize",
+            "the",
+            "needed",
+            "repairs",
+            ",",
+            "renovations",
+            ",",
+            "and",
+            "construction",
+            ",",
+            "and",
+            "align",
+            "this",
+            "work",
+            "with",
+            "District",
+            "resources",
+            ".",
+            "Their",
+            "mascot",
+            "is",
+            "the",
+            "Tiger",
+            "and",
+            "their",
+            "school",
+            "colors",
+            "are",
+            "black",
+            "and",
+            "gold",
+            ".",
+            "The",
+            "high",
+            "school",
+            "is",
+            "affectionately",
+            "called",
+            "\"",
+            "Corncob",
+            "High",
+            "\"",
+            "and",
+            "by",
+            "its",
+            "students",
+            ",",
+            "a",
+            "reflection",
+            "of",
+            "the",
+            "surrounding",
+            "farmland",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Northwestern Lehigh School District",
+                        "start": 0,
+                        "end": 3
+                    },
+                    {
+                        "value": "Northwestern Lehigh School District",
+                        "start": 82,
+                        "end": 85
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Lehigh County",
+                        "start": 14,
+                        "end": 15
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Pennsylvania",
+                        "start": 17,
+                        "end": 17
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "the United States",
+                        "start": 20,
+                        "end": 22
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Heidelberg",
+                        "start": 26,
+                        "end": 26
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Lowhill",
+                        "start": 28,
+                        "end": 28
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Lynn",
+                        "start": 30,
+                        "end": 30
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Weisenberg Townships",
+                        "start": 33,
+                        "end": 34
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "2,250",
+                        "start": 42,
+                        "end": 42
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "two",
+                        "start": 46,
+                        "end": 46
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Weisenberg Elementary",
+                        "start": 50,
+                        "end": 51
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Northwestern Lehigh Elementary",
+                        "start": 53,
+                        "end": 55
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "one",
+                        "start": 57,
+                        "end": 57
+                    },
+                    {
+                        "value": "one",
+                        "start": 62,
+                        "end": 62
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "2004",
+                        "start": 77,
+                        "end": 77
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "2005",
+                        "start": 79,
+                        "end": 79
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Facility Master Plan",
+                        "start": 88,
+                        "end": 90
+                    },
+                    {
+                        "value": "FMP",
+                        "start": 92,
+                        "end": 92
+                    },
+                    {
+                        "value": "FMP",
+                        "start": 109,
+                        "end": 109
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "Tiger",
+                        "start": 166,
+                        "end": 166
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Corncob High",
+                        "start": 183,
+                        "end": 184
+                    }
+                ],
+                "type": "MISC"
+            }
+        ],
+        "relations": [
+            [
+                1,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                1,
+                "country",
+                3
+            ],
+            [
+                2,
+                "contains administrative territorial entity",
+                1
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                2,
+                "country",
+                3
+            ],
+            [
+                2,
+                "contains administrative territorial entity",
+                6
+            ],
+            [
+                3,
+                "contains administrative territorial entity",
+                2
+            ],
+            [
+                15,
+                "country",
+                3
+            ],
+            [
+                4,
+                "located in the administrative territorial entity",
+                1
+            ],
+            [
+                4,
+                "country",
+                3
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                1
+            ],
+            [
+                5,
+                "country",
+                3
+            ],
+            [
+                6,
+                "located in the administrative territorial entity",
+                1
+            ],
+            [
+                6,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                6,
+                "country",
+                3
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                1
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                7,
+                "country",
+                3
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                0,
+                "country",
+                3
+            ],
+            [
+                10,
+                "country",
+                3
+            ],
+            [
+                11,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                11,
+                "country",
+                3
+            ],
+            [
+                17,
+                "country",
+                3
+            ],
+            [
+                1,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                4,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                6,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                10,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                11,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                4,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                2
+            ]
+        ]
+    },
+    {
+        "id": 4,
+        "tokenized_text": [
+            "Mpindela",
+            "Abednego",
+            "Mazibuko",
+            "is",
+            "a",
+            "member",
+            "of",
+            "Ladysmith",
+            "Black",
+            "Mambazo",
+            ",",
+            "a",
+            "South",
+            "African",
+            "choral",
+            "group",
+            "founded",
+            "in",
+            "1960",
+            "-",
+            "and",
+            "still",
+            "led",
+            "-",
+            "by",
+            "his",
+            "cousin",
+            "Joseph",
+            ".",
+            "Abednego",
+            "was",
+            "born",
+            "in",
+            "Ladysmith",
+            ",",
+            "South",
+            "Africa",
+            ",",
+            "and",
+            "was",
+            "the",
+            "youngest",
+            "of",
+            "six",
+            "sons",
+            ";",
+            "the",
+            "others",
+            "being",
+            "Albert",
+            ",",
+            "Milton",
+            ",",
+            "Funokwakhe",
+            ",",
+            "Mehlo",
+            ",",
+            "and",
+            "Joseph",
+            "Mazibuko",
+            ".",
+            "Abednego",
+            "joined",
+            "the",
+            "group",
+            "in",
+            "1974",
+            "as",
+            "a",
+            "bass",
+            "singer",
+            ".",
+            "Also",
+            "joining",
+            "the",
+            "line",
+            "-",
+            "up",
+            "that",
+            "year",
+            "was",
+            "Joseph",
+            "'s",
+            "brother",
+            "Jockey",
+            ",",
+            "whilst",
+            "Walter",
+            "Malinga",
+            "left",
+            "the",
+            "line",
+            "-",
+            "up",
+            "the",
+            "following",
+            "year",
+            ".",
+            "After",
+            "the",
+            "death",
+            "of",
+            "his",
+            "brother",
+            "Milton",
+            "in",
+            "1980",
+            ",",
+            "Abednego",
+            "remained",
+            "in",
+            "the",
+            "line",
+            "-",
+            "up",
+            "with",
+            "Albert",
+            "and",
+            "has",
+            "been",
+            "a",
+            "full",
+            "-",
+            "time",
+            "member",
+            "of",
+            "the",
+            "group",
+            "since",
+            "the",
+            "early",
+            "1980s",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Mpindela Abednego Mazibuko",
+                        "start": 0,
+                        "end": 2
+                    },
+                    {
+                        "value": "Abednego",
+                        "start": 29,
+                        "end": 29
+                    },
+                    {
+                        "value": "Abednego",
+                        "start": 61,
+                        "end": 61
+                    },
+                    {
+                        "value": "Abednego",
+                        "start": 108,
+                        "end": 108
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Ladysmith Black Mambazo",
+                        "start": 7,
+                        "end": 9
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "South African",
+                        "start": 12,
+                        "end": 13
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "1960",
+                        "start": 18,
+                        "end": 18
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Joseph Mazibuko",
+                        "start": 58,
+                        "end": 59
+                    },
+                    {
+                        "value": "Joseph",
+                        "start": 81,
+                        "end": 81
+                    },
+                    {
+                        "value": "Joseph",
+                        "start": 27,
+                        "end": 27
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Ladysmith",
+                        "start": 33,
+                        "end": 33
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "South Africa",
+                        "start": 35,
+                        "end": 36
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "six",
+                        "start": 43,
+                        "end": 43
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Albert",
+                        "start": 49,
+                        "end": 49
+                    },
+                    {
+                        "value": "Albert",
+                        "start": 116,
+                        "end": 116
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Milton",
+                        "start": 104,
+                        "end": 104
+                    },
+                    {
+                        "value": "Milton",
+                        "start": 51,
+                        "end": 51
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Funokwakhe",
+                        "start": 53,
+                        "end": 53
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Mehlo",
+                        "start": 55,
+                        "end": 55
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "1974",
+                        "start": 66,
+                        "end": 66
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Jockey",
+                        "start": 84,
+                        "end": 84
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Walter Malinga",
+                        "start": 87,
+                        "end": 88
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "1980",
+                        "start": 106,
+                        "end": 106
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "1980s",
+                        "start": 131,
+                        "end": 131
+                    }
+                ],
+                "type": "TIME"
+            }
+        ],
+        "relations": [
+            [
+                1,
+                "inception",
+                3
+            ],
+            [
+                1,
+                "has part",
+                13
+            ],
+            [
+                0,
+                "place of birth",
+                5
+            ],
+            [
+                0,
+                "sibling",
+                8
+            ],
+            [
+                0,
+                "sibling",
+                9
+            ],
+            [
+                5,
+                "country",
+                6
+            ],
+            [
+                5,
+                "country",
+                2
+            ],
+            [
+                8,
+                "member of",
+                1
+            ],
+            [
+                8,
+                "sibling",
+                0
+            ],
+            [
+                8,
+                "sibling",
+                9
+            ],
+            [
+                8,
+                "sibling",
+                10
+            ],
+            [
+                8,
+                "sibling",
+                11
+            ],
+            [
+                4,
+                "sibling",
+                0
+            ],
+            [
+                4,
+                "sibling",
+                8
+            ],
+            [
+                4,
+                "sibling",
+                9
+            ],
+            [
+                4,
+                "sibling",
+                10
+            ],
+            [
+                4,
+                "sibling",
+                11
+            ],
+            [
+                13,
+                "member of",
+                1
+            ],
+            [
+                9,
+                "sibling",
+                0
+            ],
+            [
+                9,
+                "sibling",
+                8
+            ],
+            [
+                9,
+                "sibling",
+                10
+            ],
+            [
+                9,
+                "sibling",
+                11
+            ],
+            [
+                10,
+                "sibling",
+                4
+            ],
+            [
+                10,
+                "sibling",
+                9
+            ],
+            [
+                10,
+                "sibling",
+                11
+            ],
+            [
+                11,
+                "sibling",
+                4
+            ],
+            [
+                11,
+                "sibling",
+                9
+            ],
+            [
+                4,
+                "country of citizenship",
+                6
+            ],
+            [
+                1,
+                "has part",
+                0
+            ],
+            [
+                1,
+                "has part",
+                8
+            ],
+            [
+                9,
+                "date of death",
+                15
+            ],
+            [
+                0,
+                "country of citizenship",
+                2
+            ],
+            [
+                1,
+                "location of formation",
+                5
+            ],
+            [
+                4,
+                "member of",
+                1
+            ],
+            [
+                0,
+                "sibling",
+                10
+            ],
+            [
+                9,
+                "country of citizenship",
+                6
+            ],
+            [
+                9,
+                "country of citizenship",
+                2
+            ],
+            [
+                0,
+                "member of",
+                1
+            ],
+            [
+                4,
+                "country of citizenship",
+                2
+            ],
+            [
+                1,
+                "country",
+                6
+            ],
+            [
+                0,
+                "country of citizenship",
+                6
+            ],
+            [
+                9,
+                "member of",
+                1
+            ],
+            [
+                8,
+                "country of citizenship",
+                2
+            ],
+            [
+                13,
+                "country of citizenship",
+                2
+            ],
+            [
+                10,
+                "sibling",
+                0
+            ],
+            [
+                0,
+                "sibling",
+                11
+            ],
+            [
+                10,
+                "sibling",
+                8
+            ],
+            [
+                8,
+                "country of citizenship",
+                6
+            ],
+            [
+                1,
+                "has part",
+                4
+            ],
+            [
+                11,
+                "sibling",
+                10
+            ],
+            [
+                1,
+                "country",
+                2
+            ],
+            [
+                13,
+                "country of citizenship",
+                6
+            ],
+            [
+                14,
+                "country of citizenship",
+                6
+            ],
+            [
+                11,
+                "sibling",
+                0
+            ],
+            [
+                10,
+                "member of",
+                1
+            ],
+            [
+                14,
+                "country of citizenship",
+                2
+            ],
+            [
+                11,
+                "sibling",
+                8
+            ],
+            [
+                1,
+                "has part",
+                14
+            ],
+            [
+                0,
+                "sibling",
+                4
+            ],
+            [
+                8,
+                "sibling",
+                4
+            ],
+            [
+                9,
+                "sibling",
+                4
+            ],
+            [
+                13,
+                "part of",
+                1
+            ],
+            [
+                0,
+                "part of",
+                1
+            ],
+            [
+                8,
+                "part of",
+                1
+            ],
+            [
+                4,
+                "part of",
+                1
+            ],
+            [
+                14,
+                "part of",
+                1
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                6
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                1,
+                "located in the administrative territorial entity",
+                6
+            ],
+            [
+                1,
+                "located in the administrative territorial entity",
+                2
+            ]
+        ]
+    },
+    {
+        "id": 5,
+        "tokenized_text": [
+            "Mary",
+            "Tudor",
+            "(;",
+            "18",
+            "March",
+            "1496",
+            "–",
+            "25",
+            "June",
+            "1533",
+            ")",
+            "was",
+            "an",
+            "English",
+            "princess",
+            "who",
+            "was",
+            "briefly",
+            "Queen",
+            "of",
+            "France",
+            "and",
+            "later",
+            "progenitor",
+            "of",
+            "a",
+            "family",
+            "that",
+            "claimed",
+            "the",
+            "English",
+            "throne",
+            ".",
+            "The",
+            "younger",
+            "surviving",
+            "daughter",
+            "of",
+            "Henry",
+            "VII",
+            ",",
+            "King",
+            "of",
+            "England",
+            "and",
+            "Elizabeth",
+            "of",
+            "York",
+            ",",
+            "Mary",
+            "became",
+            "the",
+            "third",
+            "wife",
+            "of",
+            "Louis",
+            "XII",
+            "of",
+            "France",
+            ",",
+            "more",
+            "than",
+            "30",
+            "years",
+            "her",
+            "senior",
+            ".",
+            "Following",
+            "his",
+            "death",
+            ",",
+            "she",
+            "married",
+            "Charles",
+            "Brandon",
+            ",",
+            "1st",
+            "Duke",
+            "of",
+            "Suffolk",
+            ".",
+            "The",
+            "marriage",
+            ",",
+            "which",
+            "was",
+            "performed",
+            "secretly",
+            "in",
+            "France",
+            ",",
+            "took",
+            "place",
+            "during",
+            "the",
+            "reign",
+            "of",
+            "her",
+            "brother",
+            "Henry",
+            "VIII",
+            "and",
+            "without",
+            "his",
+            "consent",
+            ".",
+            "This",
+            "necessitated",
+            "the",
+            "intervention",
+            "of",
+            "Thomas",
+            "Wolsey",
+            ",",
+            "and",
+            "although",
+            "Henry",
+            "eventually",
+            "pardoned",
+            "the",
+            "couple",
+            ",",
+            "they",
+            "were",
+            "forced",
+            "to",
+            "pay",
+            "a",
+            "large",
+            "fine",
+            ".",
+            "Mary",
+            "'s",
+            "second",
+            "marriage",
+            "produced",
+            "four",
+            "children",
+            ",",
+            "and",
+            "through",
+            "her",
+            "eldest",
+            "daughter",
+            "Frances",
+            ",",
+            "Mary",
+            "was",
+            "the",
+            "maternal",
+            "grandmother",
+            "of",
+            "Lady",
+            "Jane",
+            "Grey",
+            ",",
+            "who",
+            "was",
+            "the",
+            "de",
+            "facto",
+            "monarch",
+            "of",
+            "England",
+            "for",
+            "nine",
+            "days",
+            "in",
+            "July",
+            "1553",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Mary Tudor",
+                        "start": 0,
+                        "end": 1
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "18 March 1496",
+                        "start": 3,
+                        "end": 5
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "25 June 1533",
+                        "start": 7,
+                        "end": 9
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "English",
+                        "start": 13,
+                        "end": 13
+                    },
+                    {
+                        "value": "English",
+                        "start": 30,
+                        "end": 30
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "France",
+                        "start": 20,
+                        "end": 20
+                    },
+                    {
+                        "value": "France",
+                        "start": 58,
+                        "end": 58
+                    },
+                    {
+                        "value": "France",
+                        "start": 89,
+                        "end": 89
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Henry VII",
+                        "start": 38,
+                        "end": 39
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "England",
+                        "start": 43,
+                        "end": 43
+                    },
+                    {
+                        "value": "England",
+                        "start": 163,
+                        "end": 163
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Elizabeth",
+                        "start": 45,
+                        "end": 45
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "York",
+                        "start": 47,
+                        "end": 47
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Mary",
+                        "start": 49,
+                        "end": 49
+                    },
+                    {
+                        "value": "Mary",
+                        "start": 131,
+                        "end": 131
+                    },
+                    {
+                        "value": "Mary",
+                        "start": 146,
+                        "end": 146
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Louis XII",
+                        "start": 55,
+                        "end": 56
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "30 years",
+                        "start": 62,
+                        "end": 63
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Charles Brandon",
+                        "start": 73,
+                        "end": 74
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Suffolk",
+                        "start": 79,
+                        "end": 79
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Henry VIII",
+                        "start": 99,
+                        "end": 100
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Thomas Wolsey",
+                        "start": 111,
+                        "end": 112
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "Henry",
+                        "start": 116,
+                        "end": 116
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "four",
+                        "start": 136,
+                        "end": 136
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "Frances",
+                        "start": 144,
+                        "end": 144
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "Jane Grey",
+                        "start": 153,
+                        "end": 154
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    {
+                        "value": "nine days",
+                        "start": 165,
+                        "end": 166
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    {
+                        "value": "July 1553",
+                        "start": 168,
+                        "end": 169
+                    }
+                ],
+                "type": "TIME"
+            }
+        ],
+        "relations": [
+            [
+                0,
+                "country of citizenship",
+                6
+            ],
+            [
+                0,
+                "spouse",
+                10
+            ],
+            [
+                0,
+                "spouse",
+                12
+            ],
+            [
+                0,
+                "sibling",
+                14
+            ],
+            [
+                0,
+                "country of citizenship",
+                3
+            ],
+            [
+                0,
+                "father",
+                5
+            ],
+            [
+                0,
+                "date of birth",
+                1
+            ],
+            [
+                0,
+                "date of death",
+                2
+            ],
+            [
+                12,
+                "spouse",
+                0
+            ],
+            [
+                14,
+                "sibling",
+                0
+            ],
+            [
+                14,
+                "father",
+                5
+            ],
+            [
+                19,
+                "country of citizenship",
+                6
+            ],
+            [
+                5,
+                "child",
+                0
+            ],
+            [
+                5,
+                "country of citizenship",
+                6
+            ],
+            [
+                5,
+                "child",
+                14
+            ],
+            [
+                10,
+                "country of citizenship",
+                4
+            ],
+            [
+                14,
+                "country of citizenship",
+                6
+            ],
+            [
+                18,
+                "father",
+                12
+            ],
+            [
+                0,
+                "mother",
+                7
+            ],
+            [
+                15,
+                "country of citizenship",
+                6
+            ],
+            [
+                9,
+                "date of death",
+                2
+            ],
+            [
+                14,
+                "mother",
+                7
+            ],
+            [
+                0,
+                "child",
+                18
+            ],
+            [
+                7,
+                "child",
+                0
+            ],
+            [
+                5,
+                "spouse",
+                7
+            ],
+            [
+                18,
+                "mother",
+                0
+            ],
+            [
+                14,
+                "sibling",
+                9
+            ],
+            [
+                7,
+                "spouse",
+                5
+            ],
+            [
+                14,
+                "country of citizenship",
+                3
+            ],
+            [
+                5,
+                "child",
+                9
+            ],
+            [
+                10,
+                "spouse",
+                0
+            ],
+            [
+                9,
+                "spouse",
+                12
+            ],
+            [
+                12,
+                "child",
+                18
+            ],
+            [
+                7,
+                "child",
+                14
+            ],
+            [
+                4,
+                "head of state",
+                10
+            ],
+            [
+                9,
+                "sibling",
+                14
+            ],
+            [
+                12,
+                "spouse",
+                9
+            ],
+            [
+                10,
+                "applies to jurisdiction",
+                4
+            ]
+        ]
+    },
+    {
+        "id": 6,
+        "tokenized_text": [
+            "The",
+            "Upper",
+            "Galilee",
+            "(",
+            ",",
+            "HaGalil",
+            "Ha'Elyon",
+            ";",
+            ",",
+            "Al",
+            "Jaleel",
+            "Al",
+            "A'alaa",
+            ")",
+            "is",
+            "a",
+            "geographical",
+            "-",
+            "political",
+            "term",
+            "in",
+            "use",
+            "since",
+            "the",
+            "end",
+            "of",
+            "the",
+            "Second",
+            "Temple",
+            "period",
+            ",",
+            "originally",
+            "referring",
+            "to",
+            "a",
+            "mountainous",
+            "area",
+            "straddling",
+            "present",
+            "-",
+            "day",
+            "northern",
+            "Israel",
+            "and",
+            "southern",
+            "Lebanon",
+            ",",
+            "its",
+            "boundaries",
+            "being",
+            "the",
+            "Litani",
+            "River",
+            "in",
+            "the",
+            "north",
+            ",",
+            "the",
+            "Mediterranean",
+            "Sea",
+            "in",
+            "the",
+            "west",
+            ",",
+            "the",
+            "Lower",
+            "Galilee",
+            "in",
+            "the",
+            "south",
+            ",",
+            "from",
+            "which",
+            "it",
+            "is",
+            "separated",
+            "by",
+            "the",
+            "Beit",
+            "HaKerem",
+            "Valley",
+            ",",
+            "and",
+            "the",
+            "upper",
+            "Jordan",
+            "River",
+            "and",
+            "the",
+            "Hula",
+            "Valley",
+            "in",
+            "the",
+            "east",
+            ".",
+            "According",
+            "to",
+            "1st",
+            "-",
+            "century",
+            "historian",
+            ",",
+            "Josephus",
+            ",",
+            "the",
+            "bounds",
+            "of",
+            "Upper",
+            "Galilee",
+            "stretched",
+            "from",
+            "Bersabe",
+            "in",
+            "the",
+            "Beit",
+            "HaKerem",
+            "Valley",
+            "to",
+            "Baca",
+            "(",
+            "Peki'in",
+            ")",
+            "in",
+            "the",
+            "north",
+            ".",
+            "The",
+            "said",
+            "region",
+            "contains",
+            "approximately",
+            "180",
+            "square",
+            "miles",
+            ".",
+            "In",
+            "present",
+            "-",
+            "day",
+            "Israeli",
+            "terminology",
+            ",",
+            "the",
+            "toponym",
+            "is",
+            "mainly",
+            "used",
+            "in",
+            "reference",
+            "to",
+            "the",
+            "northern",
+            "part",
+            "of",
+            "the",
+            "Galilee",
+            "situated",
+            "under",
+            "Israeli",
+            "sovereignty",
+            ",",
+            "i.e.",
+            "without",
+            "the",
+            "part",
+            "of",
+            "Southern",
+            "Lebanon",
+            "up",
+            "to",
+            "the",
+            "Litani",
+            "River",
+            ",",
+            "while",
+            "also",
+            "excluding",
+            "the",
+            "corresponding",
+            "stretches",
+            "of",
+            "the",
+            "Coastal",
+            "Plain",
+            "to",
+            "the",
+            "west",
+            "and",
+            "Jordan",
+            "Rift",
+            "Valley",
+            "to",
+            "the",
+            "east",
+            ",",
+            "which",
+            "are",
+            "considered",
+            "separate",
+            "geographical",
+            "entities",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Upper Galilee",
+                        "start": 1,
+                        "end": 2
+                    },
+                    {
+                        "value": "Upper Galilee",
+                        "start": 107,
+                        "end": 108
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "HaGalil Ha'Elyon",
+                        "start": 5,
+                        "end": 6
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Al Jaleel Al A'alaa",
+                        "start": 9,
+                        "end": 12
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Second Temple",
+                        "start": 27,
+                        "end": 28
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Israel",
+                        "start": 42,
+                        "end": 42
+                    },
+                    {
+                        "value": "Israeli",
+                        "start": 139,
+                        "end": 139
+                    },
+                    {
+                        "value": "Israeli",
+                        "start": 158,
+                        "end": 158
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Lebanon",
+                        "start": 45,
+                        "end": 45
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Litani River",
+                        "start": 51,
+                        "end": 52
+                    },
+                    {
+                        "value": "Litani River",
+                        "start": 171,
+                        "end": 172
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Mediterranean Sea",
+                        "start": 58,
+                        "end": 59
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Lower Galilee",
+                        "start": 65,
+                        "end": 66
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Beit HaKerem Valley",
+                        "start": 114,
+                        "end": 116
+                    },
+                    {
+                        "value": "Beit HaKerem Valley",
+                        "start": 78,
+                        "end": 80
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Jordan River",
+                        "start": 85,
+                        "end": 86
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Hula Valley",
+                        "start": 89,
+                        "end": 90
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "1st-century",
+                        "start": 97,
+                        "end": 99
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Josephus",
+                        "start": 102,
+                        "end": 102
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Bersabe",
+                        "start": 111,
+                        "end": 111
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Baca ( Peki'in",
+                        "start": 118,
+                        "end": 120
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "180 square miles",
+                        "start": 131,
+                        "end": 133
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Galilee",
+                        "start": 155,
+                        "end": 155
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "Southern Lebanon",
+                        "start": 166,
+                        "end": 167
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "Coastal Plain",
+                        "start": 182,
+                        "end": 183
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    {
+                        "value": "Jordan Rift Valley",
+                        "start": 188,
+                        "end": 190
+                    }
+                ],
+                "type": "LOC"
+            }
+        ],
+        "relations": [
+            [
+                17,
+                "territory claimed by",
+                4
+            ],
+            [
+                17,
+                "has part",
+                8
+            ],
+            [
+                17,
+                "has part",
+                0
+            ],
+            [
+                18,
+                "country",
+                5
+            ],
+            [
+                9,
+                "mouth of the watercourse",
+                10
+            ],
+            [
+                8,
+                "country",
+                4
+            ],
+            [
+                0,
+                "country",
+                4
+            ],
+            [
+                4,
+                "located in or next to body of water",
+                10
+            ],
+            [
+                6,
+                "country",
+                5
+            ],
+            [
+                17,
+                "country",
+                4
+            ],
+            [
+                4,
+                "located in or next to body of water",
+                7
+            ],
+            [
+                7,
+                "basin country",
+                4
+            ],
+            [
+                7,
+                "basin country",
+                5
+            ],
+            [
+                10,
+                "basin country",
+                4
+            ],
+            [
+                10,
+                "basin country",
+                5
+            ],
+            [
+                9,
+                "country",
+                4
+            ],
+            [
+                6,
+                "mouth of the watercourse",
+                7
+            ],
+            [
+                8,
+                "part of",
+                17
+            ],
+            [
+                0,
+                "part of",
+                17
+            ],
+            [
+                18,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                8,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                6,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                4
+            ]
+        ]
+    },
+    {
+        "id": 7,
+        "tokenized_text": [
+            "Enclave",
+            "is",
+            "a",
+            "third",
+            "-",
+            "person",
+            "3D",
+            "action",
+            "role",
+            "-",
+            "playing",
+            "game",
+            "by",
+            "Starbreeze",
+            "Studios",
+            ",",
+            "released",
+            "for",
+            "Microsoft",
+            "Windows",
+            "and",
+            "Xbox",
+            "on",
+            "July",
+            "19",
+            ",",
+            "2002",
+            ".",
+            "A",
+            "GameCube",
+            "version",
+            "was",
+            "also",
+            "in",
+            "development",
+            "but",
+            "was",
+            "eventually",
+            "cancelled",
+            "in",
+            "early",
+            "2003",
+            ".",
+            "A",
+            "Wii",
+            "port",
+            ",",
+            "titled",
+            "Enclave",
+            ":",
+            "Shadows",
+            "of",
+            "Twilight",
+            ",",
+            "was",
+            "originally",
+            "slated",
+            "for",
+            "the",
+            "middle",
+            "of",
+            "June",
+            "2010",
+            ",",
+            "and",
+            "was",
+            "released",
+            "in",
+            "Europe",
+            "on",
+            "May",
+            "22",
+            ",",
+            "2012",
+            ".",
+            "On",
+            "4",
+            "October",
+            "2013",
+            ",",
+            "the",
+            "game",
+            "was",
+            "re",
+            "-",
+            "released",
+            "on",
+            "Steam",
+            "and",
+            "made",
+            "available",
+            "on",
+            "Mac",
+            "and",
+            "Linux",
+            "platforms",
+            ".",
+            "In",
+            "this",
+            "game",
+            ",",
+            "set",
+            "in",
+            "a",
+            "medieval",
+            "fantasy",
+            "realm",
+            ",",
+            "players",
+            "can",
+            "choose",
+            "to",
+            "take",
+            "on",
+            "the",
+            "role",
+            "of",
+            "either",
+            "a",
+            "\"",
+            "Warrior",
+            "of",
+            "Light",
+            "\"",
+            "or",
+            "a",
+            "\"",
+            "Minion",
+            "of",
+            "Darkness",
+            "\"",
+            ",",
+            "complete",
+            "with",
+            "separate",
+            "and",
+            "unique",
+            "missions",
+            "reflecting",
+            "the",
+            "nature",
+            "of",
+            "that",
+            "decision",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Enclave",
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "3D",
+                        "start": 6,
+                        "end": 6
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Starbreeze Studios",
+                        "start": 13,
+                        "end": 14
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Microsoft",
+                        "start": 18,
+                        "end": 18
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Windows",
+                        "start": 19,
+                        "end": 19
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Xbox",
+                        "start": 21,
+                        "end": 21
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "July 19, 2002",
+                        "start": 23,
+                        "end": 26
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "GameCube",
+                        "start": 29,
+                        "end": 29
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "early 2003",
+                        "start": 40,
+                        "end": 41
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Wii",
+                        "start": 44,
+                        "end": 44
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Enclave : Shadows of Twilight",
+                        "start": 48,
+                        "end": 52
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "June 2010",
+                        "start": 61,
+                        "end": 62
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Europe",
+                        "start": 68,
+                        "end": 68
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "May 22, 2012",
+                        "start": 70,
+                        "end": 73
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "4 October 2013",
+                        "start": 76,
+                        "end": 78
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Steam",
+                        "start": 87,
+                        "end": 87
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "Mac",
+                        "start": 92,
+                        "end": 92
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Linux",
+                        "start": 94,
+                        "end": 94
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "Warrior of Light",
+                        "start": 120,
+                        "end": 122
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "Minion of Darkness",
+                        "start": 127,
+                        "end": 129
+                    }
+                ],
+                "type": "PER"
+            }
+        ],
+        "relations": [
+            [
+                3,
+                "product or material produced",
+                4
+            ],
+            [
+                0,
+                "developer",
+                2
+            ],
+            [
+                0,
+                "publication date",
+                6
+            ],
+            [
+                0,
+                "platform",
+                5
+            ],
+            [
+                0,
+                "platform",
+                17
+            ],
+            [
+                0,
+                "platform",
+                4
+            ],
+            [
+                4,
+                "developer",
+                3
+            ],
+            [
+                10,
+                "developer",
+                2
+            ],
+            [
+                5,
+                "developer",
+                3
+            ],
+            [
+                3,
+                "product or material produced",
+                5
+            ],
+            [
+                10,
+                "platform",
+                9
+            ],
+            [
+                10,
+                "platform",
+                17
+            ],
+            [
+                10,
+                "platform",
+                4
+            ],
+            [
+                10,
+                "publication date",
+                13
+            ],
+            [
+                0,
+                "platform",
+                9
+            ],
+            [
+                10,
+                "platform",
+                5
+            ],
+            [
+                0,
+                "platform",
+                16
+            ]
+        ]
+    },
+    {
+        "id": 8,
+        "tokenized_text": [
+            "Andrew",
+            "White",
+            "(",
+            "27",
+            "July",
+            "1930",
+            "–",
+            "9",
+            "November",
+            "2015",
+            ")",
+            "was",
+            "a",
+            "Scottish",
+            "drummer",
+            ",",
+            "primarily",
+            "a",
+            "session",
+            "musician",
+            ".",
+            "He",
+            "was",
+            "named",
+            "one",
+            "of",
+            "the",
+            "\"",
+            "fifth",
+            "Beatles",
+            "\"",
+            "as",
+            "he",
+            "is",
+            "best",
+            "known",
+            "for",
+            "replacing",
+            "Ringo",
+            "Starr",
+            "on",
+            "drums",
+            "on",
+            "the",
+            "Beatles",
+            "'",
+            "first",
+            "single",
+            ",",
+            "\"",
+            "Love",
+            "Me",
+            "Do",
+            "\"",
+            ".",
+            "White",
+            "was",
+            "featured",
+            "on",
+            "the",
+            "American",
+            "7",
+            "\"",
+            "single",
+            "release",
+            "of",
+            "the",
+            "song",
+            ",",
+            "which",
+            "also",
+            "appeared",
+            "on",
+            "the",
+            "band",
+            "'s",
+            "debut",
+            "British",
+            "album",
+            ",",
+            "Please",
+            "Please",
+            "Me",
+            ".",
+            "He",
+            "also",
+            "played",
+            "on",
+            "\"",
+            "P.S.",
+            "I",
+            "Love",
+            "You",
+            "\"",
+            ",",
+            "which",
+            "was",
+            "the",
+            "B",
+            "-",
+            "side",
+            "of",
+            "\"",
+            "Love",
+            "Me",
+            "Do",
+            "\"",
+            ".",
+            "White",
+            "played",
+            "with",
+            "other",
+            "prominent",
+            "musicians",
+            "and",
+            "groups",
+            "both",
+            "in",
+            "the",
+            "United",
+            "Kingdom",
+            "and",
+            "the",
+            "United",
+            "States",
+            ",",
+            "including",
+            "Chuck",
+            "Berry",
+            ",",
+            "Billy",
+            "Fury",
+            ",",
+            "Herman",
+            "'s",
+            "Hermits",
+            "and",
+            "Tom",
+            "Jones",
+            ".",
+            "AllMusic",
+            "called",
+            "White",
+            "\"",
+            "one",
+            "of",
+            "the",
+            "busier",
+            "drummers",
+            "in",
+            "England",
+            "from",
+            "the",
+            "late",
+            "'",
+            "50s",
+            "through",
+            "the",
+            "mid-'70s",
+            "\"",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Andrew White",
+                        "start": 0,
+                        "end": 1
+                    },
+                    {
+                        "value": "White",
+                        "start": 142,
+                        "end": 142
+                    },
+                    {
+                        "value": "White",
+                        "start": 108,
+                        "end": 108
+                    },
+                    {
+                        "value": "White",
+                        "start": 55,
+                        "end": 55
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "27 July 1930",
+                        "start": 3,
+                        "end": 5
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "9 November 2015",
+                        "start": 7,
+                        "end": 9
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Scottish",
+                        "start": 13,
+                        "end": 13
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Beatles",
+                        "start": 44,
+                        "end": 44
+                    },
+                    {
+                        "value": "Beatles",
+                        "start": 29,
+                        "end": 29
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Ringo Starr",
+                        "start": 38,
+                        "end": 39
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Love Me Do",
+                        "start": 50,
+                        "end": 52
+                    },
+                    {
+                        "value": "Love Me Do",
+                        "start": 103,
+                        "end": 105
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "American",
+                        "start": 60,
+                        "end": 60
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "7",
+                        "start": 61,
+                        "end": 61
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "British",
+                        "start": 77,
+                        "end": 77
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Please Please Me",
+                        "start": 80,
+                        "end": 82
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "I Love You",
+                        "start": 91,
+                        "end": 92
+                    },
+                    {
+                        "value": "P.S.",
+                        "start": 89,
+                        "end": 89
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "United Kingdom",
+                        "start": 119,
+                        "end": 120
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "the United States",
+                        "start": 122,
+                        "end": 124
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Chuck Berry",
+                        "start": 127,
+                        "end": 128
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Billy Fury",
+                        "start": 130,
+                        "end": 131
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "Herman 's Hermits",
+                        "start": 133,
+                        "end": 135
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Tom Jones",
+                        "start": 137,
+                        "end": 138
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "AllMusic",
+                        "start": 140,
+                        "end": 140
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "England",
+                        "start": 150,
+                        "end": 150
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    {
+                        "value": "the late ' 50s",
+                        "start": 152,
+                        "end": 155
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    {
+                        "value": "the mid-'70s",
+                        "start": 157,
+                        "end": 158
+                    }
+                ],
+                "type": "TIME"
+            }
+        ],
+        "relations": [
+            [
+                0,
+                "date of birth",
+                1
+            ],
+            [
+                0,
+                "date of death",
+                2
+            ],
+            [
+                5,
+                "part of",
+                4
+            ],
+            [
+                4,
+                "has part",
+                5
+            ],
+            [
+                6,
+                "performer",
+                4
+            ],
+            [
+                10,
+                "country of origin",
+                12
+            ],
+            [
+                10,
+                "performer",
+                4
+            ],
+            [
+                10,
+                "country of origin",
+                9
+            ],
+            [
+                6,
+                "part of",
+                10
+            ],
+            [
+                12,
+                "contains administrative territorial entity",
+                19
+            ],
+            [
+                19,
+                "located in the administrative territorial entity",
+                12
+            ],
+            [
+                10,
+                "performer",
+                0
+            ],
+            [
+                0,
+                "country of citizenship",
+                12
+            ],
+            [
+                0,
+                "place of birth",
+                3
+            ],
+            [
+                18,
+                "country",
+                13
+            ],
+            [
+                6,
+                "performer",
+                0
+            ],
+            [
+                12,
+                "contains administrative territorial entity",
+                3
+            ],
+            [
+                4,
+                "country",
+                12
+            ],
+            [
+                19,
+                "country",
+                12
+            ],
+            [
+                4,
+                "notable work",
+                6
+            ],
+            [
+                4,
+                "notable work",
+                10
+            ],
+            [
+                10,
+                "has part",
+                6
+            ],
+            [
+                0,
+                "notable work",
+                10
+            ],
+            [
+                0,
+                "notable work",
+                6
+            ],
+            [
+                18,
+                "located in the administrative territorial entity",
+                13
+            ],
+            [
+                4,
+                "located in the administrative territorial entity",
+                12
+            ]
+        ]
+    },
+    {
+        "id": 9,
+        "tokenized_text": [
+            "Gribbin",
+            "Head",
+            "(",
+            ")",
+            "is",
+            "a",
+            "promontory",
+            "on",
+            "the",
+            "south",
+            "coast",
+            "of",
+            "Cornwall",
+            ",",
+            "England",
+            ",",
+            "UK",
+            ",",
+            "owned",
+            "and",
+            "managed",
+            "by",
+            "the",
+            "National",
+            "Trust",
+            ".",
+            "It",
+            "separates",
+            "St",
+            "Austell",
+            "Bay",
+            "from",
+            "the",
+            "estuary",
+            "of",
+            "the",
+            "River",
+            "Fowey",
+            "and",
+            "is",
+            "marked",
+            "by",
+            "a",
+            "large",
+            "tower",
+            "used",
+            "to",
+            "aid",
+            "navigation",
+            "of",
+            "ships",
+            "approaching",
+            "the",
+            "local",
+            "harbours",
+            ".",
+            "The",
+            "nearest",
+            "town",
+            "is",
+            "Fowey",
+            ".",
+            "The",
+            "western",
+            "point",
+            "of",
+            "the",
+            "headland",
+            "is",
+            "called",
+            "Little",
+            "Gribbin",
+            ".",
+            "Gribbin",
+            "Head",
+            "is",
+            "the",
+            "most",
+            "southerly",
+            "part",
+            "of",
+            "the",
+            "parish",
+            "of",
+            "Fowey",
+            ".",
+            "To",
+            "the",
+            "north",
+            ",",
+            "and",
+            "facing",
+            "west",
+            "across",
+            "St",
+            "Austell",
+            "Bay",
+            "is",
+            "the",
+            "small",
+            "village",
+            "of",
+            "Polkerris",
+            ",",
+            "beyond",
+            "which",
+            "is",
+            "the",
+            "harbour",
+            "at",
+            "Par",
+            ".",
+            "To",
+            "the",
+            "east",
+            "is",
+            "Polridmouth",
+            "cove",
+            "and",
+            "the",
+            "Fowey",
+            "estuary",
+            ",",
+            "where",
+            "the",
+            "town",
+            "of",
+            "Fowey",
+            "itself",
+            "is",
+            "situated",
+            ".",
+            "Inland",
+            ",",
+            "to",
+            "the",
+            "north",
+            ",",
+            "is",
+            "the",
+            "Menabilly",
+            "estate",
+            ",",
+            "built",
+            "for",
+            "the",
+            "Rashleigh",
+            "family",
+            "but",
+            "later",
+            "home",
+            "to",
+            "author",
+            "Daphne",
+            "du",
+            "Maurier",
+            ".",
+            "The",
+            "high",
+            "promontory",
+            "forms",
+            "a",
+            "part",
+            "of",
+            "the",
+            "South",
+            "Coast",
+            "(",
+            "eastern",
+            ")",
+            "section",
+            "of",
+            "the",
+            "Cornwall",
+            "Area",
+            "of",
+            "Outstanding",
+            "Natural",
+            "Beauty",
+            ".",
+            "The",
+            "South",
+            "West",
+            "Coast",
+            "Path",
+            "passes",
+            "around",
+            "Gribbin",
+            "Head",
+            "on",
+            "its",
+            "way",
+            "from",
+            "Minehead",
+            "in",
+            "Somerset",
+            "to",
+            "Poole",
+            "in",
+            "Dorset",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Gribbin Head",
+                        "start": 187,
+                        "end": 188
+                    },
+                    {
+                        "value": "Gribbin Head",
+                        "start": 73,
+                        "end": 74
+                    },
+                    {
+                        "value": "Gribbin Head",
+                        "start": 0,
+                        "end": 1
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Cornwall",
+                        "start": 12,
+                        "end": 12
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "England",
+                        "start": 14,
+                        "end": 14
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "UK",
+                        "start": 16,
+                        "end": 16
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "National Trust",
+                        "start": 23,
+                        "end": 24
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "St Austell Bay",
+                        "start": 28,
+                        "end": 30
+                    },
+                    {
+                        "value": "St Austell Bay",
+                        "start": 94,
+                        "end": 96
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "River Fowey",
+                        "start": 36,
+                        "end": 37
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Fowey",
+                        "start": 60,
+                        "end": 60
+                    },
+                    {
+                        "value": "Fowey",
+                        "start": 84,
+                        "end": 84
+                    },
+                    {
+                        "value": "Fowey",
+                        "start": 120,
+                        "end": 120
+                    },
+                    {
+                        "value": "Fowey",
+                        "start": 127,
+                        "end": 127
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Little Gribbin",
+                        "start": 70,
+                        "end": 71
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Polkerris",
+                        "start": 102,
+                        "end": 102
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Par",
+                        "start": 110,
+                        "end": 110
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Polridmouth",
+                        "start": 116,
+                        "end": 116
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Menabilly",
+                        "start": 140,
+                        "end": 140
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Rashleigh",
+                        "start": 146,
+                        "end": 146
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Daphne du Maurier",
+                        "start": 153,
+                        "end": 155
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "South Coast",
+                        "start": 165,
+                        "end": 166
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "Cornwall Area of Outstanding Natural Beauty",
+                        "start": 173,
+                        "end": 178
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "South West Coast Path",
+                        "start": 181,
+                        "end": 184
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "Minehead",
+                        "start": 193,
+                        "end": 193
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "Somerset",
+                        "start": 195,
+                        "end": 195
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    {
+                        "value": "Poole",
+                        "start": 197,
+                        "end": 197
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    {
+                        "value": "Dorset",
+                        "start": 199,
+                        "end": 199
+                    }
+                ],
+                "type": "LOC"
+            }
+        ],
+        "relations": [
+            [
+                1,
+                "country",
+                3
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                2,
+                "country",
+                3
+            ],
+            [
+                3,
+                "contains administrative territorial entity",
+                2
+            ],
+            [
+                4,
+                "country",
+                3
+            ],
+            [
+                6,
+                "country",
+                3
+            ],
+            [
+                7,
+                "country",
+                3
+            ],
+            [
+                9,
+                "country",
+                3
+            ],
+            [
+                15,
+                "country",
+                3
+            ],
+            [
+                16,
+                "country",
+                3
+            ],
+            [
+                17,
+                "country",
+                3
+            ],
+            [
+                19,
+                "country",
+                3
+            ],
+            [
+                21,
+                "country",
+                3
+            ],
+            [
+                5,
+                "country",
+                3
+            ],
+            [
+                8,
+                "country",
+                3
+            ],
+            [
+                10,
+                "country",
+                3
+            ],
+            [
+                11,
+                "country",
+                3
+            ],
+            [
+                20,
+                "country",
+                3
+            ],
+            [
+                12,
+                "country",
+                3
+            ],
+            [
+                18,
+                "country",
+                3
+            ],
+            [
+                0,
+                "country",
+                3
+            ],
+            [
+                6,
+                "located in the administrative territorial entity",
+                1
+            ],
+            [
+                17,
+                "located in the administrative territorial entity",
+                21
+            ],
+            [
+                8,
+                "located in the administrative territorial entity",
+                1
+            ],
+            [
+                2,
+                "contains administrative territorial entity",
+                1
+            ],
+            [
+                3,
+                "contains administrative territorial entity",
+                21
+            ],
+            [
+                14,
+                "country of citizenship",
+                3
+            ],
+            [
+                6,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                20,
+                "located in the administrative territorial entity",
+                21
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                1
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                1
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                1
+            ],
+            [
+                16,
+                "located in the administrative territorial entity",
+                1
+            ],
+            [
+                1,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                1,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                4,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                6,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                15,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                16,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                17,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                19,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                21,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                8,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                10,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                11,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                20,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                12,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                18,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                16,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                8,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                2
+            ]
+        ]
+    }
+]

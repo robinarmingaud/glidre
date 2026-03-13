@@ -1,0 +1,5651 @@
+[
+    {
+        "id": 0,
+        "tokenized_text": [
+            "NXT",
+            "TakeOver",
+            ":",
+            "R",
+            "Evolution",
+            "was",
+            "a",
+            "professional",
+            "wrestling",
+            "and",
+            "WWE",
+            "Network",
+            "event",
+            "produced",
+            "by",
+            "WWE",
+            ",",
+            "under",
+            "their",
+            "NXT",
+            "brand",
+            ".",
+            "It",
+            "was",
+            "broadcast",
+            "live",
+            "on",
+            "the",
+            "WWE",
+            "Network",
+            ",",
+            "available",
+            "to",
+            "subscribers",
+            ".",
+            "NXT",
+            "TakeOver",
+            "took",
+            "place",
+            "on",
+            "December",
+            "11",
+            ",",
+            "2014",
+            "at",
+            "NXT",
+            "'s",
+            "\"",
+            "home",
+            "\"",
+            "arena",
+            ",",
+            "Full",
+            "Sail",
+            "University",
+            "in",
+            "Winter",
+            "Park",
+            ",",
+            "Florida",
+            "and",
+            "featured",
+            "six",
+            "matches",
+            "as",
+            "part",
+            "of",
+            "the",
+            "main",
+            "broadcast",
+            "and",
+            "one",
+            "match",
+            "prior",
+            "to",
+            "the",
+            "televised",
+            "portion",
+            "of",
+            "the",
+            "show",
+            ".",
+            "The",
+            "show",
+            "was",
+            "the",
+            "third",
+            "show",
+            "in",
+            "the",
+            "NXT",
+            "TakeOver",
+            "series",
+            "of",
+            "Network",
+            "exclusive",
+            "shows",
+            ".",
+            "The",
+            "show",
+            "marked",
+            "the",
+            "in",
+            "-",
+            "ring",
+            "debut",
+            "of",
+            "Kevin",
+            "Owens",
+            ",",
+            "who",
+            "had",
+            "signed",
+            "with",
+            "the",
+            "company",
+            "in",
+            "the",
+            "months",
+            "prior",
+            "to",
+            "the",
+            "show",
+            ".",
+            "The",
+            "main",
+            "event",
+            "was",
+            "for",
+            "the",
+            "NXT",
+            "Championship",
+            "with",
+            "Adrian",
+            "Neville",
+            "defending",
+            "against",
+            "Sami",
+            "Zayn",
+            ",",
+            "with",
+            "the",
+            "added",
+            "stipulation",
+            "for",
+            "the",
+            "match",
+            "being",
+            "that",
+            "Zayn",
+            "would",
+            "have",
+            "to",
+            "leave",
+            "NXT",
+            "if",
+            "he",
+            "did",
+            "not",
+            "win",
+            "the",
+            "championship",
+            ".",
+            "The",
+            "show",
+            "featured",
+            "five",
+            "additional",
+            "matches",
+            ",",
+            "including",
+            "matches",
+            "for",
+            "the",
+            "NXT",
+            "Women",
+            "'s",
+            "Championship",
+            "and",
+            "the",
+            "NXT",
+            "Tag",
+            "Team",
+            "Championship",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "NXT TakeOver : R Evolution",
+                        "start": 0,
+                        "end": 4
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "WWE Network",
+                        "start": 10,
+                        "end": 11
+                    },
+                    {
+                        "value": "WWE Network",
+                        "start": 28,
+                        "end": 29
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "WWE",
+                        "start": 15,
+                        "end": 15
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "NXT",
+                        "start": 19,
+                        "end": 19
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "NXT TakeOver",
+                        "start": 90,
+                        "end": 91
+                    },
+                    {
+                        "value": "NXT TakeOver",
+                        "start": 35,
+                        "end": 36
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "December 11, 2014",
+                        "start": 40,
+                        "end": 43
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "NXT",
+                        "start": 45,
+                        "end": 45
+                    },
+                    {
+                        "value": "NXT",
+                        "start": 154,
+                        "end": 154
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Full Sail University",
+                        "start": 52,
+                        "end": 54
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Winter Park",
+                        "start": 56,
+                        "end": 57
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Florida",
+                        "start": 59,
+                        "end": 59
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "six",
+                        "start": 62,
+                        "end": 62
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "one",
+                        "start": 71,
+                        "end": 71
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Network",
+                        "start": 94,
+                        "end": 94
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Kevin Owens",
+                        "start": 107,
+                        "end": 108
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "NXT Championship",
+                        "start": 130,
+                        "end": 131
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Adrian Neville",
+                        "start": 133,
+                        "end": 134
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "Zayn",
+                        "start": 149,
+                        "end": 149
+                    },
+                    {
+                        "value": "Sami Zayn",
+                        "start": 137,
+                        "end": 138
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "five",
+                        "start": 166,
+                        "end": 166
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "NXT Women's Championship",
+                        "start": 174,
+                        "end": 177
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "NXT Tag Team Championship",
+                        "start": 180,
+                        "end": 183
+                    }
+                ],
+                "type": "MISC"
+            }
+        ],
+        "relations": [
+            [
+                4,
+                "inception",
+                5
+            ],
+            [
+                1,
+                "parent organization",
+                2
+            ],
+            [
+                1,
+                "owned by",
+                2
+            ],
+            [
+                3,
+                "parent organization",
+                2
+            ],
+            [
+                3,
+                "production company",
+                2
+            ],
+            [
+                3,
+                "owned by",
+                2
+            ],
+            [
+                3,
+                "creator",
+                2
+            ],
+            [
+                12,
+                "owned by",
+                2
+            ],
+            [
+                6,
+                "parent organization",
+                2
+            ],
+            [
+                4,
+                "original network",
+                1
+            ],
+            [
+                0,
+                "location",
+                7
+            ],
+            [
+                6,
+                "owned by",
+                2
+            ],
+            [
+                4,
+                "point in time",
+                5
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                9
+            ],
+            [
+                6,
+                "production company",
+                2
+            ],
+            [
+                0,
+                "point in time",
+                5
+            ],
+            [
+                0,
+                "original network",
+                1
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                8
+            ],
+            [
+                0,
+                "cast member",
+                13
+            ],
+            [
+                2,
+                "subsidiary",
+                1
+            ],
+            [
+                2,
+                "subsidiary",
+                3
+            ],
+            [
+                2,
+                "subsidiary",
+                6
+            ]
+        ]
+    },
+    {
+        "id": 1,
+        "tokenized_text": [
+            "The",
+            "crested",
+            "serpent",
+            "eagle",
+            "(",
+            "Spilornis",
+            "cheela",
+            ")",
+            "is",
+            "a",
+            "medium",
+            "-",
+            "sized",
+            "bird",
+            "of",
+            "prey",
+            "that",
+            "is",
+            "found",
+            "in",
+            "forested",
+            "habitats",
+            "across",
+            "tropical",
+            "Asia",
+            ".",
+            "Within",
+            "its",
+            "widespread",
+            "range",
+            "across",
+            "the",
+            "Indian",
+            "Subcontinent",
+            ",",
+            "Southeast",
+            "Asia",
+            "and",
+            "East",
+            "Asia",
+            ",",
+            "there",
+            "are",
+            "considerable",
+            "variations",
+            "and",
+            "some",
+            "authorities",
+            "prefer",
+            "to",
+            "treat",
+            "several",
+            "of",
+            "its",
+            "subspecies",
+            "as",
+            "completely",
+            "separate",
+            "species",
+            ".",
+            "In",
+            "the",
+            "past",
+            ",",
+            "several",
+            "species",
+            "including",
+            "the",
+            "Philippine",
+            "serpent",
+            "eagle",
+            "(",
+            "S.",
+            "holospila",
+            ")",
+            ",",
+            "Andaman",
+            "serpent",
+            "eagle",
+            "(",
+            "S.",
+            "elgini",
+            ")",
+            "and",
+            "South",
+            "Nicobar",
+            "serpent",
+            "eagle",
+            "(",
+            "S.",
+            "klossi",
+            ")",
+            "were",
+            "treated",
+            "as",
+            "subspecies",
+            "of",
+            "the",
+            "Crested",
+            "serpent",
+            "eagle",
+            ".",
+            "All",
+            "members",
+            "within",
+            "the",
+            "species",
+            "complex",
+            "have",
+            "a",
+            "large",
+            "looking",
+            "head",
+            "with",
+            "long",
+            "feathers",
+            "on",
+            "the",
+            "back",
+            "of",
+            "the",
+            "head",
+            "giving",
+            "them",
+            "a",
+            "maned",
+            "and",
+            "crested",
+            "appearance",
+            ".",
+            "The",
+            "face",
+            "is",
+            "bare",
+            "and",
+            "yellow",
+            "joining",
+            "up",
+            "with",
+            "the",
+            "ceres",
+            "while",
+            "the",
+            "powerful",
+            "feet",
+            "are",
+            "unfeathered",
+            "and",
+            "heavily",
+            "scaled",
+            ".",
+            "They",
+            "fly",
+            "over",
+            "the",
+            "forest",
+            "canopy",
+            "on",
+            "broad",
+            "wings",
+            "and",
+            "tail",
+            "have",
+            "wide",
+            "white",
+            "and",
+            "black",
+            "bars",
+            ".",
+            "They",
+            "call",
+            "often",
+            "with",
+            "a",
+            "loud",
+            ",",
+            "piercing",
+            "and",
+            "familiar",
+            "three",
+            "or",
+            "two",
+            "-",
+            "note",
+            "call",
+            ".",
+            "They",
+            "often",
+            "feed",
+            "on",
+            "snakes",
+            ",",
+            "giving",
+            "them",
+            "their",
+            "name",
+            "and",
+            "are",
+            "placed",
+            "along",
+            "with",
+            "the",
+            "Circaetus",
+            "snake",
+            "-",
+            "eagles",
+            "in",
+            "the",
+            "subfamily",
+            "Circaetinae",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Spilornis cheela",
+                        "start": 5,
+                        "end": 6
+                    },
+                    {
+                        "value": "The crested serpent eagle",
+                        "start": 0,
+                        "end": 3
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Asia",
+                        "start": 24,
+                        "end": 24
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Indian Subcontinent",
+                        "start": 32,
+                        "end": 33
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Southeast Asia",
+                        "start": 35,
+                        "end": 36
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "East Asia",
+                        "start": 38,
+                        "end": 39
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "S. holospila",
+                        "start": 72,
+                        "end": 73
+                    },
+                    {
+                        "value": "Philippine serpent eagle",
+                        "start": 68,
+                        "end": 70
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "S. elgini",
+                        "start": 80,
+                        "end": 81
+                    },
+                    {
+                        "value": "Andaman serpent eagle",
+                        "start": 76,
+                        "end": 78
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "S. klossi",
+                        "start": 89,
+                        "end": 90
+                    },
+                    {
+                        "value": "South Nicobar serpent eagle",
+                        "start": 84,
+                        "end": 87
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Crested serpent eagle",
+                        "start": 98,
+                        "end": 100
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "three",
+                        "start": 179,
+                        "end": 179
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "two",
+                        "start": 181,
+                        "end": 181
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Circaetus snake - eagles",
+                        "start": 202,
+                        "end": 205
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "subfamily Circaetinae",
+                        "start": 208,
+                        "end": 209
+                    }
+                ],
+                "type": "MISC"
+            }
+        ],
+        "relations": [
+            [
+                3,
+                "continent",
+                1
+            ],
+            [
+                3,
+                "part of",
+                1
+            ],
+            [
+                4,
+                "continent",
+                1
+            ],
+            [
+                2,
+                "continent",
+                1
+            ],
+            [
+                2,
+                "part of",
+                1
+            ],
+            [
+                11,
+                "parent taxon",
+                12
+            ],
+            [
+                1,
+                "has part",
+                3
+            ],
+            [
+                1,
+                "has part",
+                2
+            ]
+        ]
+    },
+    {
+        "id": 2,
+        "tokenized_text": [
+            "Twinemen",
+            "is",
+            "an",
+            "alternative",
+            "rock",
+            "band",
+            "based",
+            "in",
+            "Cambridge",
+            ",",
+            "Massachusetts",
+            ",",
+            "USA",
+            "created",
+            "by",
+            "former",
+            "members",
+            "of",
+            "the",
+            "bands",
+            "Morphine",
+            "and",
+            "Face",
+            "to",
+            "Face",
+            ".",
+            "The",
+            "group",
+            "includes",
+            "Dana",
+            "Colley",
+            "(",
+            "saxophone",
+            "/",
+            "vocals",
+            ")",
+            ",",
+            "Billy",
+            "Conway",
+            "(",
+            "percussion",
+            "/",
+            "vocals",
+            "/",
+            "sometimes",
+            "acoustic",
+            "guitar",
+            ")",
+            ",",
+            "and",
+            "Laurie",
+            "Sargent",
+            "(",
+            "lead",
+            "singer",
+            "/",
+            "lead",
+            "guitar",
+            ")",
+            ".",
+            "Various",
+            "bass",
+            "players",
+            ",",
+            "including",
+            "former",
+            "Face",
+            "to",
+            "Face",
+            "guitarist",
+            "Stuart",
+            "Kimball",
+            ",",
+            "also",
+            "perform",
+            "with",
+            "the",
+            "band",
+            "on",
+            "the",
+            "road",
+            "and",
+            "in",
+            "the",
+            "studio",
+            ".",
+            "Twinemen",
+            "'s",
+            "music",
+            "includes",
+            "a",
+            "mix",
+            "of",
+            "jazz",
+            ",",
+            "blues",
+            ",",
+            "acid",
+            "rock",
+            ",",
+            "and",
+            "lounge",
+            ".",
+            "Twinemen",
+            "chose",
+            "their",
+            "name",
+            "as",
+            "an",
+            "homage",
+            "to",
+            "Morphine",
+            "'s",
+            "late",
+            "leader",
+            "Mark",
+            "Sandman",
+            "and",
+            "his",
+            "The",
+            "Twinemen",
+            "comic",
+            "series",
+            ".",
+            "The",
+            "Twinemen",
+            "depicted",
+            "three",
+            "anthropomorphic",
+            "balls",
+            "of",
+            "twine",
+            "who",
+            "play",
+            "together",
+            "in",
+            "a",
+            "band",
+            ".",
+            "Twinemen",
+            "currently",
+            "records",
+            "in",
+            "their",
+            "Cambridge",
+            "-",
+            "based",
+            "Hi",
+            "-",
+            "n",
+            "-",
+            "Dry",
+            "Studios",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Twinemen",
+                        "start": 139,
+                        "end": 139
+                    },
+                    {
+                        "value": "Twinemen",
+                        "start": 0,
+                        "end": 0
+                    },
+                    {
+                        "value": "Twinemen",
+                        "start": 86,
+                        "end": 86
+                    },
+                    {
+                        "value": "Twinemen",
+                        "start": 103,
+                        "end": 103
+                    },
+                    {
+                        "value": "Twinemen",
+                        "start": 125,
+                        "end": 125
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Cambridge",
+                        "start": 8,
+                        "end": 8
+                    },
+                    {
+                        "value": "Cambridge",
+                        "start": 144,
+                        "end": 144
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Massachusetts",
+                        "start": 10,
+                        "end": 10
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "USA",
+                        "start": 12,
+                        "end": 12
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Morphine",
+                        "start": 20,
+                        "end": 20
+                    },
+                    {
+                        "value": "Morphine",
+                        "start": 111,
+                        "end": 111
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Face to Face",
+                        "start": 22,
+                        "end": 24
+                    },
+                    {
+                        "value": "Face to Face",
+                        "start": 66,
+                        "end": 68
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Dana Colley",
+                        "start": 29,
+                        "end": 30
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Billy Conway",
+                        "start": 37,
+                        "end": 38
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Laurie Sargent",
+                        "start": 50,
+                        "end": 51
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Stuart Kimball",
+                        "start": 70,
+                        "end": 71
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Mark Sandman",
+                        "start": 115,
+                        "end": 116
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Twinemen",
+                        "start": 120,
+                        "end": 120
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Hi - n - Dry Studios",
+                        "start": 147,
+                        "end": 152
+                    }
+                ],
+                "type": "ORG"
+            }
+        ],
+        "relations": [
+            [
+                1,
+                "country",
+                3
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                2,
+                "country",
+                3
+            ],
+            [
+                3,
+                "contains administrative territorial entity",
+                2
+            ],
+            [
+                5,
+                "has part",
+                9
+            ],
+            [
+                4,
+                "has part",
+                10
+            ],
+            [
+                9,
+                "member of",
+                5
+            ],
+            [
+                0,
+                "location of formation",
+                1
+            ],
+            [
+                0,
+                "has part",
+                8
+            ],
+            [
+                0,
+                "has part",
+                7
+            ],
+            [
+                0,
+                "country",
+                3
+            ],
+            [
+                10,
+                "member of",
+                4
+            ],
+            [
+                5,
+                "country",
+                3
+            ],
+            [
+                12,
+                "country",
+                3
+            ],
+            [
+                0,
+                "has part",
+                6
+            ],
+            [
+                8,
+                "member of",
+                0
+            ],
+            [
+                9,
+                "part of",
+                5
+            ],
+            [
+                10,
+                "part of",
+                4
+            ],
+            [
+                8,
+                "part of",
+                0
+            ],
+            [
+                7,
+                "part of",
+                0
+            ],
+            [
+                6,
+                "part of",
+                0
+            ],
+            [
+                1,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                12,
+                "located in the administrative territorial entity",
+                3
+            ]
+        ]
+    },
+    {
+        "id": 3,
+        "tokenized_text": [
+            "Damaged",
+            "is",
+            "a",
+            "split",
+            "EP",
+            "by",
+            "Japanese",
+            "bands",
+            "Boris",
+            "and",
+            "Stupid",
+            "Babies",
+            "Go",
+            "Mad",
+            ".",
+            "It",
+            "was",
+            "released",
+            "in",
+            "2007",
+            "by",
+            "Diwphalanx",
+            "Records",
+            "as",
+            "a",
+            "picture",
+            "disc",
+            "on",
+            "10″",
+            "vinyl",
+            "and",
+            "limited",
+            "to",
+            "1500",
+            "copies",
+            ".",
+            "The",
+            "release",
+            "also",
+            "comes",
+            "with",
+            "a",
+            "DVD",
+            ".",
+            "The",
+            "cover",
+            "features",
+            "a",
+            "homage",
+            "to",
+            "the",
+            "classic",
+            "Black",
+            "Flag",
+            "logo",
+            "and",
+            "takes",
+            "its",
+            "name",
+            "from",
+            "Black",
+            "Flag",
+            "'s",
+            "debut",
+            "album",
+            "Damaged",
+            ".",
+            "Both",
+            "bands",
+            "cover",
+            "each",
+            "other",
+            "'s",
+            "songs",
+            "for",
+            "this",
+            "release",
+            "(",
+            "Stupid",
+            "Babies",
+            "Go",
+            "Mad",
+            "covers",
+            "\"",
+            "Ibitsu",
+            "\"",
+            "and",
+            "another",
+            "song",
+            "twice",
+            "while",
+            "Boris",
+            "covers",
+            "\"",
+            "Double",
+            "Vision",
+            "\"",
+            ")",
+            ".",
+            "This",
+            "release",
+            "also",
+            "came",
+            "with",
+            "a",
+            "bonus",
+            "DVD",
+            "which",
+            "features",
+            "live",
+            "footage",
+            "of",
+            "both",
+            "bands",
+            ".",
+            "Stupid",
+            "Babies",
+            "Go",
+            "Mad",
+            "'s",
+            "live",
+            "footage",
+            "is",
+            "done",
+            "with",
+            "a",
+            "stark",
+            "black",
+            "-",
+            "and",
+            "-",
+            "white",
+            "look",
+            "while",
+            "Boris",
+            "'",
+            "part",
+            "has",
+            "bizarre",
+            "cut",
+            "-",
+            "offs",
+            "and",
+            "camera",
+            "manipulations",
+            ",",
+            "although",
+            "by",
+            "the",
+            "second",
+            "half",
+            "of",
+            "their",
+            "part",
+            "it",
+            "'s",
+            "left",
+            "alone",
+            ".",
+            "\"",
+            "Evil",
+            "Stack",
+            "\"",
+            "is",
+            "the",
+            "first",
+            "iteration",
+            "released",
+            "in",
+            "a",
+            "series",
+            "of",
+            "drone",
+            "improvisations",
+            "using",
+            "the",
+            "title",
+            ".",
+            "The",
+            "second",
+            "appears",
+            "on",
+            "Rock",
+            "Dream",
+            ",",
+            "while",
+            "the",
+            "third",
+            "is",
+            "included",
+            "on",
+            "Präparat",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Damaged",
+                        "start": 0,
+                        "end": 0
+                    },
+                    {
+                        "value": "Damaged",
+                        "start": 65,
+                        "end": 65
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Japanese",
+                        "start": 6,
+                        "end": 6
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Boris",
+                        "start": 91,
+                        "end": 91
+                    },
+                    {
+                        "value": "Boris",
+                        "start": 8,
+                        "end": 8
+                    },
+                    {
+                        "value": "Boris",
+                        "start": 134,
+                        "end": 134
+                    },
+                    {
+                        "value": "Boris",
+                        "start": 8,
+                        "end": 8
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Stupid Babies Go Mad",
+                        "start": 10,
+                        "end": 13
+                    },
+                    {
+                        "value": "Stupid Babies Go Mad",
+                        "start": 78,
+                        "end": 81
+                    },
+                    {
+                        "value": "Stupid Babies Go Mad",
+                        "start": 115,
+                        "end": 118
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "2007",
+                        "start": 19,
+                        "end": 19
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Diwphalanx Records",
+                        "start": 21,
+                        "end": 22
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "10″",
+                        "start": 28,
+                        "end": 28
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "1500",
+                        "start": 33,
+                        "end": 33
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Black Flag",
+                        "start": 52,
+                        "end": 53
+                    },
+                    {
+                        "value": "Black Flag",
+                        "start": 60,
+                        "end": 61
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Ibitsu",
+                        "start": 84,
+                        "end": 84
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Double Vision",
+                        "start": 94,
+                        "end": 95
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Evil Stack",
+                        "start": 160,
+                        "end": 161
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Rock Dream",
+                        "start": 182,
+                        "end": 183
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Präparat",
+                        "start": 191,
+                        "end": 191
+                    }
+                ],
+                "type": "MISC"
+            }
+        ],
+        "relations": [
+            [
+                3,
+                "record label",
+                5
+            ],
+            [
+                0,
+                "publication date",
+                4
+            ],
+            [
+                0,
+                "record label",
+                5
+            ],
+            [
+                0,
+                "performer",
+                3
+            ],
+            [
+                0,
+                "performer",
+                8
+            ],
+            [
+                0,
+                "performer",
+                2
+            ],
+            [
+                10,
+                "record label",
+                5
+            ],
+            [
+                9,
+                "record label",
+                5
+            ],
+            [
+                9,
+                "country of origin",
+                1
+            ],
+            [
+                2,
+                "record label",
+                5
+            ],
+            [
+                11,
+                "record label",
+                5
+            ],
+            [
+                10,
+                "performer",
+                2
+            ],
+            [
+                13,
+                "follows",
+                12
+            ],
+            [
+                9,
+                "performer",
+                3
+            ],
+            [
+                13,
+                "performer",
+                2
+            ],
+            [
+                12,
+                "performer",
+                2
+            ],
+            [
+                9,
+                "performer",
+                2
+            ],
+            [
+                10,
+                "performer",
+                3
+            ],
+            [
+                11,
+                "performer",
+                2
+            ],
+            [
+                3,
+                "notable work",
+                0
+            ],
+            [
+                8,
+                "notable work",
+                0
+            ],
+            [
+                2,
+                "notable work",
+                0
+            ],
+            [
+                2,
+                "notable work",
+                10
+            ],
+            [
+                12,
+                "followed by",
+                13
+            ],
+            [
+                3,
+                "notable work",
+                9
+            ],
+            [
+                2,
+                "notable work",
+                13
+            ],
+            [
+                2,
+                "notable work",
+                12
+            ],
+            [
+                2,
+                "notable work",
+                9
+            ],
+            [
+                3,
+                "notable work",
+                10
+            ],
+            [
+                2,
+                "notable work",
+                11
+            ]
+        ]
+    },
+    {
+        "id": 4,
+        "tokenized_text": [
+            "\"",
+            "Himnusz",
+            "\"",
+            "(;",
+            ")",
+            "is",
+            "the",
+            "national",
+            "anthem",
+            "of",
+            "Hungary",
+            ".",
+            "It",
+            "was",
+            "adopted",
+            "in",
+            "the",
+            "19th",
+            "century",
+            "and",
+            "the",
+            "first",
+            "stanza",
+            "is",
+            "sung",
+            "at",
+            "official",
+            "ceremonies",
+            ".",
+            "The",
+            "words",
+            "were",
+            "written",
+            "by",
+            "Ferenc",
+            "Kölcsey",
+            ",",
+            "a",
+            "nationally",
+            "renowned",
+            "poet",
+            ",",
+            "in",
+            "1823",
+            ",",
+            "and",
+            "its",
+            "currently",
+            "official",
+            "musical",
+            "setting",
+            "was",
+            "composed",
+            "by",
+            "the",
+            "romantic",
+            "composer",
+            "Ferenc",
+            "Erkel",
+            "in",
+            "1844",
+            ",",
+            "although",
+            "other",
+            "less",
+            "-",
+            "known",
+            "musical",
+            "versions",
+            "exist",
+            ".",
+            "The",
+            "poem",
+            "bore",
+            "the",
+            "subtitle",
+            "\"",
+            "A",
+            "magyar",
+            "nép",
+            "zivataros",
+            "századaiból",
+            "\"",
+            "(",
+            "\"",
+            "From",
+            "the",
+            "stormy",
+            "centuries",
+            "of",
+            "the",
+            "Hungarian",
+            "people",
+            "\"",
+            ")",
+            ";",
+            "it",
+            "is",
+            "often",
+            "argued",
+            "that",
+            "this",
+            "subtitle",
+            "–",
+            "by",
+            "emphasising",
+            "past",
+            "rather",
+            "than",
+            "contemporary",
+            "national",
+            "troubles",
+            "–",
+            "was",
+            "added",
+            "expressly",
+            "to",
+            "enable",
+            "the",
+            "poem",
+            "to",
+            "pass",
+            "Habsburg",
+            "censorship",
+            ".",
+            "The",
+            "full",
+            "meaning",
+            "of",
+            "the",
+            "poem",
+            "'s",
+            "text",
+            "is",
+            "evident",
+            "only",
+            "to",
+            "those",
+            "well",
+            "acquainted",
+            "with",
+            "Hungarian",
+            "history",
+            ".",
+            "The",
+            "lyrics",
+            "of",
+            "\"",
+            "Himnusz",
+            "\"",
+            "are",
+            "a",
+            "prayer",
+            "beginning",
+            "with",
+            "the",
+            "words",
+            "Isten",
+            ",",
+            "áldd",
+            "meg",
+            "a",
+            "magyart",
+            "(",
+            ")",
+            "(",
+            ")",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Himnusz",
+                        "start": 1,
+                        "end": 1
+                    },
+                    {
+                        "value": "Himnusz",
+                        "start": 148,
+                        "end": 148
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Hungary",
+                        "start": 10,
+                        "end": 10
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "19th century",
+                        "start": 17,
+                        "end": 18
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Ferenc Kölcsey",
+                        "start": 34,
+                        "end": 35
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "1823",
+                        "start": 43,
+                        "end": 43
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Ferenc Erkel",
+                        "start": 57,
+                        "end": 58
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "1844",
+                        "start": 60,
+                        "end": 60
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "A magyar nép zivataros századaiból",
+                        "start": 77,
+                        "end": 81
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Hungarian",
+                        "start": 141,
+                        "end": 141
+                    },
+                    {
+                        "value": "Hungarian",
+                        "start": 91,
+                        "end": 91
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Habsburg",
+                        "start": 122,
+                        "end": 122
+                    }
+                ],
+                "type": "ORG"
+            }
+        ],
+        "relations": [
+            [
+                3,
+                "languages spoken, written or signed",
+                8
+            ],
+            [
+                3,
+                "country of citizenship",
+                1
+            ],
+            [
+                5,
+                "notable work",
+                0
+            ],
+            [
+                0,
+                "country",
+                1
+            ],
+            [
+                1,
+                "official language",
+                8
+            ],
+            [
+                0,
+                "composer",
+                5
+            ],
+            [
+                0,
+                "lyrics by",
+                3
+            ],
+            [
+                5,
+                "languages spoken, written or signed",
+                8
+            ],
+            [
+                5,
+                "country of citizenship",
+                1
+            ],
+            [
+                0,
+                "inception",
+                4
+            ],
+            [
+                3,
+                "notable work",
+                0
+            ],
+            [
+                0,
+                "author",
+                3
+            ],
+            [
+                5,
+                "country of citizenship",
+                8
+            ],
+            [
+                3,
+                "country of citizenship",
+                8
+            ],
+            [
+                0,
+                "country",
+                8
+            ]
+        ]
+    },
+    {
+        "id": 5,
+        "tokenized_text": [
+            "Notre",
+            "-",
+            "Dame",
+            "de",
+            "Paris",
+            "(;",
+            ";",
+            "meaning",
+            "\"",
+            "Our",
+            "Lady",
+            "of",
+            "Paris",
+            "\"",
+            ")",
+            ",",
+            "also",
+            "known",
+            "as",
+            "Notre",
+            "-",
+            "Dame",
+            "Cathedral",
+            "or",
+            "simply",
+            "Notre",
+            "-",
+            "Dame",
+            ",",
+            "is",
+            "a",
+            "medieval",
+            "Catholic",
+            "cathedral",
+            "on",
+            "the",
+            "Île",
+            "de",
+            "la",
+            "Cité",
+            "in",
+            "the",
+            "fourth",
+            "arrondissement",
+            "of",
+            "Paris",
+            ",",
+            "France",
+            ".",
+            "The",
+            "cathedral",
+            "is",
+            "widely",
+            "considered",
+            "to",
+            "be",
+            "one",
+            "of",
+            "the",
+            "finest",
+            "examples",
+            "of",
+            "French",
+            "Gothic",
+            "architecture",
+            ".",
+            "The",
+            "innovative",
+            "use",
+            "of",
+            "the",
+            "rib",
+            "vault",
+            "and",
+            "flying",
+            "buttress",
+            ",",
+            "the",
+            "enormous",
+            "and",
+            "colorful",
+            "rose",
+            "windows",
+            ",",
+            "and",
+            "the",
+            "naturalism",
+            "and",
+            "abundance",
+            "of",
+            "its",
+            "sculptural",
+            "decoration",
+            "all",
+            "set",
+            "it",
+            "apart",
+            "from",
+            "earlier",
+            "Romanesque",
+            "architecture",
+            ".",
+            "The",
+            "cathedral",
+            "was",
+            "begun",
+            "in",
+            "1160",
+            "and",
+            "largely",
+            "completed",
+            "by",
+            "1260",
+            ",",
+            "though",
+            "it",
+            "was",
+            "modified",
+            "frequently",
+            "in",
+            "the",
+            "following",
+            "centuries",
+            ".",
+            "In",
+            "the",
+            "1790s",
+            ",",
+            "Notre",
+            "-",
+            "Dame",
+            "suffered",
+            "desecration",
+            "during",
+            "the",
+            "French",
+            "Revolution",
+            "when",
+            "much",
+            "of",
+            "its",
+            "religious",
+            "imagery",
+            "was",
+            "damaged",
+            "or",
+            "destroyed",
+            ".",
+            "Soon",
+            "after",
+            "the",
+            "publication",
+            "of",
+            "Victor",
+            "Hugo",
+            "'s",
+            "novel",
+            "The",
+            "Hunchback",
+            "of",
+            "Notre",
+            "Dame",
+            "in",
+            "1831",
+            ",",
+            "popular",
+            "interest",
+            "in",
+            "the",
+            "building",
+            "revived",
+            ".",
+            "A",
+            "major",
+            "restoration",
+            "project",
+            "supervised",
+            "by",
+            "Eugène",
+            "Viollet",
+            "-",
+            "le",
+            "-",
+            "Duc",
+            "began",
+            "in",
+            "1845",
+            "and",
+            "continued",
+            "for",
+            "twenty",
+            "-",
+            "five",
+            "years",
+            ".",
+            "Beginning",
+            "in",
+            "1963",
+            ",",
+            "the",
+            "facade",
+            "of",
+            "the",
+            "Cathedral",
+            "was",
+            "cleaned",
+            "of",
+            "centuries",
+            "of",
+            "soot",
+            "and",
+            "grime",
+            ",",
+            "returning",
+            "it",
+            "to",
+            "its",
+            "original",
+            "color",
+            ".",
+            "Another",
+            "campaign",
+            "of",
+            "cleaning",
+            "and",
+            "restoration",
+            "was",
+            "carried",
+            "out",
+            "from",
+            "1991",
+            "-",
+            "2000",
+            ".",
+            "As",
+            "the",
+            "cathedral",
+            "of",
+            "the",
+            "Archdiocese",
+            "of",
+            "Paris",
+            ",",
+            "Notre",
+            "-",
+            "Dame",
+            "contains",
+            "the",
+            "cathedra",
+            "of",
+            "the",
+            "Archbishop",
+            "of",
+            "Paris",
+            ",",
+            "currently",
+            "Michel",
+            "Aupetit",
+            ".",
+            "12",
+            "million",
+            "people",
+            "visit",
+            "Notre",
+            "-",
+            "Dame",
+            "yearly",
+            ",",
+            "which",
+            "makes",
+            "it",
+            "the",
+            "most",
+            "visited",
+            "monument",
+            "in",
+            "Paris",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Notre-Dame de Paris",
+                        "start": 0,
+                        "end": 4
+                    },
+                    {
+                        "value": "Our Lady of Paris",
+                        "start": 9,
+                        "end": 12
+                    },
+                    {
+                        "value": "Notre-Dame Cathedral",
+                        "start": 19,
+                        "end": 22
+                    },
+                    {
+                        "value": "Notre - Dame",
+                        "start": 128,
+                        "end": 130
+                    },
+                    {
+                        "value": "Cathedral",
+                        "start": 203,
+                        "end": 203
+                    },
+                    {
+                        "value": "Notre-Dame",
+                        "start": 263,
+                        "end": 265
+                    },
+                    {
+                        "value": "Notre - Dame",
+                        "start": 243,
+                        "end": 245
+                    },
+                    {
+                        "value": "Notre-Dame",
+                        "start": 25,
+                        "end": 27
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Catholic",
+                        "start": 32,
+                        "end": 32
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Île de la Cité",
+                        "start": 36,
+                        "end": 39
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Paris",
+                        "start": 45,
+                        "end": 45
+                    },
+                    {
+                        "value": "Paris",
+                        "start": 276,
+                        "end": 276
+                    },
+                    {
+                        "value": "Paris",
+                        "start": 253,
+                        "end": 253
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "France",
+                        "start": 47,
+                        "end": 47
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "French Gothic",
+                        "start": 62,
+                        "end": 63
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Romanesque",
+                        "start": 99,
+                        "end": 99
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "1160",
+                        "start": 107,
+                        "end": 107
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "1260",
+                        "start": 112,
+                        "end": 112
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "the 1790s",
+                        "start": 125,
+                        "end": 126
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "French Revolution",
+                        "start": 135,
+                        "end": 136
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Victor Hugo",
+                        "start": 153,
+                        "end": 154
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "The Hunchback of Notre Dame",
+                        "start": 157,
+                        "end": 161
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "1831",
+                        "start": 163,
+                        "end": 163
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Eugène Viollet-le-Duc",
+                        "start": 178,
+                        "end": 183
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "1845",
+                        "start": 186,
+                        "end": 186
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "twenty - five years",
+                        "start": 190,
+                        "end": 193
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "1963",
+                        "start": 197,
+                        "end": 197
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "1991",
+                        "start": 230,
+                        "end": 230
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "2000",
+                        "start": 232,
+                        "end": 232
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    {
+                        "value": "Archdiocese of Paris",
+                        "start": 239,
+                        "end": 241
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    {
+                        "value": "Michel Aupetit",
+                        "start": 256,
+                        "end": 257
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    {
+                        "value": "12 million",
+                        "start": 259,
+                        "end": 260
+                    }
+                ],
+                "type": "NUM"
+            }
+        ],
+        "relations": [
+            [
+                3,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                3,
+                "country",
+                4
+            ],
+            [
+                10,
+                "location",
+                4
+            ],
+            [
+                10,
+                "country",
+                4
+            ],
+            [
+                14,
+                "country of citizenship",
+                4
+            ],
+            [
+                21,
+                "religion",
+                1
+            ],
+            [
+                21,
+                "country of citizenship",
+                4
+            ],
+            [
+                2,
+                "country",
+                4
+            ],
+            [
+                11,
+                "notable work",
+                12
+            ],
+            [
+                12,
+                "narrative location",
+                3
+            ],
+            [
+                12,
+                "author",
+                11
+            ],
+            [
+                20,
+                "headquarters location",
+                3
+            ],
+            [
+                20,
+                "country",
+                4
+            ],
+            [
+                0,
+                "narrative location",
+                3
+            ],
+            [
+                0,
+                "religion",
+                1
+            ],
+            [
+                0,
+                "country",
+                4
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                0,
+                "located on terrain feature",
+                2
+            ],
+            [
+                3,
+                "contains administrative territorial entity",
+                2
+            ],
+            [
+                5,
+                "country",
+                4
+            ],
+            [
+                12,
+                "publication date",
+                13
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                0,
+                "inception",
+                7
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                12,
+                "country of origin",
+                4
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                20,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                4
+            ]
+        ]
+    },
+    {
+        "id": 6,
+        "tokenized_text": [
+            "Michelle",
+            "LaVallee",
+            "is",
+            "a",
+            "Canadian",
+            "curator",
+            ",",
+            "artist",
+            ",",
+            "and",
+            "educator",
+            "of",
+            "Ojibway",
+            "ancestry",
+            "and",
+            "a",
+            "member",
+            "of",
+            "the",
+            "Nawash",
+            "Band",
+            "in",
+            "Cape",
+            "Croker",
+            ",",
+            "Ontario",
+            ".",
+            "She",
+            "has",
+            "BFA",
+            "(",
+            "2000",
+            ")",
+            "and",
+            "BEd",
+            "(",
+            "2004",
+            ")",
+            "degrees",
+            "from",
+            "York",
+            "University",
+            "in",
+            "Toronto",
+            ",",
+            "Ontario",
+            ".",
+            "Her",
+            "most",
+            "recent",
+            "degree",
+            "is",
+            "an",
+            "MA",
+            "in",
+            "Art",
+            "History",
+            "and",
+            "Curatorial",
+            "Studies",
+            "from",
+            "the",
+            "University",
+            "of",
+            "Regina",
+            "in",
+            "Regina",
+            ",",
+            "Saskatchewan",
+            ",",
+            "with",
+            "a",
+            "special",
+            "focus",
+            "on",
+            "the",
+            "complex",
+            ",",
+            "contextual",
+            ",",
+            "and",
+            "interactive",
+            "nature",
+            "of",
+            "Aboriginal",
+            "curatorial",
+            "practices",
+            "in",
+            "the",
+            "development",
+            "of",
+            "curatorial",
+            "and",
+            "art",
+            "historical",
+            "research",
+            "models",
+            ".",
+            "She",
+            "has",
+            "been",
+            "working",
+            "as",
+            "a",
+            "curator",
+            "at",
+            "the",
+            "MacKenzie",
+            "Art",
+            "Gallery",
+            "in",
+            "Regina",
+            ",",
+            "Saskatchewan",
+            "since",
+            "2007",
+            ".",
+            "Lavallee",
+            "won",
+            "the",
+            "award",
+            "for",
+            "Excellence",
+            "in",
+            "Arts",
+            "Related",
+            "Service",
+            "at",
+            "the",
+            "Mayors",
+            "'",
+            "Arts",
+            "and",
+            "Business",
+            "Awards",
+            "in",
+            "Regina",
+            ",",
+            "Saskatchewan",
+            "in",
+            "2013",
+            ".",
+            "Activating",
+            "and",
+            "developing",
+            "greater",
+            "understanding",
+            "of",
+            "misrepresented",
+            "or",
+            "marginalized",
+            "histories",
+            "is",
+            "of",
+            "personal",
+            "and",
+            "political",
+            "import",
+            "for",
+            "LaVallee",
+            "whose",
+            "critical",
+            "thought",
+            "is",
+            "influenced",
+            "from",
+            "her",
+            "experience",
+            "working",
+            "with",
+            "Indigenous",
+            "peoples",
+            "in",
+            "Canada",
+            ",",
+            "El",
+            "Salvador",
+            ",",
+            "Australia",
+            "and",
+            "Aotearoa",
+            "(",
+            "New",
+            "Zealand",
+            ")"
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Lavallee",
+                        "start": 117,
+                        "end": 117
+                    },
+                    {
+                        "value": "Michelle LaVallee",
+                        "start": 0,
+                        "end": 1
+                    },
+                    {
+                        "value": "LaVallee",
+                        "start": 159,
+                        "end": 159
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Canadian",
+                        "start": 4,
+                        "end": 4
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Ojibway",
+                        "start": 12,
+                        "end": 12
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Nawash Band",
+                        "start": 19,
+                        "end": 20
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Cape Croker",
+                        "start": 22,
+                        "end": 23
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Ontario",
+                        "start": 25,
+                        "end": 25
+                    },
+                    {
+                        "value": "Ontario",
+                        "start": 45,
+                        "end": 45
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "2000",
+                        "start": 31,
+                        "end": 31
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "2004",
+                        "start": 36,
+                        "end": 36
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "York University",
+                        "start": 40,
+                        "end": 41
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Toronto",
+                        "start": 43,
+                        "end": 43
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "University of Regina",
+                        "start": 62,
+                        "end": 64
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Regina",
+                        "start": 66,
+                        "end": 66
+                    },
+                    {
+                        "value": "Regina",
+                        "start": 111,
+                        "end": 111
+                    },
+                    {
+                        "value": "Regina",
+                        "start": 136,
+                        "end": 136
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Saskatchewan",
+                        "start": 68,
+                        "end": 68
+                    },
+                    {
+                        "value": "Saskatchewan",
+                        "start": 113,
+                        "end": 113
+                    },
+                    {
+                        "value": "Saskatchewan",
+                        "start": 138,
+                        "end": 138
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Aboriginal",
+                        "start": 84,
+                        "end": 84
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "MacKenzie Art Gallery",
+                        "start": 107,
+                        "end": 109
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "2007",
+                        "start": 115,
+                        "end": 115
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "award for Excellence in Arts Related Service",
+                        "start": 120,
+                        "end": 126
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Mayors' Arts and Business Awards",
+                        "start": 129,
+                        "end": 134
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "2013",
+                        "start": 140,
+                        "end": 140
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "Canada",
+                        "start": 173,
+                        "end": 173
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    {
+                        "value": "El Salvador",
+                        "start": 175,
+                        "end": 176
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    {
+                        "value": "Australia",
+                        "start": 178,
+                        "end": 178
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    {
+                        "value": "Aotearoa",
+                        "start": 180,
+                        "end": 180
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    {
+                        "value": "New Zealand",
+                        "start": 182,
+                        "end": 183
+                    }
+                ],
+                "type": "LOC"
+            }
+        ],
+        "relations": [
+            [
+                4,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                8,
+                "headquarters location",
+                9
+            ],
+            [
+                8,
+                "located in the administrative territorial entity",
+                9
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                10,
+                "located in the administrative territorial entity",
+                12
+            ],
+            [
+                11,
+                "located in the administrative territorial entity",
+                14
+            ],
+            [
+                14,
+                "located in the administrative territorial entity",
+                12
+            ],
+            [
+                0,
+                "educated at",
+                8
+            ],
+            [
+                10,
+                "country",
+                19
+            ],
+            [
+                14,
+                "located in the administrative territorial entity",
+                11
+            ],
+            [
+                0,
+                "country of citizenship",
+                19
+            ],
+            [
+                0,
+                "educated at",
+                10
+            ],
+            [
+                8,
+                "country",
+                19
+            ],
+            [
+                19,
+                "contains administrative territorial entity",
+                12
+            ],
+            [
+                19,
+                "contains administrative territorial entity",
+                5
+            ],
+            [
+                22,
+                "located in the administrative territorial entity",
+                23
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                19
+            ],
+            [
+                10,
+                "located in the administrative territorial entity",
+                11
+            ],
+            [
+                19,
+                "ethnic group",
+                1
+            ],
+            [
+                9,
+                "country",
+                19
+            ],
+            [
+                22,
+                "country",
+                23
+            ],
+            [
+                12,
+                "country",
+                19
+            ],
+            [
+                4,
+                "country",
+                19
+            ],
+            [
+                0,
+                "country of citizenship",
+                1
+            ],
+            [
+                3,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                3,
+                "country",
+                19
+            ],
+            [
+                5,
+                "country",
+                19
+            ],
+            [
+                14,
+                "country",
+                19
+            ],
+            [
+                10,
+                "located in the administrative territorial entity",
+                19
+            ],
+            [
+                8,
+                "located in the administrative territorial entity",
+                19
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                19
+            ],
+            [
+                12,
+                "located in the administrative territorial entity",
+                19
+            ],
+            [
+                4,
+                "located in the administrative territorial entity",
+                19
+            ],
+            [
+                3,
+                "located in the administrative territorial entity",
+                19
+            ],
+            [
+                14,
+                "located in the administrative territorial entity",
+                19
+            ],
+            [
+                8,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                10,
+                "located in the administrative territorial entity",
+                14
+            ],
+            [
+                11,
+                "located in the administrative territorial entity",
+                12
+            ],
+            [
+                11,
+                "located in the administrative territorial entity",
+                19
+            ]
+        ]
+    },
+    {
+        "id": 7,
+        "tokenized_text": [
+            "Anachlysictis",
+            "gracilis",
+            "is",
+            "an",
+            "extinct",
+            "carnivorous",
+            "mammal",
+            "belonging",
+            "to",
+            "the",
+            "group",
+            "Sparassodonta",
+            ",",
+            "which",
+            "were",
+            "metatherians",
+            "(",
+            "a",
+            "group",
+            "including",
+            "marsupials",
+            "and",
+            "their",
+            "close",
+            "relatives",
+            ")",
+            "that",
+            "inhabited",
+            "South",
+            "America",
+            "during",
+            "the",
+            "Cenozoic",
+            ".",
+            "Unlike",
+            "other",
+            "remains",
+            "assigned",
+            "to",
+            "the",
+            "family",
+            "Thylacosmilidae",
+            "(",
+            "a",
+            "group",
+            "of",
+            "metatherian",
+            "predators",
+            "equipped",
+            "with",
+            "\"",
+            "saber",
+            "teeth",
+            "\"",
+            ")",
+            "that",
+            "had",
+            "been",
+            "found",
+            "previously",
+            ",",
+            "Anachlysictis",
+            "is",
+            "the",
+            "first",
+            "record",
+            "of",
+            "such",
+            "borhyaenoids",
+            "in",
+            "northern",
+            "South",
+            "America",
+            ",",
+            "and",
+            "also",
+            "most",
+            "primitive",
+            "and",
+            "ancient",
+            "in",
+            "the",
+            "family",
+            "(",
+            "in",
+            "fact",
+            ",",
+            "is",
+            "the",
+            "first",
+            "confirmed",
+            "record",
+            "that",
+            "did",
+            "not",
+            "belong",
+            "to",
+            "the",
+            "genus",
+            "Thylacosmilus",
+            ",",
+            "until",
+            "the",
+            "official",
+            "publication",
+            "of",
+            "Patagosmilus",
+            "in",
+            "2010",
+            ")",
+            ".",
+            "This",
+            "species",
+            "was",
+            "found",
+            "in",
+            "the",
+            "Villavieja",
+            "Formation",
+            "in",
+            "the",
+            "area",
+            "of",
+            "La",
+            "Venta",
+            "in",
+            "Colombia",
+            ",",
+            "a",
+            "famous",
+            "fossil",
+            "deposit",
+            "in",
+            "the",
+            "Middle",
+            "Miocene",
+            "(",
+            "Laventan",
+            ";",
+            "13.8",
+            "-",
+            "11.8",
+            "million",
+            "years",
+            "ago",
+            ")",
+            ",",
+            "based",
+            "on",
+            "fragments",
+            "that",
+            "include",
+            "a",
+            "front",
+            "portion",
+            "of",
+            "the",
+            "lower",
+            "jaw",
+            ",",
+            "with",
+            "an",
+            "incipient",
+            "molar",
+            "tooth",
+            "and",
+            "a",
+            "piece",
+            "of",
+            "carnassial",
+            "from",
+            "the",
+            "front",
+            "of",
+            "the",
+            "maxilla",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Anachlysictis gracilis",
+                        "start": 0,
+                        "end": 1
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Sparassodonta",
+                        "start": 11,
+                        "end": 11
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "South America",
+                        "start": 28,
+                        "end": 29
+                    },
+                    {
+                        "value": "South America",
+                        "start": 71,
+                        "end": 72
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Cenozoic",
+                        "start": 32,
+                        "end": 32
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Thylacosmilidae",
+                        "start": 41,
+                        "end": 41
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Anachlysictis",
+                        "start": 61,
+                        "end": 61
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Thylacosmilus",
+                        "start": 99,
+                        "end": 99
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Patagosmilus",
+                        "start": 106,
+                        "end": 106
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "2010",
+                        "start": 108,
+                        "end": 108
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Villavieja Formation",
+                        "start": 117,
+                        "end": 118
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "La Venta",
+                        "start": 123,
+                        "end": 124
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Colombia",
+                        "start": 126,
+                        "end": 126
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Middle Miocene",
+                        "start": 134,
+                        "end": 135
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Laventan",
+                        "start": 137,
+                        "end": 137
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "13.8",
+                        "start": 139,
+                        "end": 139
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "11.8 million years",
+                        "start": 141,
+                        "end": 143
+                    }
+                ],
+                "type": "TIME"
+            }
+        ],
+        "relations": [
+            [
+                2,
+                "contains administrative territorial entity",
+                11
+            ],
+            [
+                2,
+                "has part",
+                11
+            ],
+            [
+                11,
+                "continent",
+                2
+            ],
+            [
+                10,
+                "country",
+                11
+            ],
+            [
+                6,
+                "parent taxon",
+                4
+            ],
+            [
+                5,
+                "parent taxon",
+                4
+            ],
+            [
+                4,
+                "parent taxon",
+                1
+            ],
+            [
+                7,
+                "parent taxon",
+                4
+            ],
+            [
+                9,
+                "country",
+                11
+            ],
+            [
+                11,
+                "contains administrative territorial entity",
+                10
+            ],
+            [
+                4,
+                "parent taxon",
+                6
+            ],
+            [
+                11,
+                "part of",
+                2
+            ],
+            [
+                10,
+                "located in the administrative territorial entity",
+                11
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                11
+            ]
+        ]
+    },
+    {
+        "id": 8,
+        "tokenized_text": [
+            "Stuart",
+            "O'Grady",
+            "(",
+            "born",
+            "6",
+            "August",
+            "1973",
+            ")",
+            "is",
+            "a",
+            "retired",
+            "Australian",
+            "professional",
+            "road",
+            "bicycle",
+            "racer",
+            ",",
+            "who",
+            "rode",
+            "as",
+            "a",
+            "professional",
+            "between",
+            "1995",
+            "and",
+            "2013",
+            ".",
+            "A",
+            "former",
+            "track",
+            "cyclist",
+            ",",
+            "O'Grady",
+            "and",
+            "Graeme",
+            "Brown",
+            "won",
+            "a",
+            "gold",
+            "medal",
+            "in",
+            "the",
+            "Men",
+            "'s",
+            "Madison",
+            "at",
+            "the",
+            "2004",
+            "Summer",
+            "Olympics",
+            ".",
+            "O'Grady",
+            "also",
+            "won",
+            "Paris",
+            "–",
+            "Roubaix",
+            "in",
+            "2007",
+            ".",
+            "O'Grady",
+            "competed",
+            "in",
+            "the",
+            "Tour",
+            "de",
+            "France",
+            "from",
+            "1997",
+            "and",
+            "contended",
+            "for",
+            "the",
+            "points",
+            "classification",
+            "in",
+            "the",
+            "Tour",
+            "de",
+            "France",
+            "known",
+            "as",
+            "the",
+            "green",
+            "jersey",
+            ",",
+            "finishing",
+            "second",
+            "in",
+            "the",
+            "1998",
+            ",",
+            "1999",
+            ",",
+            "2001",
+            "and",
+            "2005",
+            "races",
+            ".",
+            "He",
+            "wore",
+            "the",
+            "yellow",
+            "jersey",
+            "of",
+            "general",
+            "classification",
+            "leader",
+            "in",
+            "1998",
+            "and",
+            "2001",
+            ".",
+            "With",
+            "his",
+            "participation",
+            "in",
+            "the",
+            "2013",
+            "Tour",
+            "de",
+            "France",
+            ",",
+            "he",
+            "tied",
+            "George",
+            "Hincapie",
+            "'s",
+            "record",
+            "of",
+            "17",
+            "participations",
+            "in",
+            "the",
+            "Tour",
+            "de",
+            "France",
+            ".",
+            "However",
+            ",",
+            "Hincapie",
+            "was",
+            "removed",
+            "from",
+            "three",
+            "of",
+            "his",
+            "17",
+            "starts",
+            "for",
+            "his",
+            "part",
+            "in",
+            "the",
+            "Lance",
+            "Armstrong",
+            "doping",
+            "scandal",
+            ",",
+            "and",
+            "O'Grady",
+            "himself",
+            "admitted",
+            "having",
+            "been",
+            "assisted",
+            "by",
+            "illicit",
+            "erythropoietin",
+            "(",
+            "EPO",
+            ")",
+            "use",
+            "at",
+            "least",
+            "on",
+            "the",
+            "1998",
+            "Tour",
+            "de",
+            "France",
+            "(",
+            "the",
+            "Dutchman",
+            "Joop",
+            "Zoetemelk",
+            "holds",
+            "the",
+            "absolute",
+            "records",
+            "of",
+            "completed",
+            "Tours",
+            "de",
+            "France",
+            ",",
+            "with",
+            "16",
+            "from",
+            "1970",
+            " ",
+            "–",
+            "1986",
+            ")",
+            ".",
+            "He",
+            "was",
+            "awarded",
+            "the",
+            "Order",
+            "of",
+            "Australia",
+            "Medal",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "O'Grady",
+                        "start": 32,
+                        "end": 32
+                    },
+                    {
+                        "value": "O'Grady",
+                        "start": 51,
+                        "end": 51
+                    },
+                    {
+                        "value": "O'Grady",
+                        "start": 160,
+                        "end": 160
+                    },
+                    {
+                        "value": "O'Grady",
+                        "start": 60,
+                        "end": 60
+                    },
+                    {
+                        "value": "Stuart O'Grady",
+                        "start": 0,
+                        "end": 1
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "6 August 1973",
+                        "start": 4,
+                        "end": 6
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Australian",
+                        "start": 11,
+                        "end": 11
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "1995",
+                        "start": 23,
+                        "end": 23
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "2013",
+                        "start": 118,
+                        "end": 118
+                    },
+                    {
+                        "value": "2013",
+                        "start": 25,
+                        "end": 25
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Graeme Brown",
+                        "start": 34,
+                        "end": 35
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Men's Madison",
+                        "start": 42,
+                        "end": 44
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "2004",
+                        "start": 47,
+                        "end": 47
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Summer Olympics",
+                        "start": 48,
+                        "end": 49
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Paris – Roubaix",
+                        "start": 54,
+                        "end": 56
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "2007",
+                        "start": 58,
+                        "end": 58
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Tour de France",
+                        "start": 119,
+                        "end": 121
+                    },
+                    {
+                        "value": "Tour de France",
+                        "start": 64,
+                        "end": 66
+                    },
+                    {
+                        "value": "Tour de France",
+                        "start": 77,
+                        "end": 79
+                    },
+                    {
+                        "value": "Tour de France",
+                        "start": 134,
+                        "end": 136
+                    },
+                    {
+                        "value": "Tour de France",
+                        "start": 178,
+                        "end": 180
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "1997",
+                        "start": 68,
+                        "end": 68
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "1998",
+                        "start": 109,
+                        "end": 109
+                    },
+                    {
+                        "value": "1998",
+                        "start": 90,
+                        "end": 90
+                    },
+                    {
+                        "value": "1998",
+                        "start": 177,
+                        "end": 177
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "1999",
+                        "start": 92,
+                        "end": 92
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "2001",
+                        "start": 111,
+                        "end": 111
+                    },
+                    {
+                        "value": "2001",
+                        "start": 94,
+                        "end": 94
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "2005",
+                        "start": 96,
+                        "end": 96
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "George Hincapie",
+                        "start": 125,
+                        "end": 126
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "17",
+                        "start": 130,
+                        "end": 130
+                    },
+                    {
+                        "value": "17",
+                        "start": 147,
+                        "end": 147
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "Hincapie",
+                        "start": 140,
+                        "end": 140
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    {
+                        "value": "three",
+                        "start": 144,
+                        "end": 144
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    {
+                        "value": "Lance Armstrong",
+                        "start": 154,
+                        "end": 155
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    {
+                        "value": "EPO",
+                        "start": 170,
+                        "end": 170
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    {
+                        "value": "Dutchman",
+                        "start": 183,
+                        "end": 183
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    {
+                        "value": "Joop Zoetemelk",
+                        "start": 184,
+                        "end": 185
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    {
+                        "value": "Tours de France",
+                        "start": 192,
+                        "end": 194
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    {
+                        "value": "16",
+                        "start": 197,
+                        "end": 197
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    {
+                        "value": "1970",
+                        "start": 199,
+                        "end": 199
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    {
+                        "value": "1986",
+                        "start": 202,
+                        "end": 202
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    {
+                        "value": "Order of Australia Medal",
+                        "start": 209,
+                        "end": 212
+                    }
+                ],
+                "type": "MISC"
+            }
+        ],
+        "relations": [
+            [
+                0,
+                "date of birth",
+                1
+            ],
+            [
+                0,
+                "country of citizenship",
+                2
+            ],
+            [
+                0,
+                "participant of",
+                6
+            ],
+            [
+                0,
+                "participant of",
+                11
+            ],
+            [
+                0,
+                "participant of",
+                25
+            ],
+            [
+                0,
+                "award received",
+                29
+            ],
+            [
+                5,
+                "participant of",
+                6
+            ],
+            [
+                24,
+                "participant of",
+                11
+            ],
+            [
+                24,
+                "participant of",
+                25
+            ],
+            [
+                17,
+                "participant of",
+                25
+            ],
+            [
+                19,
+                "participant of",
+                25
+            ],
+            [
+                29,
+                "country",
+                2
+            ],
+            [
+                19,
+                "participant of",
+                11
+            ],
+            [
+                21,
+                "participant of",
+                25
+            ],
+            [
+                0,
+                "participant of",
+                8
+            ],
+            [
+                25,
+                "instance of",
+                11
+            ],
+            [
+                0,
+                "participant of",
+                9
+            ],
+            [
+                24,
+                "country of citizenship",
+                23
+            ],
+            [
+                5,
+                "participant of",
+                11
+            ],
+            [
+                21,
+                "participant of",
+                11
+            ],
+            [
+                17,
+                "participant of",
+                11
+            ],
+            [
+                11,
+                "participant",
+                0
+            ],
+            [
+                25,
+                "has part",
+                11
+            ],
+            [
+                5,
+                "country of citizenship",
+                2
+            ],
+            [
+                6,
+                "participant",
+                0
+            ],
+            [
+                25,
+                "participant",
+                0
+            ],
+            [
+                6,
+                "participant",
+                5
+            ],
+            [
+                11,
+                "participant",
+                24
+            ],
+            [
+                25,
+                "participant",
+                24
+            ],
+            [
+                25,
+                "participant",
+                17
+            ],
+            [
+                25,
+                "participant",
+                19
+            ],
+            [
+                11,
+                "participant",
+                19
+            ],
+            [
+                25,
+                "participant",
+                21
+            ],
+            [
+                8,
+                "participant",
+                0
+            ],
+            [
+                9,
+                "participant",
+                0
+            ],
+            [
+                11,
+                "participant",
+                5
+            ],
+            [
+                11,
+                "participant",
+                21
+            ],
+            [
+                11,
+                "participant",
+                17
+            ],
+            [
+                11,
+                "part of",
+                25
+            ]
+        ]
+    },
+    {
+        "id": 9,
+        "tokenized_text": [
+            "Mamil",
+            "or",
+            "MAMIL",
+            "(",
+            "an",
+            "acronym",
+            "standing",
+            "for",
+            "\"",
+            "middle",
+            "-",
+            "aged",
+            "man",
+            "in",
+            "lycra",
+            "\"",
+            ")",
+            "is",
+            "someone",
+            "who",
+            "rides",
+            "an",
+            "expensive",
+            "racing",
+            "bicycle",
+            "for",
+            "leisure",
+            ",",
+            "wearing",
+            "endurance-",
+            "and",
+            "performance",
+            "-",
+            "enhancing",
+            "body",
+            "-",
+            "hugging",
+            "jerseys",
+            "and",
+            "shorts",
+            ".",
+            "The",
+            "word",
+            "was",
+            "reportedly",
+            "coined",
+            "by",
+            "British",
+            "marketing",
+            "research",
+            "firm",
+            "Mintel",
+            "in",
+            "2010",
+            ".",
+            "It",
+            "gained",
+            "further",
+            "popularity",
+            "in",
+            "the",
+            "United",
+            "Kingdom",
+            "with",
+            "the",
+            "success",
+            "of",
+            "Bradley",
+            "Wiggins",
+            "in",
+            "the",
+            "2012",
+            "Tour",
+            "de",
+            "France",
+            "and",
+            "at",
+            "the",
+            "2012",
+            "Summer",
+            "Olympics",
+            ",",
+            "held",
+            "in",
+            "London",
+            ".",
+            "The",
+            "UCI",
+            "World",
+            "Championships",
+            "victory",
+            "in",
+            "recent",
+            "years",
+            "have",
+            "also",
+            "spurred",
+            "interest",
+            ".",
+            "In",
+            "Australia",
+            "the",
+            "popularity",
+            "of",
+            "this",
+            "sort",
+            "of",
+            "cycling",
+            "has",
+            "been",
+            "associated",
+            "with",
+            "the",
+            "Tour",
+            "Down",
+            "Under",
+            "and",
+            "the",
+            "2011",
+            "Tour",
+            "de",
+            "France",
+            "winner",
+            "Cadel",
+            "Evans",
+            ".",
+            "Former",
+            "Prime",
+            "Minister",
+            "Tony",
+            "Abbott",
+            "has",
+            "been",
+            "described",
+            "as",
+            "a",
+            "\"",
+            "mamil",
+            "\"",
+            ".",
+            "Buying",
+            "an",
+            "expensive",
+            "road",
+            "bicycle",
+            "has",
+            "been",
+            "described",
+            "as",
+            "a",
+            "more",
+            "healthy",
+            "and",
+            "affordable",
+            "response",
+            "to",
+            "a",
+            "midlife",
+            "crisis",
+            "than",
+            "buying",
+            "an",
+            "expensive",
+            "sports",
+            "car",
+            ".",
+            "There",
+            "are",
+            "documentaries",
+            "investigating",
+            "this",
+            "cycling",
+            "culture",
+            ".",
+            "MAMIL",
+            "is",
+            "the",
+            "title",
+            "of",
+            "a",
+            "one",
+            "-",
+            "man",
+            "play",
+            "by",
+            "New",
+            "Zealand",
+            "playwright",
+            "Greg",
+            "Cooper",
+            ",",
+            "written",
+            "for",
+            "actor",
+            "Mark",
+            "Hadlow",
+            ".",
+            "It",
+            "is",
+            "also",
+            "the",
+            "title",
+            "of",
+            "a",
+            "feature",
+            "-",
+            "length",
+            "documentary",
+            "directed",
+            "by",
+            "Nickolas",
+            "Bird",
+            "and",
+            "produced",
+            "by",
+            "Bird",
+            ",",
+            "Eleanor",
+            "Sharpe",
+            "and",
+            "Mark",
+            "Bird",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Mamil",
+                        "start": 0,
+                        "end": 0
+                    },
+                    {
+                        "value": "MAMIL",
+                        "start": 174,
+                        "end": 174
+                    },
+                    {
+                        "value": "MAMIL",
+                        "start": 2,
+                        "end": 2
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "British",
+                        "start": 47,
+                        "end": 47
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Mintel",
+                        "start": 51,
+                        "end": 51
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "2010",
+                        "start": 53,
+                        "end": 53
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "United Kingdom",
+                        "start": 61,
+                        "end": 62
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Bradley Wiggins",
+                        "start": 67,
+                        "end": 68
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "2012 Tour de France",
+                        "start": 71,
+                        "end": 74
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "2012 Summer Olympics",
+                        "start": 78,
+                        "end": 80
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "London",
+                        "start": 84,
+                        "end": 84
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "UCI World Championships",
+                        "start": 87,
+                        "end": 89
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Australia",
+                        "start": 100,
+                        "end": 100
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Tour Down Under",
+                        "start": 113,
+                        "end": 115
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "2011 Tour de France",
+                        "start": 118,
+                        "end": 121
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Cadel Evans",
+                        "start": 123,
+                        "end": 124
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Tony Abbott",
+                        "start": 129,
+                        "end": 130
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "mamil",
+                        "start": 137,
+                        "end": 137
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "New Zealand",
+                        "start": 185,
+                        "end": 186
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Greg Cooper",
+                        "start": 188,
+                        "end": 189
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "Mark Hadlow",
+                        "start": 194,
+                        "end": 195
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "Nickolas Bird",
+                        "start": 210,
+                        "end": 211
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    {
+                        "value": "Bird",
+                        "start": 215,
+                        "end": 215
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    {
+                        "value": "Eleanor Sharpe",
+                        "start": 217,
+                        "end": 218
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    {
+                        "value": "Mark Bird",
+                        "start": 220,
+                        "end": 221
+                    }
+                ],
+                "type": "PER"
+            }
+        ],
+        "relations": [
+            [
+                10,
+                "head of government",
+                14
+            ],
+            [
+                14,
+                "country of citizenship",
+                10
+            ],
+            [
+                17,
+                "country of citizenship",
+                16
+            ],
+            [
+                13,
+                "participant of",
+                12
+            ],
+            [
+                5,
+                "participant of",
+                6
+            ],
+            [
+                5,
+                "participant of",
+                7
+            ],
+            [
+                6,
+                "participant",
+                5
+            ],
+            [
+                6,
+                "follows",
+                12
+            ],
+            [
+                7,
+                "location",
+                8
+            ],
+            [
+                12,
+                "participant",
+                13
+            ],
+            [
+                12,
+                "followed by",
+                6
+            ],
+            [
+                0,
+                "director",
+                19
+            ],
+            [
+                5,
+                "country of citizenship",
+                1
+            ],
+            [
+                11,
+                "country",
+                10
+            ],
+            [
+                7,
+                "country",
+                4
+            ],
+            [
+                13,
+                "country of citizenship",
+                10
+            ],
+            [
+                13,
+                "participant of",
+                6
+            ],
+            [
+                5,
+                "country of citizenship",
+                4
+            ],
+            [
+                8,
+                "country",
+                4
+            ],
+            [
+                8,
+                "country",
+                1
+            ],
+            [
+                0,
+                "cast member",
+                18
+            ],
+            [
+                13,
+                "participant of",
+                11
+            ],
+            [
+                14,
+                "applies to jurisdiction",
+                10
+            ],
+            [
+                7,
+                "participant",
+                5
+            ],
+            [
+                19,
+                "notable work",
+                0
+            ],
+            [
+                6,
+                "participant",
+                13
+            ],
+            [
+                11,
+                "participant",
+                13
+            ],
+            [
+                8,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                8,
+                "located in the administrative territorial entity",
+                1
+            ]
+        ]
+    }
+]

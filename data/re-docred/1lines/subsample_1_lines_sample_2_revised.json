@@ -1,0 +1,631 @@
+[
+    {
+        "id": 0,
+        "tokenized_text": [
+            "José",
+            "María",
+            "Mijares",
+            "(",
+            "born",
+            "1921",
+            "in",
+            "Havana",
+            ",",
+            "Cuba",
+            ")",
+            "is",
+            "a",
+            "Cuban",
+            "contemporary",
+            "visual",
+            "artist",
+            ".",
+            "He",
+            "began",
+            "drawing",
+            "in",
+            "his",
+            "adolescent",
+            "years",
+            "and",
+            "entered",
+            "the",
+            "San",
+            "Alejandro",
+            "Academy",
+            "of",
+            "Fine",
+            "Arts",
+            "on",
+            "a",
+            "scholarship",
+            "at",
+            "the",
+            "age",
+            "of",
+            "16",
+            ".",
+            "His",
+            "greatest",
+            "influences",
+            "were",
+            "the",
+            "artists",
+            "of",
+            "the",
+            "\"",
+            "Havana",
+            "School",
+            "\"",
+            ":",
+            "Carlos",
+            "Enríquez",
+            ",",
+            "René",
+            "Portocarrero",
+            ",",
+            "Cundo",
+            "Bermúdez",
+            ",",
+            "as",
+            "well",
+            "as",
+            "his",
+            "professors",
+            ",",
+            "most",
+            "notable",
+            "being",
+            "modernist",
+            "painter",
+            "Fidelio",
+            "Ponce",
+            ".",
+            "He",
+            "was",
+            "also",
+            "a",
+            "part",
+            "of",
+            "the",
+            "influential",
+            "group",
+            ",",
+            "Los",
+            "Diez",
+            "Pintores",
+            "Concretos",
+            "(",
+            "the",
+            "10",
+            "Concrete",
+            "Painters",
+            ")",
+            ",",
+            "or",
+            "as",
+            "they",
+            "are",
+            "usually",
+            "referred",
+            "to",
+            ",",
+            "Los",
+            "Diez",
+            "(",
+            "the",
+            "10",
+            ")",
+            ".",
+            "Although",
+            "the",
+            "group",
+            "had",
+            "a",
+            "relatively",
+            "short",
+            "life",
+            ",",
+            "1959",
+            "-",
+            "1961",
+            ",",
+            "and",
+            "exhibited",
+            "together",
+            "only",
+            "a",
+            "few",
+            "times",
+            ",",
+            "they",
+            "remain",
+            "an",
+            "important",
+            "part",
+            "of",
+            "Cuba",
+            "'s",
+            "art",
+            "history",
+            "especially",
+            "in",
+            "the",
+            "pre",
+            "-",
+            "Castro",
+            "years",
+            "and",
+            "leading",
+            "up",
+            "to",
+            "the",
+            "revolution",
+            ".",
+            "He",
+            "left",
+            "Cuba",
+            "in",
+            "1968",
+            ",",
+            "resigning",
+            "his",
+            "teaching",
+            "position",
+            "at",
+            "the",
+            "academy",
+            "when",
+            "Fidel",
+            "Castro",
+            "came",
+            "into",
+            "power",
+            ".",
+            "Based",
+            "in",
+            "Miami",
+            ",",
+            "he",
+            "continued",
+            "to",
+            "be",
+            "a",
+            "prolific",
+            "painter",
+            "and",
+            "until",
+            "his",
+            "death",
+            "in",
+            "2004",
+            ",",
+            "at",
+            "the",
+            "age",
+            "of",
+            "82",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "José María Mijares",
+                        "start": 0,
+                        "end": 2
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "1921",
+                        "start": 5,
+                        "end": 5
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Havana",
+                        "start": 7,
+                        "end": 7
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Cuba",
+                        "start": 9,
+                        "end": 9
+                    },
+                    {
+                        "value": "Cuba",
+                        "start": 142,
+                        "end": 142
+                    },
+                    {
+                        "value": "Cuba",
+                        "start": 162,
+                        "end": 162
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Cuban",
+                        "start": 13,
+                        "end": 13
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "San Alejandro Academy of Fine Arts",
+                        "start": 28,
+                        "end": 33
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "16",
+                        "start": 41,
+                        "end": 41
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Havana School",
+                        "start": 52,
+                        "end": 53
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Carlos Enríquez",
+                        "start": 56,
+                        "end": 57
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "René Portocarrero",
+                        "start": 59,
+                        "end": 60
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Cundo Bermúdez",
+                        "start": 62,
+                        "end": 63
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Fidelio Ponce",
+                        "start": 76,
+                        "end": 77
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Los Diez Pintores Concretos",
+                        "start": 89,
+                        "end": 92
+                    },
+                    {
+                        "value": "Los Diez",
+                        "start": 108,
+                        "end": 109
+                    },
+                    {
+                        "value": "the 10 Concrete Painters",
+                        "start": 94,
+                        "end": 97
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "10",
+                        "start": 112,
+                        "end": 112
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "1959",
+                        "start": 124,
+                        "end": 124
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "1961",
+                        "start": 126,
+                        "end": 126
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "Fidel Castro",
+                        "start": 174,
+                        "end": 175
+                    },
+                    {
+                        "value": "Fidel Castro",
+                        "start": 174,
+                        "end": 175
+                    },
+                    {
+                        "value": "Castro",
+                        "start": 151,
+                        "end": 151
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "1968",
+                        "start": 164,
+                        "end": 164
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "Miami",
+                        "start": 182,
+                        "end": 182
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "2004",
+                        "start": 196,
+                        "end": 196
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    {
+                        "value": "82",
+                        "start": 202,
+                        "end": 202
+                    }
+                ],
+                "type": "NUM"
+            }
+        ],
+        "relations": [
+            [
+                0,
+                "date of birth",
+                1
+            ],
+            [
+                0,
+                "place of birth",
+                2
+            ],
+            [
+                0,
+                "residence",
+                2
+            ],
+            [
+                0,
+                "country of citizenship",
+                3
+            ],
+            [
+                0,
+                "residence",
+                18
+            ],
+            [
+                0,
+                "date of death",
+                19
+            ],
+            [
+                0,
+                "country of citizenship",
+                4
+            ],
+            [
+                2,
+                "country",
+                3
+            ],
+            [
+                2,
+                "country",
+                4
+            ],
+            [
+                3,
+                "head of state",
+                16
+            ],
+            [
+                16,
+                "country of citizenship",
+                3
+            ],
+            [
+                16,
+                "country of citizenship",
+                4
+            ],
+            [
+                11,
+                "country of citizenship",
+                3
+            ],
+            [
+                11,
+                "work location",
+                3
+            ],
+            [
+                5,
+                "country",
+                3
+            ],
+            [
+                9,
+                "country of citizenship",
+                3
+            ],
+            [
+                7,
+                "country",
+                3
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                10,
+                "country of citizenship",
+                4
+            ],
+            [
+                0,
+                "educated at",
+                5
+            ],
+            [
+                10,
+                "country of citizenship",
+                3
+            ],
+            [
+                8,
+                "country of citizenship",
+                3
+            ],
+            [
+                5,
+                "country",
+                4
+            ],
+            [
+                0,
+                "place of death",
+                18
+            ],
+            [
+                11,
+                "country of citizenship",
+                4
+            ],
+            [
+                16,
+                "applies to jurisdiction",
+                3
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                4
+            ]
+        ]
+    }
+]

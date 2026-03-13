@@ -1,0 +1,2891 @@
+[
+    {
+        "id": 0,
+        "tokenized_text": [
+            "Saturday",
+            "Nights",
+            "&",
+            "Sunday",
+            "Mornings",
+            "is",
+            "the",
+            "fifth",
+            "studio",
+            "album",
+            "by",
+            "Counting",
+            "Crows",
+            ",",
+            "released",
+            "in",
+            "the",
+            "United",
+            "States",
+            "on",
+            "March",
+            "25",
+            ",",
+            "2008",
+            ".",
+            "It",
+            "is",
+            "thematically",
+            "divided",
+            "into",
+            "two",
+            "sides",
+            ":",
+            "the",
+            "rock",
+            "music",
+            "of",
+            "Saturday",
+            "Nights",
+            "and",
+            "the",
+            "more",
+            "country",
+            "-",
+            "influenced",
+            "Sunday",
+            "Mornings",
+            ".",
+            "Vocalist",
+            "and",
+            "lyricist",
+            "Adam",
+            "Duritz",
+            "states",
+            "that",
+            "the",
+            "album",
+            "\"",
+            "is",
+            "about",
+            "really",
+            "wanting",
+            "to",
+            "mean",
+            "something",
+            "and",
+            "failing",
+            "to",
+            "do",
+            "it",
+            ".",
+            "You",
+            "want",
+            "your",
+            "life",
+            "to",
+            "mean",
+            "something",
+            ".",
+            "You",
+            "want",
+            "to",
+            "be",
+            "somebody",
+            "and",
+            "then",
+            "what",
+            "you",
+            "turn",
+            "out",
+            "to",
+            "be",
+            "is",
+            "so",
+            "much",
+            "less",
+            "than",
+            "what",
+            "you",
+            "thought",
+            "you",
+            "were",
+            "going",
+            "to",
+            "be",
+            ".",
+            "\"",
+            "The",
+            "Saturday",
+            "Nights",
+            "portion",
+            "was",
+            "produced",
+            "by",
+            "Gil",
+            "Norton",
+            "(",
+            "who",
+            "also",
+            "produced",
+            "the",
+            "band",
+            "'s",
+            "second",
+            "album",
+            ",",
+            "Recovering",
+            "the",
+            "Satellites",
+            ")",
+            ",",
+            "while",
+            "Sunday",
+            "Mornings",
+            "was",
+            "produced",
+            "by",
+            "Brian",
+            "Deck",
+            ",",
+            "perhaps",
+            "best",
+            "known",
+            "for",
+            "his",
+            "production",
+            "work",
+            "on",
+            "Modest",
+            "Mouse",
+            "'s",
+            "album",
+            "The",
+            "Moon",
+            "and",
+            "Antarctica",
+            ".",
+            "The",
+            "album",
+            "debuted",
+            "at",
+            "number",
+            "3",
+            "on",
+            "the",
+            "Billboard",
+            "200",
+            ",",
+            "the",
+            "band",
+            "'s",
+            "highest",
+            "peak",
+            "since",
+            "Recovering",
+            "the",
+            "Satellites",
+            "and",
+            "it",
+            "sold",
+            "106,000",
+            "copies",
+            "in",
+            "first",
+            "week",
+            ".",
+            "The",
+            "cover",
+            "depicts",
+            "the",
+            "Empire",
+            "State",
+            "Building",
+            "in",
+            "New",
+            "York",
+            "City",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Saturday Nights & Sunday Mornings",
+                        "start": 0,
+                        "end": 4
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Counting Crows",
+                        "start": 11,
+                        "end": 12
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "United States",
+                        "start": 17,
+                        "end": 18
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "March 25, 2008",
+                        "start": 20,
+                        "end": 23
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "two",
+                        "start": 30,
+                        "end": 30
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Saturday Nights",
+                        "start": 37,
+                        "end": 38
+                    },
+                    {
+                        "value": "Saturday Nights",
+                        "start": 108,
+                        "end": 109
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Sunday Mornings",
+                        "start": 45,
+                        "end": 46
+                    },
+                    {
+                        "value": "Sunday Mornings",
+                        "start": 132,
+                        "end": 133
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Adam Duritz",
+                        "start": 51,
+                        "end": 52
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Gil Norton",
+                        "start": 114,
+                        "end": 115
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Recovering the Satellites",
+                        "start": 174,
+                        "end": 176
+                    },
+                    {
+                        "value": "Recovering the Satellites",
+                        "start": 126,
+                        "end": 128
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Brian Deck",
+                        "start": 137,
+                        "end": 138
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Modest Mouse",
+                        "start": 148,
+                        "end": 149
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "The Moon and Antarctica",
+                        "start": 152,
+                        "end": 155
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Billboard 200",
+                        "start": 165,
+                        "end": 166
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "106,000",
+                        "start": 180,
+                        "end": 180
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Empire State Building",
+                        "start": 190,
+                        "end": 192
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "New York City",
+                        "start": 194,
+                        "end": 196
+                    }
+                ],
+                "type": "LOC"
+            }
+        ],
+        "relations": [
+            [
+                7,
+                "member of",
+                1
+            ],
+            [
+                1,
+                "country",
+                2
+            ],
+            [
+                0,
+                "publication date",
+                3
+            ],
+            [
+                0,
+                "performer",
+                1
+            ],
+            [
+                0,
+                "country of origin",
+                2
+            ],
+            [
+                5,
+                "performer",
+                1
+            ],
+            [
+                5,
+                "country of origin",
+                2
+            ],
+            [
+                6,
+                "country of origin",
+                2
+            ],
+            [
+                12,
+                "performer",
+                11
+            ],
+            [
+                15,
+                "country",
+                2
+            ],
+            [
+                9,
+                "performer",
+                1
+            ],
+            [
+                9,
+                "country of origin",
+                2
+            ],
+            [
+                1,
+                "has part",
+                7
+            ],
+            [
+                7,
+                "country of citizenship",
+                2
+            ],
+            [
+                0,
+                "producer",
+                10
+            ],
+            [
+                9,
+                "producer",
+                8
+            ],
+            [
+                6,
+                "publication date",
+                3
+            ],
+            [
+                9,
+                "followed by",
+                0
+            ],
+            [
+                16,
+                "country",
+                2
+            ],
+            [
+                15,
+                "located in the administrative territorial entity",
+                16
+            ],
+            [
+                0,
+                "producer",
+                8
+            ],
+            [
+                6,
+                "performer",
+                1
+            ],
+            [
+                9,
+                "performer",
+                7
+            ],
+            [
+                12,
+                "producer",
+                10
+            ],
+            [
+                0,
+                "performer",
+                7
+            ],
+            [
+                5,
+                "publication date",
+                3
+            ],
+            [
+                1,
+                "notable work",
+                0
+            ],
+            [
+                1,
+                "notable work",
+                5
+            ],
+            [
+                11,
+                "notable work",
+                12
+            ],
+            [
+                1,
+                "notable work",
+                9
+            ],
+            [
+                7,
+                "part of",
+                1
+            ],
+            [
+                10,
+                "notable work",
+                0
+            ],
+            [
+                8,
+                "notable work",
+                9
+            ],
+            [
+                0,
+                "follows",
+                9
+            ],
+            [
+                8,
+                "notable work",
+                0
+            ],
+            [
+                1,
+                "notable work",
+                6
+            ],
+            [
+                7,
+                "notable work",
+                9
+            ],
+            [
+                10,
+                "notable work",
+                12
+            ],
+            [
+                7,
+                "notable work",
+                0
+            ],
+            [
+                1,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                15,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                16,
+                "located in the administrative territorial entity",
+                2
+            ]
+        ]
+    },
+    {
+        "id": 1,
+        "tokenized_text": [
+            "Thomas",
+            "Wolff",
+            "(",
+            "July",
+            "14",
+            ",",
+            "1954",
+            ",",
+            "New",
+            "York",
+            "City",
+            "–",
+            "July",
+            "31",
+            ",",
+            "2000",
+            ",",
+            "Kern",
+            "County",
+            ")",
+            "was",
+            "a",
+            "noted",
+            "mathematician",
+            ",",
+            "working",
+            "primarily",
+            "in",
+            "the",
+            "fields",
+            "of",
+            "harmonic",
+            "analysis",
+            ",",
+            "complex",
+            "analysis",
+            ",",
+            "and",
+            "partial",
+            "differential",
+            "equations",
+            ".",
+            "As",
+            "an",
+            "undergraduate",
+            "at",
+            "Harvard",
+            "University",
+            "he",
+            "regularly",
+            "played",
+            "poker",
+            "with",
+            "his",
+            "classmate",
+            "Bill",
+            "Gates",
+            ".",
+            "While",
+            "a",
+            "graduate",
+            "student",
+            "at",
+            "the",
+            "University",
+            "of",
+            "California",
+            ",",
+            "Berkeley",
+            "from",
+            "1976",
+            "to",
+            "1979",
+            ",",
+            "under",
+            "the",
+            "direction",
+            "of",
+            "Donald",
+            "Sarason",
+            ",",
+            "he",
+            "obtained",
+            "a",
+            "new",
+            "proof",
+            "of",
+            "the",
+            "corona",
+            "theorem",
+            ",",
+            "a",
+            "famously",
+            "difficult",
+            "theorem",
+            "in",
+            "complex",
+            "analysis",
+            ".",
+            "He",
+            "was",
+            "made",
+            "Professor",
+            "of",
+            "Mathematics",
+            "at",
+            "Caltech",
+            "in",
+            "1986",
+            ",",
+            "and",
+            "was",
+            "there",
+            "from",
+            "1988",
+            "–",
+            "1992",
+            "and",
+            "from",
+            "1995",
+            "to",
+            "his",
+            "death",
+            "in",
+            "a",
+            "car",
+            "accident",
+            "in",
+            "2000",
+            ".",
+            "He",
+            "also",
+            "held",
+            "positions",
+            "at",
+            "the",
+            "University",
+            "of",
+            "Washington",
+            ",",
+            "University",
+            "of",
+            "Chicago",
+            ",",
+            "New",
+            "York",
+            "University",
+            ",",
+            "and",
+            "University",
+            "of",
+            "California",
+            ",",
+            "Berkeley",
+            ".",
+            "He",
+            "received",
+            "the",
+            "Salem",
+            "Prize",
+            "in",
+            "1985",
+            "and",
+            "the",
+            "Bôcher",
+            "Memorial",
+            "Prize",
+            "in",
+            "1999",
+            ",",
+            "for",
+            "his",
+            "contributions",
+            "to",
+            "analysis",
+            "and",
+            "particularly",
+            "to",
+            "the",
+            "Kakeya",
+            "conjecture",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Thomas Wolff",
+                        "start": 0,
+                        "end": 1
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "July 14, 1954",
+                        "start": 3,
+                        "end": 6
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "New York City",
+                        "start": 8,
+                        "end": 10
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "July 31 , 2000",
+                        "start": 12,
+                        "end": 15
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Kern County",
+                        "start": 17,
+                        "end": 18
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Harvard University",
+                        "start": 46,
+                        "end": 47
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Bill Gates",
+                        "start": 55,
+                        "end": 56
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "University of California , Berkeley",
+                        "start": 64,
+                        "end": 68
+                    },
+                    {
+                        "value": "University of California , Berkeley",
+                        "start": 149,
+                        "end": 153
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "1976",
+                        "start": 70,
+                        "end": 70
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "1979",
+                        "start": 72,
+                        "end": 72
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Donald Sarason",
+                        "start": 78,
+                        "end": 79
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Mathematics",
+                        "start": 104,
+                        "end": 104
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Caltech",
+                        "start": 106,
+                        "end": 106
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "1986",
+                        "start": 108,
+                        "end": 108
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "1988",
+                        "start": 114,
+                        "end": 114
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "1992",
+                        "start": 116,
+                        "end": 116
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "1995",
+                        "start": 119,
+                        "end": 119
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "2000",
+                        "start": 128,
+                        "end": 128
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "University of Washington",
+                        "start": 136,
+                        "end": 138
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "University of Chicago",
+                        "start": 140,
+                        "end": 142
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    {
+                        "value": "New York University",
+                        "start": 144,
+                        "end": 146
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    {
+                        "value": "Salem Prize",
+                        "start": 158,
+                        "end": 159
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    {
+                        "value": "1985",
+                        "start": 161,
+                        "end": 161
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    {
+                        "value": "Bôcher Memorial Prize",
+                        "start": 164,
+                        "end": 166
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    {
+                        "value": "1999",
+                        "start": 168,
+                        "end": 168
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    {
+                        "value": "Kakeya",
+                        "start": 179,
+                        "end": 179
+                    }
+                ],
+                "type": "PER"
+            }
+        ],
+        "relations": [
+            [
+                0,
+                "date of birth",
+                1
+            ],
+            [
+                0,
+                "place of death",
+                4
+            ],
+            [
+                0,
+                "educated at",
+                5
+            ],
+            [
+                0,
+                "place of birth",
+                2
+            ],
+            [
+                0,
+                "date of death",
+                3
+            ],
+            [
+                0,
+                "educated at",
+                7
+            ],
+            [
+                0,
+                "employer",
+                18
+            ],
+            [
+                0,
+                "employer",
+                19
+            ],
+            [
+                0,
+                "employer",
+                20
+            ],
+            [
+                0,
+                "award received",
+                21
+            ],
+            [
+                0,
+                "award received",
+                23
+            ],
+            [
+                20,
+                "headquarters location",
+                2
+            ],
+            [
+                6,
+                "educated at",
+                5
+            ],
+            [
+                0,
+                "date of death",
+                17
+            ],
+            [
+                10,
+                "employer",
+                7
+            ],
+            [
+                0,
+                "employer",
+                7
+            ],
+            [
+                0,
+                "employer",
+                12
+            ]
+        ]
+    },
+    {
+        "id": 2,
+        "tokenized_text": [
+            "The",
+            "Lehigh",
+            "Coal",
+            "and",
+            "Navigation",
+            "Company",
+            "(",
+            "LCAN",
+            ")",
+            "(",
+            "1988–2010",
+            ")",
+            "was",
+            "a",
+            "modern",
+            "-",
+            "day",
+            "anthracite",
+            "coal",
+            "mining",
+            "company",
+            "headquartered",
+            "in",
+            "Pottsville",
+            ",",
+            "Schuylkill",
+            "County",
+            ",",
+            "Pennsylvania",
+            ",",
+            "U.S.",
+            "which",
+            "acquired",
+            "many",
+            "of",
+            "the",
+            "'",
+            "Old",
+            "Company",
+            "'",
+            "(",
+            "LC&N",
+            ";",
+            ")",
+            "properties",
+            "and",
+            "re",
+            "-",
+            "launched",
+            "the",
+            "Lehigh",
+            "Coal",
+            "Companies",
+            "brand",
+            "in",
+            "1988",
+            ".",
+            "The",
+            "LCAN",
+            "ran",
+            "strip",
+            "mining",
+            "operations",
+            "in",
+            "the",
+            "Panther",
+            "Creek",
+            "Valley",
+            "east",
+            "of",
+            "Lansford",
+            "along",
+            "U.S.",
+            "Route",
+            "209",
+            ";",
+            "with",
+            "vast",
+            "properties",
+            "dominating",
+            "the",
+            "coal",
+            "areas",
+            "of",
+            "Tamaqua",
+            ",",
+            "Coaldale",
+            ",",
+            "and",
+            "Lansford",
+            ".",
+            "These",
+            "properties",
+            "are",
+            "largely",
+            "the",
+            "same",
+            "real",
+            "estate",
+            "assets",
+            "as",
+            "were",
+            "acquired",
+            "in",
+            "the",
+            "Panther",
+            "Creek",
+            "Valley",
+            "by",
+            "the",
+            "predecessors",
+            ":",
+            "the",
+            "haphazard",
+            "Lehigh",
+            "Coal",
+            "Mine",
+            "Company",
+            "(",
+            "1792",
+            "-",
+            "1822",
+            ")",
+            "and",
+            "the",
+            "builders",
+            "of",
+            "the",
+            "Lehigh",
+            "Canal",
+            "and",
+            "first",
+            "American",
+            "blast",
+            "furnaces",
+            ",",
+            "the",
+            "Lehigh",
+            "Coal",
+            "&",
+            "Navigation",
+            "Company",
+            "(",
+            "Old",
+            "Company",
+            ",",
+            "LC&N",
+            ";",
+            ")",
+            ",",
+            "which",
+            "spearheaded",
+            "the",
+            "U.S.",
+            "Industrial",
+            "revolution",
+            ".",
+            "The",
+            "new",
+            "company",
+            "was",
+            "incorporated",
+            "in",
+            "1988",
+            "acquiring",
+            "LC&N",
+            ";",
+            "assets",
+            "after",
+            "bankruptcy",
+            "proceedings",
+            ",",
+            "taking",
+            "the",
+            "name",
+            "of",
+            "the",
+            "original",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "LCAN",
+                        "start": 7,
+                        "end": 7
+                    },
+                    {
+                        "value": "The Lehigh Coal and Navigation Company",
+                        "start": 0,
+                        "end": 5
+                    },
+                    {
+                        "value": "LCAN",
+                        "start": 58,
+                        "end": 58
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "1988–2010",
+                        "start": 10,
+                        "end": 10
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Pottsville",
+                        "start": 23,
+                        "end": 23
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Schuylkill County",
+                        "start": 25,
+                        "end": 26
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Pennsylvania",
+                        "start": 28,
+                        "end": 28
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "U.S.",
+                        "start": 30,
+                        "end": 30
+                    },
+                    {
+                        "value": "U.S.",
+                        "start": 153,
+                        "end": 153
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "LC&N",
+                        "start": 41,
+                        "end": 41
+                    },
+                    {
+                        "value": "LC&N",
+                        "start": 146,
+                        "end": 146
+                    },
+                    {
+                        "value": "LC&N",
+                        "start": 165,
+                        "end": 165
+                    },
+                    {
+                        "value": "Lehigh Coal & Navigation Company",
+                        "start": 137,
+                        "end": 141
+                    },
+                    {
+                        "value": "Old Company",
+                        "start": 37,
+                        "end": 38
+                    },
+                    {
+                        "value": "Old Company",
+                        "start": 143,
+                        "end": 144
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Lehigh Coal Companies",
+                        "start": 50,
+                        "end": 52
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "1988",
+                        "start": 55,
+                        "end": 55
+                    },
+                    {
+                        "value": "1988",
+                        "start": 163,
+                        "end": 163
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Panther Creek Valley",
+                        "start": 65,
+                        "end": 67
+                    },
+                    {
+                        "value": "Panther Creek Valley",
+                        "start": 105,
+                        "end": 107
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Lansford",
+                        "start": 70,
+                        "end": 70
+                    },
+                    {
+                        "value": "Lansford",
+                        "start": 89,
+                        "end": 89
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "U.S. Route 209",
+                        "start": 72,
+                        "end": 74
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Tamaqua",
+                        "start": 84,
+                        "end": 84
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Coaldale",
+                        "start": 86,
+                        "end": 86
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Lehigh Coal Mine Company",
+                        "start": 114,
+                        "end": 117
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "1792",
+                        "start": 119,
+                        "end": 119
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "1822",
+                        "start": 121,
+                        "end": 121
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Lehigh Canal",
+                        "start": 128,
+                        "end": 129
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "American",
+                        "start": 132,
+                        "end": 132
+                    }
+                ],
+                "type": "LOC"
+            }
+        ],
+        "relations": [
+            [
+                2,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                2,
+                "country",
+                5
+            ],
+            [
+                2,
+                "country",
+                18
+            ],
+            [
+                3,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                3,
+                "country",
+                5
+            ],
+            [
+                3,
+                "country",
+                18
+            ],
+            [
+                4,
+                "contains administrative territorial entity",
+                2
+            ],
+            [
+                4,
+                "contains administrative territorial entity",
+                3
+            ],
+            [
+                4,
+                "country",
+                5
+            ],
+            [
+                4,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                4,
+                "country",
+                18
+            ],
+            [
+                4,
+                "located in the administrative territorial entity",
+                18
+            ],
+            [
+                5,
+                "contains administrative territorial entity",
+                4
+            ],
+            [
+                6,
+                "country",
+                5
+            ],
+            [
+                10,
+                "country",
+                5
+            ],
+            [
+                10,
+                "country",
+                18
+            ],
+            [
+                17,
+                "country",
+                5
+            ],
+            [
+                17,
+                "country",
+                18
+            ],
+            [
+                11,
+                "country",
+                5
+            ],
+            [
+                11,
+                "country",
+                18
+            ],
+            [
+                0,
+                "country",
+                5
+            ],
+            [
+                9,
+                "country",
+                5
+            ],
+            [
+                18,
+                "contains administrative territorial entity",
+                4
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                17,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                12,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                14,
+                "country",
+                5
+            ],
+            [
+                9,
+                "country",
+                18
+            ],
+            [
+                13,
+                "country",
+                5
+            ],
+            [
+                11,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                12,
+                "country",
+                18
+            ],
+            [
+                7,
+                "country",
+                5
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                12,
+                "country",
+                5
+            ],
+            [
+                7,
+                "inception",
+                8
+            ],
+            [
+                0,
+                "inception",
+                8
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                18
+            ],
+            [
+                3,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                3,
+                "located in the administrative territorial entity",
+                18
+            ],
+            [
+                6,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                10,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                10,
+                "located in the administrative territorial entity",
+                18
+            ],
+            [
+                17,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                17,
+                "located in the administrative territorial entity",
+                18
+            ],
+            [
+                11,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                11,
+                "located in the administrative territorial entity",
+                18
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                14,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                9,
+                "located in the administrative territorial entity",
+                18
+            ],
+            [
+                13,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                12,
+                "located in the administrative territorial entity",
+                18
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                12,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                18
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                18
+            ],
+            [
+                12,
+                "located in the administrative territorial entity",
+                4
+            ]
+        ]
+    },
+    {
+        "id": 3,
+        "tokenized_text": [
+            "Andrew",
+            "Nicholas",
+            "Oliver",
+            "and",
+            "Philip",
+            "Edward",
+            "Oliver",
+            ",",
+            "together",
+            "known",
+            "as",
+            "the",
+            "Oliver",
+            "Twins",
+            ",",
+            "are",
+            "British",
+            "twin",
+            "brothers",
+            "and",
+            "video",
+            "game",
+            "designers",
+            ".",
+            "They",
+            "began",
+            "to",
+            "professionally",
+            "develop",
+            "computer",
+            "games",
+            "while",
+            "they",
+            "were",
+            "still",
+            "at",
+            "school",
+            ",",
+            "contributing",
+            "their",
+            "first",
+            "type",
+            "-",
+            "in",
+            "game",
+            "to",
+            "a",
+            "magazine",
+            "in",
+            "1983",
+            ".",
+            "They",
+            "worked",
+            "with",
+            "publishers",
+            "Codemasters",
+            "for",
+            "a",
+            "number",
+            "of",
+            "years",
+            "following",
+            "their",
+            "first",
+            "collaboration",
+            "Super",
+            "Robin",
+            "Hood",
+            ",",
+            "creating",
+            "the",
+            "Dizzy",
+            "series",
+            "of",
+            "games",
+            "and",
+            "many",
+            "of",
+            "Codemasters",
+            "'",
+            "Simulator",
+            "Series",
+            "games",
+            ".",
+            "At",
+            "one",
+            "point",
+            "during",
+            "the",
+            "1980s",
+            "it",
+            "was",
+            "reported",
+            "that",
+            "7",
+            "%",
+            "of",
+            "all",
+            "UK",
+            "games",
+            "sales",
+            "were",
+            "attributable",
+            "to",
+            "the",
+            "Oliver",
+            "Twins",
+            ".",
+            "In",
+            "1990",
+            "they",
+            "founded",
+            "Interactive",
+            "Studios",
+            "which",
+            "later",
+            "became",
+            "Blitz",
+            "Games",
+            "Studios",
+            ".",
+            "In",
+            "October",
+            "2013",
+            "they",
+            "founded",
+            "Radiant",
+            "Worlds",
+            ",",
+            "based",
+            "in",
+            "Leamington",
+            "Spa",
+            ",",
+            "with",
+            "long",
+            "time",
+            "friend",
+            "and",
+            "colleague",
+            "Richard",
+            "Smithies",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Andrew Nicholas Oliver",
+                        "start": 0,
+                        "end": 2
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Philip Edward Oliver",
+                        "start": 4,
+                        "end": 6
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Oliver Twins",
+                        "start": 12,
+                        "end": 13
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "British",
+                        "start": 16,
+                        "end": 16
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "1983",
+                        "start": 49,
+                        "end": 49
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Codemasters",
+                        "start": 55,
+                        "end": 55
+                    },
+                    {
+                        "value": "Codemasters",
+                        "start": 78,
+                        "end": 78
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Super Robin Hood",
+                        "start": 65,
+                        "end": 67
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Dizzy",
+                        "start": 71,
+                        "end": 71
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Simulator Series",
+                        "start": 80,
+                        "end": 81
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "the 1980s",
+                        "start": 88,
+                        "end": 89
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "7%",
+                        "start": 94,
+                        "end": 95
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "UK",
+                        "start": 98,
+                        "end": 98
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Oliver Twins",
+                        "start": 105,
+                        "end": 106
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "1990",
+                        "start": 109,
+                        "end": 109
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Interactive Studios",
+                        "start": 112,
+                        "end": 113
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Blitz Games Studios",
+                        "start": 117,
+                        "end": 119
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "October 2013",
+                        "start": 122,
+                        "end": 123
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Radiant Worlds",
+                        "start": 126,
+                        "end": 127
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "Leamington Spa",
+                        "start": 131,
+                        "end": 132
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "Richard Smithies",
+                        "start": 140,
+                        "end": 141
+                    }
+                ],
+                "type": "PER"
+            }
+        ],
+        "relations": [
+            [
+                0,
+                "country of citizenship",
+                11
+            ],
+            [
+                1,
+                "country of citizenship",
+                11
+            ],
+            [
+                14,
+                "country",
+                11
+            ],
+            [
+                14,
+                "inception",
+                13
+            ],
+            [
+                15,
+                "country",
+                11
+            ],
+            [
+                7,
+                "publisher",
+                5
+            ],
+            [
+                6,
+                "developer",
+                2
+            ],
+            [
+                6,
+                "publisher",
+                5
+            ],
+            [
+                5,
+                "product or material produced",
+                8
+            ],
+            [
+                18,
+                "country",
+                11
+            ],
+            [
+                17,
+                "founded by",
+                19
+            ],
+            [
+                15,
+                "inception",
+                13
+            ],
+            [
+                15,
+                "founded by",
+                2
+            ],
+            [
+                2,
+                "has part",
+                1
+            ],
+            [
+                14,
+                "founded by",
+                2
+            ],
+            [
+                17,
+                "founded by",
+                2
+            ],
+            [
+                1,
+                "sibling",
+                0
+            ],
+            [
+                8,
+                "publisher",
+                5
+            ],
+            [
+                1,
+                "part of",
+                2
+            ],
+            [
+                0,
+                "sibling",
+                1
+            ],
+            [
+                17,
+                "inception",
+                16
+            ],
+            [
+                17,
+                "located in the administrative territorial entity",
+                18
+            ],
+            [
+                14,
+                "located in the administrative territorial entity",
+                11
+            ],
+            [
+                15,
+                "located in the administrative territorial entity",
+                11
+            ],
+            [
+                18,
+                "located in the administrative territorial entity",
+                11
+            ],
+            [
+                17,
+                "located in the administrative territorial entity",
+                11
+            ]
+        ]
+    },
+    {
+        "id": 4,
+        "tokenized_text": [
+            "François",
+            "Duvalier",
+            "(;",
+            "14",
+            "April",
+            "190721",
+            "April",
+            "1971",
+            ")",
+            ",",
+            "also",
+            "known",
+            "as",
+            "PapaDoc",
+            ",",
+            "was",
+            "the",
+            "President",
+            "of",
+            "Haiti",
+            "from",
+            "1957",
+            "to",
+            "1971",
+            ".",
+            "He",
+            "was",
+            "elected",
+            "president",
+            "in",
+            "1957",
+            "on",
+            "a",
+            "populist",
+            "and",
+            "black",
+            "nationalist",
+            "platform",
+            ".",
+            "After",
+            "thwarting",
+            "a",
+            "military",
+            "coupd'état",
+            "in",
+            "1958",
+            ",",
+            "his",
+            "regime",
+            "rapidly",
+            "became",
+            "totalitarian",
+            "and",
+            "despotic",
+            ".",
+            "An",
+            "undercover",
+            "government",
+            "death",
+            "squad",
+            ",",
+            "the",
+            ",",
+            "killed",
+            "opponents",
+            "indiscriminately",
+            "and",
+            "was",
+            "thought",
+            "to",
+            "be",
+            "so",
+            "pervasive",
+            "that",
+            "Haitians",
+            "became",
+            "highly",
+            "fearful",
+            "of",
+            "expressing",
+            "dissent",
+            "even",
+            "in",
+            "private",
+            ".",
+            "Duvalier",
+            "further",
+            "sought",
+            "to",
+            "solidify",
+            "his",
+            "rule",
+            "by",
+            "incorporating",
+            "elements",
+            "of",
+            "ancient",
+            "Haitian",
+            "mythology",
+            "into",
+            "a",
+            "personality",
+            "cult",
+            ".",
+            "Prior",
+            "to",
+            "his",
+            "rule",
+            ",",
+            "Duvalier",
+            "was",
+            "a",
+            "physician",
+            "by",
+            "profession",
+            ".",
+            "His",
+            "profession",
+            "and",
+            "expertise",
+            "in",
+            "the",
+            "field",
+            "acquired",
+            "him",
+            "the",
+            "nickname",
+            "\"",
+            "PapaDoc",
+            "\"",
+            ".",
+            "He",
+            "was",
+            "unanimously",
+            "\"",
+            "re",
+            "-",
+            "elected",
+            "\"",
+            "in",
+            "a",
+            "1961",
+            "election",
+            "in",
+            "which",
+            "he",
+            "was",
+            "the",
+            "only",
+            "candidate",
+            ".",
+            "Afterwards",
+            ",",
+            "he",
+            "consolidated",
+            "his",
+            "power",
+            "step",
+            "by",
+            "step",
+            ",",
+            "culminating",
+            "in",
+            "1964",
+            "when",
+            "he",
+            "declared",
+            "himself",
+            "as",
+            "President",
+            "for",
+            "Life",
+            "after",
+            "another",
+            "faulty",
+            "election",
+            ",",
+            "and",
+            "remained",
+            "in",
+            "power",
+            "until",
+            "he",
+            "died",
+            "in",
+            "1971",
+            ".",
+            "He",
+            "was",
+            "succeeded",
+            "by",
+            "his",
+            "son",
+            ",",
+            "Jean‑Claude",
+            ",",
+            "who",
+            "was",
+            "nicknamed",
+            "\"",
+            "BabyDoc",
+            "\"",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "PapaDoc",
+                        "start": 13,
+                        "end": 13
+                    },
+                    {
+                        "value": "PapaDoc",
+                        "start": 128,
+                        "end": 128
+                    },
+                    {
+                        "value": "François Duvalier",
+                        "start": 0,
+                        "end": 1
+                    },
+                    {
+                        "value": "Duvalier",
+                        "start": 85,
+                        "end": 85
+                    },
+                    {
+                        "value": "Duvalier",
+                        "start": 109,
+                        "end": 109
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "14 April 190721 April 1971",
+                        "start": 3,
+                        "end": 7
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Haiti",
+                        "start": 19,
+                        "end": 19
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "1957",
+                        "start": 21,
+                        "end": 21
+                    },
+                    {
+                        "value": "1957",
+                        "start": 30,
+                        "end": 30
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "1971",
+                        "start": 23,
+                        "end": 23
+                    },
+                    {
+                        "value": "1971",
+                        "start": 185,
+                        "end": 185
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "1958",
+                        "start": 45,
+                        "end": 45
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Haitians",
+                        "start": 74,
+                        "end": 74
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Haitian",
+                        "start": 97,
+                        "end": 97
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "1961",
+                        "start": 141,
+                        "end": 141
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "1964",
+                        "start": 163,
+                        "end": 163
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "President for Life",
+                        "start": 169,
+                        "end": 171
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Jean‑Claude",
+                        "start": 194,
+                        "end": 194
+                    },
+                    {
+                        "value": "BabyDoc",
+                        "start": 200,
+                        "end": 200
+                    }
+                ],
+                "type": "PER"
+            }
+        ],
+        "relations": [
+            [
+                11,
+                "country of citizenship",
+                2
+            ],
+            [
+                11,
+                "father",
+                0
+            ],
+            [
+                0,
+                "country of citizenship",
+                2
+            ],
+            [
+                0,
+                "date of death",
+                4
+            ],
+            [
+                0,
+                "child",
+                11
+            ],
+            [
+                0,
+                "date of birth",
+                1
+            ],
+            [
+                2,
+                "head of state",
+                0
+            ],
+            [
+                0,
+                "country of citizenship",
+                7
+            ],
+            [
+                0,
+                "applies to jurisdiction",
+                2
+            ]
+        ]
+    }
+]

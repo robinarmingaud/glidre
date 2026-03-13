@@ -1,0 +1,6109 @@
+[
+    {
+        "id": 0,
+        "tokenized_text": [
+            "Francisco",
+            "de",
+            "Osona",
+            ",",
+            "also",
+            "Francisco",
+            "de",
+            "Osona",
+            "the",
+            "Younger",
+            ",",
+            "(",
+            "c.1465–c.1514",
+            ")",
+            "was",
+            "a",
+            "Spanish",
+            "Renaissance",
+            "painter",
+            ".",
+            "Francisco",
+            "was",
+            "born",
+            "in",
+            "Valencia",
+            ".",
+            "There",
+            "has",
+            "been",
+            "some",
+            "confusion",
+            "between",
+            "Francisco",
+            "and",
+            "his",
+            "father",
+            "Rodrigo",
+            "de",
+            "Osona",
+            ".",
+            "Father",
+            "and",
+            "son",
+            "worked",
+            "closely",
+            "together",
+            "in",
+            "their",
+            "workshop",
+            "in",
+            "Valencia",
+            ",",
+            "therefore",
+            "works",
+            "are",
+            "often",
+            "attributed",
+            "to",
+            "both",
+            ",",
+            "although",
+            "some",
+            "assumptions",
+            "are",
+            "made",
+            "that",
+            "Francisco",
+            "was",
+            "more",
+            "open",
+            "to",
+            "what",
+            "was",
+            "newer",
+            "styles",
+            "and",
+            "forms",
+            "in",
+            "Italy",
+            ".",
+            "However",
+            ",",
+            "while",
+            "the",
+            "activity",
+            "of",
+            "Rodrigo",
+            "ended",
+            "with",
+            "his",
+            "death",
+            "in",
+            "1518",
+            ",",
+            "Francisco",
+            "died",
+            "before",
+            "him",
+            "much",
+            "younger",
+            "in",
+            "1514",
+            ".",
+            "The",
+            "second",
+            "table",
+            "of",
+            "the",
+            "Epiphany",
+            ",",
+            "preserved",
+            "in",
+            "London",
+            ",",
+            "is",
+            "signed",
+            "by",
+            "\"",
+            "The",
+            "teacher",
+            "'s",
+            "son",
+            "Rodrigo",
+            "\"",
+            ",",
+            "in",
+            "which",
+            ",",
+            "on",
+            "the",
+            "contrary",
+            ",",
+            "there",
+            "seems",
+            "to",
+            "have",
+            "more",
+            "traditional",
+            "trend",
+            "seen",
+            "in",
+            "the",
+            "works",
+            "of",
+            "the",
+            "father",
+            ".",
+            "Francisco",
+            "has",
+            "been",
+            "credited",
+            "with",
+            "Christ",
+            "before",
+            "Pilate",
+            "in",
+            "the",
+            "Museu",
+            "de",
+            "Belles",
+            "Arts",
+            "de",
+            "València",
+            ",",
+            "as",
+            "well",
+            "as",
+            "The",
+            "Adoration",
+            "of",
+            "the",
+            "Magi",
+            "in",
+            "the",
+            "Victoria",
+            "and",
+            "Albert",
+            "Museum",
+            ".",
+            "The",
+            "work",
+            "of",
+            "two",
+            "Osona",
+            "artists",
+            ",",
+            "along",
+            "with",
+            "Paolo",
+            "de",
+            "San",
+            "Leocadio",
+            ",",
+            "form",
+            "the",
+            "basis",
+            "for",
+            "Spanish",
+            "classicism",
+            "in",
+            "painting",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Francisco",
+                        "start": 94,
+                        "end": 94
+                    },
+                    {
+                        "value": "Francisco",
+                        "start": 32,
+                        "end": 32
+                    },
+                    {
+                        "value": "Francisco",
+                        "start": 20,
+                        "end": 20
+                    },
+                    {
+                        "value": "Francisco",
+                        "start": 66,
+                        "end": 66
+                    },
+                    {
+                        "value": "Francisco",
+                        "start": 147,
+                        "end": 147
+                    },
+                    {
+                        "value": "Francisco de Osona",
+                        "start": 0,
+                        "end": 2
+                    },
+                    {
+                        "value": "Francisco de Osona the Younger",
+                        "start": 5,
+                        "end": 9
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "c.1465–c.1514",
+                        "start": 12,
+                        "end": 12
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Spanish",
+                        "start": 16,
+                        "end": 16
+                    },
+                    {
+                        "value": "Spanish",
+                        "start": 197,
+                        "end": 197
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Renaissance",
+                        "start": 17,
+                        "end": 17
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Valencia",
+                        "start": 24,
+                        "end": 24
+                    },
+                    {
+                        "value": "Valencia",
+                        "start": 50,
+                        "end": 50
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Rodrigo",
+                        "start": 86,
+                        "end": 86
+                    },
+                    {
+                        "value": "Rodrigo de Osona",
+                        "start": 36,
+                        "end": 38
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Italy",
+                        "start": 78,
+                        "end": 78
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "1518",
+                        "start": 92,
+                        "end": 92
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "1514",
+                        "start": 101,
+                        "end": 101
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Epiphany",
+                        "start": 108,
+                        "end": 108
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "London",
+                        "start": 112,
+                        "end": 112
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "The teacher 's son Rodrigo",
+                        "start": 118,
+                        "end": 122
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Christ before Pilate",
+                        "start": 152,
+                        "end": 154
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Museu de Belles Arts de València",
+                        "start": 157,
+                        "end": 162
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "The Adoration of the Magi",
+                        "start": 167,
+                        "end": 171
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Victoria and Albert Museum",
+                        "start": 174,
+                        "end": 177
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "two",
+                        "start": 182,
+                        "end": 182
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Osona",
+                        "start": 183,
+                        "end": 183
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "Paolo de San Leocadio",
+                        "start": 188,
+                        "end": 191
+                    }
+                ],
+                "type": "PER"
+            }
+        ],
+        "relations": [
+            [
+                13,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                5,
+                "date of death",
+                7
+            ],
+            [
+                5,
+                "child",
+                0
+            ],
+            [
+                5,
+                "country of citizenship",
+                2
+            ],
+            [
+                0,
+                "place of birth",
+                4
+            ],
+            [
+                0,
+                "date of death",
+                8
+            ],
+            [
+                0,
+                "father",
+                5
+            ],
+            [
+                0,
+                "country of citizenship",
+                2
+            ],
+            [
+                4,
+                "country",
+                2
+            ],
+            [
+                12,
+                "location",
+                13
+            ],
+            [
+                14,
+                "location",
+                15
+            ],
+            [
+                4,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                13,
+                "located in the administrative territorial entity",
+                2
+            ]
+        ]
+    },
+    {
+        "id": 1,
+        "tokenized_text": [
+            "Humphrey",
+            "the",
+            "Bear",
+            "is",
+            "a",
+            "cartoon",
+            "character",
+            "created",
+            "by",
+            "the",
+            "Walt",
+            "Disney",
+            "studio",
+            "in",
+            "1950",
+            ".",
+            "He",
+            "first",
+            "appeared",
+            "in",
+            "the",
+            "Goofy",
+            "cartoon",
+            "Hold",
+            "That",
+            "Pose",
+            ",",
+            "in",
+            "which",
+            "Goofy",
+            "tried",
+            "to",
+            "take",
+            "his",
+            "picture",
+            ".",
+            "After",
+            "that",
+            "he",
+            "appeared",
+            "in",
+            "four",
+            "classic",
+            "Donald",
+            "Duck",
+            "cartoons",
+            ":",
+            "Rugged",
+            "Bear",
+            ",",
+            "Grin",
+            "and",
+            "Bear",
+            "It",
+            ",",
+            "Bearly",
+            "Asleep",
+            ",",
+            "and",
+            "Beezy",
+            "Bear",
+            ".",
+            "Disney",
+            "gave",
+            "him",
+            "his",
+            "own",
+            "series",
+            "in",
+            "1955",
+            ",",
+            "but",
+            "only",
+            "two",
+            "films",
+            "resulted",
+            "(",
+            "Hooked",
+            "Bear",
+            "and",
+            "In",
+            "the",
+            "Bag",
+            ")",
+            "before",
+            "Disney",
+            "discontinued",
+            "making",
+            "theatrical",
+            "short",
+            "subjects",
+            ".",
+            "When",
+            "the",
+            "shorts",
+            "division",
+            "closed",
+            ",",
+            "Humphrey",
+            "was",
+            "the",
+            "last",
+            "of",
+            "only",
+            "seven",
+            "Disney",
+            "characters",
+            "who",
+            "had",
+            "been",
+            "given",
+            "a",
+            "series",
+            "of",
+            "their",
+            "own",
+            ",",
+            "starring",
+            "in",
+            "cartoons",
+            "who",
+            "opened",
+            "with",
+            "their",
+            "own",
+            "logo",
+            "(",
+            "the",
+            "six",
+            "others",
+            "were",
+            "Mickey",
+            "Mouse",
+            ",",
+            "Donald",
+            "Duck",
+            ",",
+            "Goofy",
+            ",",
+            "Pluto",
+            ",",
+            "Chip",
+            "'",
+            "n",
+            "'",
+            "Dale",
+            "(",
+            "counting",
+            "as",
+            "one",
+            ")",
+            ",",
+            "and",
+            "Figaro",
+            ")",
+            ".",
+            "The",
+            "Humphrey",
+            "cartoons",
+            "have",
+            "been",
+            "aptly",
+            "described",
+            "by",
+            "Leonard",
+            "Maltin",
+            "as",
+            "\"",
+            "belly",
+            "-",
+            "laugh",
+            "\"",
+            "shorts",
+            ",",
+            "and",
+            "they",
+            "feature",
+            "a",
+            "broader",
+            ",",
+            "wilder",
+            "style",
+            "of",
+            "comedy",
+            "than",
+            "the",
+            "usually",
+            "cute",
+            "or",
+            "coy",
+            "Disney",
+            "gags",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Humphrey the Bear",
+                        "start": 0,
+                        "end": 2
+                    },
+                    {
+                        "value": "Humphrey",
+                        "start": 157,
+                        "end": 157
+                    },
+                    {
+                        "value": "Humphrey",
+                        "start": 98,
+                        "end": 98
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Disney",
+                        "start": 85,
+                        "end": 85
+                    },
+                    {
+                        "value": "Disney",
+                        "start": 105,
+                        "end": 105
+                    },
+                    {
+                        "value": "Disney",
+                        "start": 190,
+                        "end": 190
+                    },
+                    {
+                        "value": "Disney",
+                        "start": 62,
+                        "end": 62
+                    },
+                    {
+                        "value": "Walt Disney",
+                        "start": 10,
+                        "end": 11
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "1950",
+                        "start": 14,
+                        "end": 14
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Goofy",
+                        "start": 21,
+                        "end": 21
+                    },
+                    {
+                        "value": "Goofy",
+                        "start": 137,
+                        "end": 137
+                    },
+                    {
+                        "value": "Goofy",
+                        "start": 29,
+                        "end": 29
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Hold That Pose",
+                        "start": 23,
+                        "end": 25
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "four",
+                        "start": 41,
+                        "end": 41
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Donald Duck",
+                        "start": 43,
+                        "end": 44
+                    },
+                    {
+                        "value": "Donald Duck",
+                        "start": 134,
+                        "end": 135
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Rugged Bear",
+                        "start": 47,
+                        "end": 48
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Grin and Bear It",
+                        "start": 50,
+                        "end": 53
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Bearly Asleep",
+                        "start": 55,
+                        "end": 56
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Beezy Bear",
+                        "start": 59,
+                        "end": 60
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "1955",
+                        "start": 69,
+                        "end": 69
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "two",
+                        "start": 73,
+                        "end": 73
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Hooked Bear",
+                        "start": 77,
+                        "end": 78
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "In the Bag",
+                        "start": 80,
+                        "end": 82
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "seven",
+                        "start": 104,
+                        "end": 104
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "six",
+                        "start": 128,
+                        "end": 128
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Mickey Mouse",
+                        "start": 131,
+                        "end": 132
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "Pluto",
+                        "start": 139,
+                        "end": 139
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "Chip ' n ' Dale",
+                        "start": 141,
+                        "end": 145
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    {
+                        "value": "Figaro",
+                        "start": 153,
+                        "end": 153
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    {
+                        "value": "Leonard Maltin",
+                        "start": 164,
+                        "end": 165
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    {
+                        "value": "belly - laugh",
+                        "start": 168,
+                        "end": 170
+                    }
+                ],
+                "type": "MISC"
+            }
+        ],
+        "relations": [
+            [
+                0,
+                "creator",
+                1
+            ],
+            [
+                6,
+                "creator",
+                1
+            ],
+            [
+                17,
+                "performer",
+                1
+            ],
+            [
+                17,
+                "creator",
+                1
+            ],
+            [
+                8,
+                "producer",
+                1
+            ],
+            [
+                9,
+                "production company",
+                1
+            ],
+            [
+                7,
+                "producer",
+                1
+            ],
+            [
+                13,
+                "producer",
+                1
+            ],
+            [
+                13,
+                "production company",
+                1
+            ],
+            [
+                14,
+                "characters",
+                0
+            ],
+            [
+                14,
+                "production company",
+                1
+            ],
+            [
+                14,
+                "producer",
+                1
+            ],
+            [
+                4,
+                "characters",
+                0
+            ],
+            [
+                20,
+                "creator",
+                1
+            ],
+            [
+                10,
+                "production company",
+                1
+            ],
+            [
+                19,
+                "creator",
+                1
+            ],
+            [
+                7,
+                "production company",
+                1
+            ],
+            [
+                4,
+                "production company",
+                1
+            ],
+            [
+                3,
+                "creator",
+                1
+            ],
+            [
+                18,
+                "creator",
+                1
+            ],
+            [
+                8,
+                "production company",
+                1
+            ],
+            [
+                1,
+                "notable work",
+                17
+            ],
+            [
+                1,
+                "notable work",
+                8
+            ],
+            [
+                1,
+                "notable work",
+                7
+            ],
+            [
+                1,
+                "notable work",
+                13
+            ],
+            [
+                0,
+                "present in work",
+                14
+            ],
+            [
+                1,
+                "notable work",
+                14
+            ],
+            [
+                0,
+                "present in work",
+                4
+            ]
+        ]
+    },
+    {
+        "id": 2,
+        "tokenized_text": [
+            "Arras",
+            "Cathedral",
+            "(",
+            "French",
+            ":",
+            "Cathédrale",
+            "Notre",
+            "-",
+            "Dame",
+            "-",
+            "et",
+            "-",
+            "Saint",
+            "-",
+            "Vaast",
+            "d'Arras",
+            ")",
+            "is",
+            "the",
+            "Roman",
+            "Catholic",
+            "church",
+            "in",
+            "the",
+            "city",
+            "of",
+            "Arras",
+            ",",
+            "France",
+            ".",
+            "The",
+            "cathedral",
+            "is",
+            "the",
+            "seat",
+            "of",
+            "the",
+            "Bishops",
+            "of",
+            "Arras",
+            ".",
+            "The",
+            "original",
+            "cathedral",
+            "of",
+            "Arras",
+            ",",
+            "constructed",
+            "between",
+            "1030",
+            "and",
+            "1396",
+            ",",
+            "was",
+            "one",
+            "of",
+            "the",
+            "most",
+            "beautiful",
+            "Gothic",
+            "structures",
+            "in",
+            "northern",
+            "France",
+            ",",
+            "until",
+            "it",
+            "was",
+            "destroyed",
+            "in",
+            "the",
+            "French",
+            "Revolution",
+            ".",
+            "The",
+            "cathedral",
+            "was",
+            "the",
+            "resting",
+            "place",
+            "of",
+            "Louis",
+            "de",
+            "Bourbon",
+            ",",
+            "Légitimé",
+            "de",
+            "France",
+            ",",
+            "a",
+            "legitimated",
+            "son",
+            "of",
+            "Louis",
+            "XIV",
+            "and",
+            "Louise",
+            "de",
+            "La",
+            "Vallière",
+            ".",
+            "The",
+            "church",
+            "of",
+            "the",
+            "former",
+            "St.",
+            "Vaast",
+            "'s",
+            "Abbey",
+            "was",
+            "rebuilt",
+            "in",
+            "classical",
+            "style",
+            "as",
+            "a",
+            "replacement",
+            "cathedral",
+            ".",
+            "The",
+            "design",
+            "was",
+            "chosen",
+            "by",
+            "the",
+            "former",
+            "abbot",
+            "of",
+            "St.",
+            "Vaast",
+            "'s",
+            ",",
+            "the",
+            "Cardinal",
+            "de",
+            "Rohan",
+            ",",
+            "and",
+            "is",
+            "of",
+            "remarkable",
+            "simplicity",
+            ".",
+            "It",
+            "is",
+            "'",
+            "a",
+            "very",
+            "large",
+            "building",
+            ",",
+            "the",
+            "erection",
+            "of",
+            "which",
+            "was",
+            "begun",
+            "in",
+            "1755",
+            "from",
+            "plans",
+            "by",
+            "Pierre",
+            "Contant",
+            "d'Ivry",
+            ",",
+            "the",
+            "architect",
+            "who",
+            "later",
+            "created",
+            "designs",
+            "for",
+            "the",
+            "Church",
+            "of",
+            "La",
+            "Madeleine",
+            "in",
+            "Paris",
+            ".",
+            "The",
+            "work",
+            "was",
+            "interrupted",
+            "during",
+            "the",
+            "Revolution",
+            ",",
+            "then",
+            "resumed",
+            "by",
+            "virtue",
+            "of",
+            "a",
+            "municipal",
+            "decree",
+            "dated",
+            "“",
+            "Nivôse",
+            "27",
+            ",",
+            "Year",
+            "XII",
+            "”",
+            ",",
+            "which",
+            "ran",
+            ":",
+            "“",
+            "...",
+            "to",
+            "erect",
+            "the",
+            "edifice",
+            ",",
+            "abandoning",
+            "everything",
+            "in",
+            "the",
+            "original",
+            "plans",
+            "connected",
+            "with",
+            "decoration",
+            "and",
+            "architectural",
+            "beauty",
+            ",",
+            "limiting",
+            "the",
+            "work",
+            "to",
+            "the",
+            "requirements",
+            "of",
+            "solidity",
+            "and",
+            "decency",
+            ".",
+            "”",
+            "The",
+            "church",
+            "was",
+            "finished",
+            "in",
+            "accordance",
+            "with",
+            "these",
+            "prescriptions",
+            ",",
+            "being",
+            "completed",
+            "in",
+            "1834",
+            ".",
+            "The",
+            "interior",
+            "was",
+            "of",
+            "plaster",
+            "-",
+            "coated",
+            "brickwork",
+            ",",
+            "whilst",
+            "the",
+            "columns",
+            "were",
+            "of",
+            "undressed",
+            "stone",
+            ",",
+            "covered",
+            "with",
+            "stone",
+            "-",
+            "coloured",
+            "mortar",
+            ".",
+            "The",
+            "capitals",
+            "were",
+            "of",
+            "stucco",
+            "-",
+            "work",
+            ".",
+            "'",
+            "Arras",
+            "Cathedral",
+            "was",
+            "heavily",
+            "damaged",
+            "by",
+            "shelling",
+            "in",
+            "April",
+            "1917",
+            ",",
+            "during",
+            "the",
+            "run",
+            "-",
+            "up",
+            "to",
+            "the",
+            "Nivelle",
+            "offensives",
+            "of",
+            "World",
+            "War",
+            "I",
+            ",",
+            "and",
+            "subsequently",
+            "rebuilt",
+            "in",
+            "its",
+            "previous",
+            "form",
+            ".",
+            "The",
+            "cathedral",
+            "is",
+            "adjacent",
+            "to",
+            "the",
+            "Musée",
+            "des",
+            "beaux",
+            "-",
+            "arts",
+            "d'Arras",
+            ",",
+            "formerly",
+            "the",
+            "Benedictine",
+            "Abbey",
+            "of",
+            "Saint",
+            "-",
+            "Vaast",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Arras Cathedral",
+                        "start": 0,
+                        "end": 1
+                    },
+                    {
+                        "value": "Arras Cathedral",
+                        "start": 290,
+                        "end": 291
+                    },
+                    {
+                        "value": "Cathédrale Notre - Dame - et - Saint - Vaast d'Arras",
+                        "start": 5,
+                        "end": 15
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "French",
+                        "start": 3,
+                        "end": 3
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Roman Catholic",
+                        "start": 19,
+                        "end": 20
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Arras",
+                        "start": 26,
+                        "end": 26
+                    },
+                    {
+                        "value": "Arras",
+                        "start": 45,
+                        "end": 45
+                    },
+                    {
+                        "value": "Arras",
+                        "start": 39,
+                        "end": 39
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "France",
+                        "start": 28,
+                        "end": 28
+                    },
+                    {
+                        "value": "France",
+                        "start": 63,
+                        "end": 63
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "1030",
+                        "start": 49,
+                        "end": 49
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "1396",
+                        "start": 51,
+                        "end": 51
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Gothic",
+                        "start": 59,
+                        "end": 59
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "French Revolution",
+                        "start": 71,
+                        "end": 72
+                    },
+                    {
+                        "value": "Revolution",
+                        "start": 188,
+                        "end": 188
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Louis de Bourbon",
+                        "start": 81,
+                        "end": 83
+                    },
+                    {
+                        "value": "Légitimé de France",
+                        "start": 85,
+                        "end": 87
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Louis XIV",
+                        "start": 93,
+                        "end": 94
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Louise de La Vallière",
+                        "start": 96,
+                        "end": 99
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "St. Vaast 's Abbey",
+                        "start": 106,
+                        "end": 109
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "St. Vaast",
+                        "start": 129,
+                        "end": 130
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Cardinal de Rohan",
+                        "start": 134,
+                        "end": 136
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "1755",
+                        "start": 159,
+                        "end": 159
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "Pierre Contant d'Ivry",
+                        "start": 163,
+                        "end": 165
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Church of La Madeleine",
+                        "start": 175,
+                        "end": 178
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "Paris",
+                        "start": 180,
+                        "end": 180
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "Nivôse 27 , Year XII",
+                        "start": 200,
+                        "end": 204
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    {
+                        "value": "1834",
+                        "start": 255,
+                        "end": 255
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    {
+                        "value": "April 1917",
+                        "start": 298,
+                        "end": 299
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    {
+                        "value": "Nivelle offensives",
+                        "start": 308,
+                        "end": 309
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    {
+                        "value": "World War I",
+                        "start": 311,
+                        "end": 313
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    {
+                        "value": "Musée des beaux - arts d'Arras",
+                        "start": 329,
+                        "end": 334
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    {
+                        "value": "Benedictine Abbey of Saint - Vaast",
+                        "start": 338,
+                        "end": 343
+                    }
+                ],
+                "type": "LOC"
+            }
+        ],
+        "relations": [
+            [
+                3,
+                "country",
+                4
+            ],
+            [
+                3,
+                "country",
+                1
+            ],
+            [
+                8,
+                "location",
+                4
+            ],
+            [
+                8,
+                "country",
+                4
+            ],
+            [
+                8,
+                "location",
+                1
+            ],
+            [
+                8,
+                "country",
+                1
+            ],
+            [
+                10,
+                "spouse",
+                11
+            ],
+            [
+                10,
+                "child",
+                9
+            ],
+            [
+                9,
+                "father",
+                10
+            ],
+            [
+                14,
+                "religion",
+                2
+            ],
+            [
+                24,
+                "country",
+                4
+            ],
+            [
+                25,
+                "country",
+                4
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                0,
+                "country",
+                4
+            ],
+            [
+                0,
+                "country",
+                1
+            ],
+            [
+                22,
+                "location",
+                4
+            ],
+            [
+                22,
+                "location",
+                1
+            ],
+            [
+                22,
+                "country",
+                1
+            ],
+            [
+                9,
+                "languages spoken, written or signed",
+                1
+            ],
+            [
+                14,
+                "languages spoken, written or signed",
+                1
+            ],
+            [
+                24,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                2,
+                "country",
+                4
+            ],
+            [
+                14,
+                "country of citizenship",
+                4
+            ],
+            [
+                11,
+                "spouse",
+                10
+            ],
+            [
+                4,
+                "official language",
+                1
+            ],
+            [
+                4,
+                "original language of work",
+                1
+            ],
+            [
+                9,
+                "religion",
+                2
+            ],
+            [
+                10,
+                "languages spoken, written or signed",
+                1
+            ],
+            [
+                9,
+                "country of citizenship",
+                4
+            ],
+            [
+                0,
+                "inception",
+                5
+            ],
+            [
+                18,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                25,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                12,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                22,
+                "part of",
+                23
+            ],
+            [
+                16,
+                "notable work",
+                17
+            ],
+            [
+                13,
+                "country",
+                4
+            ],
+            [
+                17,
+                "country",
+                4
+            ],
+            [
+                18,
+                "country",
+                4
+            ],
+            [
+                12,
+                "country",
+                4
+            ],
+            [
+                10,
+                "country of citizenship",
+                4
+            ],
+            [
+                23,
+                "has part",
+                22
+            ],
+            [
+                3,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                24,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                25,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                13,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                17,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                12,
+                "located in the administrative territorial entity",
+                4
+            ]
+        ]
+    },
+    {
+        "id": 3,
+        "tokenized_text": [
+            "Joseph",
+            "Arnaud",
+            "Charles",
+            "Gaillardot",
+            "(",
+            "20",
+            "September",
+            "1814",
+            ",",
+            "in",
+            "Lunéville",
+            "–",
+            "August",
+            "1883",
+            ",",
+            "in",
+            "Bhamdoun",
+            ")",
+            "was",
+            "a",
+            "French",
+            "physician",
+            "and",
+            "naturalist",
+            ".",
+            "In",
+            "1837",
+            "he",
+            "was",
+            "named",
+            "professor",
+            "of",
+            "natural",
+            "history",
+            "at",
+            "the",
+            "medical",
+            "school",
+            "in",
+            "Cairo",
+            ",",
+            "and",
+            "later",
+            "on",
+            "in",
+            "his",
+            "career",
+            ",",
+            "spent",
+            "more",
+            "than",
+            "twenty",
+            "years",
+            "as",
+            "a",
+            "physician",
+            "at",
+            "a",
+            "military",
+            "hospital",
+            "in",
+            "Sidon",
+            ".",
+            "In",
+            "1863",
+            "he",
+            "became",
+            "a",
+            "health",
+            "specialist",
+            "in",
+            "Alexandria",
+            ",",
+            "then",
+            "in",
+            "1875",
+            "was",
+            "appointed",
+            "director",
+            "of",
+            "the",
+            "Cairo",
+            "medical",
+            "school",
+            ".",
+            "In",
+            "addition",
+            "to",
+            "his",
+            "medical",
+            "duties",
+            ",",
+            "he",
+            "conducted",
+            "botanical",
+            ",",
+            "zoological",
+            ",",
+            "geological",
+            "and",
+            "archaeological",
+            "research",
+            "in",
+            "Egypt",
+            "and",
+            "the",
+            "Middle",
+            "East",
+            ".",
+            "The",
+            "snail",
+            "genus",
+            "Gaillardotia",
+            "(;",
+            "family",
+            "Neritidae",
+            ")",
+            "honors",
+            "his",
+            "name",
+            ",",
+            "as",
+            "do",
+            "species",
+            "with",
+            "epithet",
+            "of",
+            "gaillardotii",
+            ",",
+            "an",
+            "example",
+            "being",
+            "Echinops",
+            "gaillardotii",
+            "(",
+            "Gaillardot",
+            "'s",
+            "globe",
+            "-",
+            "thistle",
+            ")",
+            ".",
+            "His",
+            "Herbier",
+            "de",
+            "Syrie",
+            "became",
+            "part",
+            "of",
+            "the",
+            "\"",
+            "Herbarium",
+            "Haussknecht",
+            "\"",
+            ",",
+            "now",
+            "located",
+            "at",
+            "the",
+            "University",
+            "of",
+            "Jena",
+            ".",
+            "In",
+            "1854",
+            "he",
+            "became",
+            "a",
+            "member",
+            "of",
+            "Société",
+            "botanique",
+            "de",
+            "France",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Joseph Arnaud Charles Gaillardot",
+                        "start": 0,
+                        "end": 3
+                    },
+                    {
+                        "value": "Gaillardot",
+                        "start": 135,
+                        "end": 135
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "20 September 1814",
+                        "start": 5,
+                        "end": 7
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Lunéville",
+                        "start": 10,
+                        "end": 10
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "August 1883",
+                        "start": 12,
+                        "end": 13
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Bhamdoun",
+                        "start": 16,
+                        "end": 16
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "French",
+                        "start": 20,
+                        "end": 20
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "1837",
+                        "start": 26,
+                        "end": 26
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Cairo",
+                        "start": 39,
+                        "end": 39
+                    },
+                    {
+                        "value": "Cairo",
+                        "start": 81,
+                        "end": 81
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "twenty",
+                        "start": 51,
+                        "end": 51
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Sidon",
+                        "start": 61,
+                        "end": 61
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "1863",
+                        "start": 64,
+                        "end": 64
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Alexandria",
+                        "start": 71,
+                        "end": 71
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "1875",
+                        "start": 75,
+                        "end": 75
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Egypt",
+                        "start": 103,
+                        "end": 103
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Middle East",
+                        "start": 106,
+                        "end": 107
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Gaillardotia",
+                        "start": 112,
+                        "end": 112
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "Neritidae",
+                        "start": 115,
+                        "end": 115
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Echinops gaillardotii",
+                        "start": 132,
+                        "end": 133
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "globe - thistle",
+                        "start": 137,
+                        "end": 139
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "Herbier de Syrie",
+                        "start": 143,
+                        "end": 145
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    {
+                        "value": "Herbarium Haussknecht",
+                        "start": 151,
+                        "end": 152
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    {
+                        "value": "University of Jena",
+                        "start": 159,
+                        "end": 161
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    {
+                        "value": "1854",
+                        "start": 164,
+                        "end": 164
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    {
+                        "value": "Société botanique de France",
+                        "start": 170,
+                        "end": 173
+                    }
+                ],
+                "type": "ORG"
+            }
+        ],
+        "relations": [
+            [
+                0,
+                "date of birth",
+                1
+            ],
+            [
+                0,
+                "place of birth",
+                2
+            ],
+            [
+                0,
+                "date of death",
+                3
+            ],
+            [
+                0,
+                "place of death",
+                4
+            ],
+            [
+                0,
+                "work location",
+                7
+            ],
+            [
+                0,
+                "work location",
+                9
+            ],
+            [
+                11,
+                "country",
+                13
+            ],
+            [
+                7,
+                "country",
+                13
+            ],
+            [
+                15,
+                "parent taxon",
+                16
+            ],
+            [
+                0,
+                "country of citizenship",
+                5
+            ],
+            [
+                0,
+                "member of",
+                23
+            ],
+            [
+                11,
+                "located in the administrative territorial entity",
+                13
+            ],
+            [
+                7,
+                "located in the administrative territorial entity",
+                13
+            ]
+        ]
+    },
+    {
+        "id": 4,
+        "tokenized_text": [
+            "Definitely",
+            "Maybe",
+            "is",
+            "the",
+            "debut",
+            "studio",
+            "album",
+            "by",
+            "English",
+            "rock",
+            "band",
+            "Oasis",
+            ".",
+            "The",
+            "album",
+            "was",
+            "released",
+            "on",
+            "29",
+            "August",
+            "1994",
+            "by",
+            "Creation",
+            "Records",
+            ".",
+            "It",
+            "is",
+            "the",
+            "band",
+            "'s",
+            "only",
+            "studio",
+            "album",
+            "to",
+            "feature",
+            "original",
+            "drummer",
+            "Tony",
+            "McCarroll",
+            ".",
+            "Definitely",
+            "Maybe",
+            "was",
+            "an",
+            "immediate",
+            "commercial",
+            "and",
+            "critical",
+            "success",
+            "in",
+            "the",
+            "United",
+            "Kingdom",
+            ",",
+            "having",
+            "followed",
+            "on",
+            "the",
+            "heels",
+            "of",
+            "the",
+            "singles",
+            "\"",
+            "Supersonic",
+            "\"",
+            ",",
+            "\"",
+            "Shakermaker",
+            "\"",
+            ",",
+            "and",
+            "\"",
+            "Live",
+            "Forever",
+            "\"",
+            ".",
+            "The",
+            "album",
+            "went",
+            "straight",
+            "to",
+            "number",
+            "one",
+            "in",
+            "the",
+            "UK",
+            "Albums",
+            "Chart",
+            ",",
+            "and",
+            "became",
+            "the",
+            "fastest",
+            "-",
+            "selling",
+            "debut",
+            "album",
+            "in",
+            "the",
+            "UK",
+            "at",
+            "the",
+            "time",
+            ";",
+            "it",
+            "went",
+            "on",
+            "to",
+            "be",
+            "certified",
+            "7×",
+            "Platinum",
+            "(",
+            "2.1",
+            " ",
+            "million+",
+            "sales",
+            ")",
+            "by",
+            "the",
+            "BPI",
+            ".",
+            "Definitely",
+            "Maybe",
+            "marked",
+            "the",
+            "beginning",
+            "of",
+            "Oasis",
+            "'",
+            "success",
+            "in",
+            "the",
+            "United",
+            "States",
+            ",",
+            "selling",
+            "over",
+            "one",
+            "million",
+            "copies",
+            "there",
+            "despite",
+            "only",
+            "peaking",
+            "at",
+            "58",
+            "on",
+            "the",
+            "Billboard",
+            "200",
+            ".",
+            "The",
+            "album",
+            "went",
+            "on",
+            "to",
+            "sell",
+            "over",
+            "8",
+            "million",
+            "copies",
+            "worldwide",
+            "and",
+            "brought",
+            "widespread",
+            "critical",
+            "acclaim",
+            ".",
+            "Definitely",
+            "Maybe",
+            "helped",
+            "to",
+            "spur",
+            "a",
+            "revitalisation",
+            "in",
+            "British",
+            "pop",
+            "music",
+            "in",
+            "the",
+            "1990s",
+            ",",
+            "and",
+            "was",
+            "embraced",
+            "by",
+            "critics",
+            "for",
+            "its",
+            "optimistic",
+            "themes",
+            "and",
+            "supposed",
+            "rejection",
+            "of",
+            "grunge",
+            "music",
+            "of",
+            "the",
+            "time",
+            ".",
+            "The",
+            "album",
+            "is",
+            "regarded",
+            "as",
+            "a",
+            "seminal",
+            "entry",
+            "of",
+            "the",
+            "Britpop",
+            "scene",
+            ",",
+            "and",
+            "has",
+            "appeared",
+            "in",
+            "many",
+            "publications",
+            "'",
+            "list",
+            "of",
+            "the",
+            "greatest",
+            "albums",
+            "of",
+            "all",
+            "time",
+            ".",
+            "In",
+            "2006",
+            ",",
+            "the",
+            "NME",
+            "conducted",
+            "a",
+            "readers",
+            "'",
+            "poll",
+            "in",
+            "which",
+            "Definitely",
+            "Maybe",
+            "was",
+            "voted",
+            "the",
+            "greatest",
+            "album",
+            "of",
+            "all",
+            "time",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Definitely Maybe",
+                        "start": 0,
+                        "end": 1
+                    },
+                    {
+                        "value": "Definitely Maybe",
+                        "start": 40,
+                        "end": 41
+                    },
+                    {
+                        "value": "Definitely Maybe",
+                        "start": 122,
+                        "end": 123
+                    },
+                    {
+                        "value": "Definitely Maybe",
+                        "start": 169,
+                        "end": 170
+                    },
+                    {
+                        "value": "Definitely Maybe",
+                        "start": 244,
+                        "end": 245
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "United Kingdom",
+                        "start": 51,
+                        "end": 52
+                    },
+                    {
+                        "value": "UK",
+                        "start": 99,
+                        "end": 99
+                    },
+                    {
+                        "value": "British",
+                        "start": 177,
+                        "end": 177
+                    },
+                    {
+                        "value": "English",
+                        "start": 8,
+                        "end": 8
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Oasis",
+                        "start": 128,
+                        "end": 128
+                    },
+                    {
+                        "value": "Oasis",
+                        "start": 11,
+                        "end": 11
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "29 August 1994",
+                        "start": 18,
+                        "end": 20
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Creation Records",
+                        "start": 22,
+                        "end": 23
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Tony McCarroll",
+                        "start": 37,
+                        "end": 38
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Supersonic",
+                        "start": 63,
+                        "end": 63
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Shakermaker",
+                        "start": 67,
+                        "end": 67
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Live Forever",
+                        "start": 72,
+                        "end": 73
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "UK Albums Chart",
+                        "start": 85,
+                        "end": 87
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "2.1   million+ sales",
+                        "start": 113,
+                        "end": 116
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "BPI",
+                        "start": 120,
+                        "end": 120
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "the United States",
+                        "start": 132,
+                        "end": 134
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "one million",
+                        "start": 138,
+                        "end": 139
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "58",
+                        "start": 146,
+                        "end": 146
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Billboard 200",
+                        "start": 149,
+                        "end": 150
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "8 million",
+                        "start": 159,
+                        "end": 160
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "the 1990s",
+                        "start": 181,
+                        "end": 182
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "Britpop",
+                        "start": 213,
+                        "end": 213
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "2006",
+                        "start": 233,
+                        "end": 233
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    {
+                        "value": "NME",
+                        "start": 236,
+                        "end": 236
+                    }
+                ],
+                "type": "ORG"
+            }
+        ],
+        "relations": [
+            [
+                5,
+                "record label",
+                4
+            ],
+            [
+                5,
+                "country of citizenship",
+                1
+            ],
+            [
+                7,
+                "followed by",
+                8
+            ],
+            [
+                8,
+                "follows",
+                7
+            ],
+            [
+                18,
+                "country of origin",
+                1
+            ],
+            [
+                0,
+                "record label",
+                4
+            ],
+            [
+                0,
+                "genre",
+                18
+            ],
+            [
+                0,
+                "publication date",
+                3
+            ],
+            [
+                0,
+                "performer",
+                2
+            ],
+            [
+                2,
+                "record label",
+                4
+            ],
+            [
+                2,
+                "has part",
+                5
+            ],
+            [
+                2,
+                "genre",
+                18
+            ],
+            [
+                7,
+                "follows",
+                6
+            ],
+            [
+                6,
+                "followed by",
+                7
+            ],
+            [
+                4,
+                "country",
+                1
+            ],
+            [
+                8,
+                "part of",
+                0
+            ],
+            [
+                7,
+                "part of",
+                0
+            ],
+            [
+                6,
+                "record label",
+                4
+            ],
+            [
+                7,
+                "record label",
+                4
+            ],
+            [
+                2,
+                "country",
+                1
+            ],
+            [
+                8,
+                "record label",
+                4
+            ],
+            [
+                20,
+                "country",
+                1
+            ],
+            [
+                6,
+                "part of",
+                0
+            ],
+            [
+                6,
+                "performer",
+                2
+            ],
+            [
+                7,
+                "performer",
+                2
+            ],
+            [
+                8,
+                "performer",
+                2
+            ],
+            [
+                5,
+                "member of",
+                2
+            ],
+            [
+                2,
+                "notable work",
+                0
+            ],
+            [
+                5,
+                "part of",
+                2
+            ],
+            [
+                0,
+                "has part",
+                8
+            ],
+            [
+                0,
+                "has part",
+                7
+            ],
+            [
+                0,
+                "has part",
+                6
+            ],
+            [
+                2,
+                "notable work",
+                6
+            ],
+            [
+                2,
+                "notable work",
+                7
+            ],
+            [
+                2,
+                "notable work",
+                8
+            ],
+            [
+                4,
+                "located in the administrative territorial entity",
+                1
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                1
+            ],
+            [
+                20,
+                "located in the administrative territorial entity",
+                1
+            ]
+        ]
+    },
+    {
+        "id": 5,
+        "tokenized_text": [
+            "\"",
+            "Fall",
+            "Dog",
+            "Bombs",
+            "the",
+            "Moon",
+            "\"",
+            "is",
+            "a",
+            "song",
+            "written",
+            "by",
+            "David",
+            "Bowie",
+            "in",
+            "2003",
+            "for",
+            "his",
+            "album",
+            "Reality",
+            ".",
+            "According",
+            "to",
+            "Bowie",
+            "himself",
+            "at",
+            "the",
+            "time",
+            "of",
+            "the",
+            "album",
+            "release",
+            ",",
+            "\"",
+            "It",
+            "came",
+            "from",
+            "reading",
+            "an",
+            "article",
+            "about",
+            "Kellogg",
+            "Brown",
+            "&",
+            "Root",
+            ",",
+            "a",
+            "subsidiary",
+            "of",
+            "Halliburton",
+            ",",
+            "the",
+            "company",
+            "that",
+            "Dick",
+            "Cheney",
+            "used",
+            "to",
+            "run",
+            ".",
+            "Basically",
+            ",",
+            "Kellogg",
+            "Brown",
+            "&",
+            "Root",
+            "got",
+            "the",
+            "job",
+            "of",
+            "cleaning",
+            "up",
+            "Iraq",
+            ".",
+            "What",
+            "tends",
+            "to",
+            "happen",
+            "is",
+            "that",
+            "a",
+            "thing",
+            "like",
+            "an",
+            "issue",
+            "or",
+            "a",
+            "policy",
+            "manifests",
+            "itself",
+            "as",
+            "a",
+            "guide",
+            ".",
+            "It",
+            "becomes",
+            "a",
+            "character",
+            "of",
+            "some",
+            "kind",
+            ",",
+            "like",
+            "the",
+            "one",
+            "in",
+            "Fall",
+            "Dog",
+            ".",
+            "There",
+            "'s",
+            "this",
+            "guy",
+            "saying",
+            ",",
+            "'",
+            "I",
+            "'m",
+            "goddamn",
+            "rich",
+            "'",
+            ".",
+            "You",
+            "know",
+            ",",
+            "'",
+            "Throw",
+            "anything",
+            "you",
+            "like",
+            "at",
+            "me",
+            ",",
+            "baby",
+            ",",
+            "because",
+            "I",
+            "'m",
+            "goddamn",
+            "rich",
+            ".",
+            "It",
+            "does",
+            "n't",
+            "bother",
+            "me",
+            ".",
+            "'",
+            ".",
+            "\"",
+            "Biographer",
+            "Nicholas",
+            "Pegg",
+            "wrote",
+            "his",
+            "own",
+            "interpretation",
+            "of",
+            "the",
+            "song",
+            ":",
+            "\"",
+            "The",
+            "key",
+            "on",
+            "this",
+            "occasion",
+            "is",
+            "the",
+            "fearful",
+            "predicament",
+            "of",
+            "global",
+            "politics",
+            "at",
+            "the",
+            "time",
+            "of",
+            "the",
+            "Reality",
+            "sessions",
+            ".",
+            "The",
+            "album",
+            "was",
+            "recorded",
+            "during",
+            "the",
+            "preamble",
+            "to",
+            ",",
+            "and",
+            "the",
+            "prosecution",
+            "of",
+            ",",
+            "the",
+            "Iraq",
+            "War",
+            ",",
+            "and",
+            "it",
+            "'s",
+            "impossible",
+            "to",
+            "hear",
+            "lyrics",
+            "like",
+            "'",
+            "I",
+            "do",
+            "n't",
+            "care",
+            "much",
+            ",",
+            "I",
+            "'ll",
+            "win",
+            "anyway",
+            "...",
+            "/I'm",
+            "goddamn",
+            "rich",
+            ",",
+            "an",
+            "exploding",
+            "man",
+            "/",
+            "When",
+            "I",
+            "talk",
+            "in",
+            "the",
+            "night",
+            ",",
+            "there",
+            "'s",
+            "oil",
+            "on",
+            "my",
+            "hands",
+            "'",
+            "without",
+            "pondering",
+            "their",
+            "most",
+            "obvious",
+            "resonance",
+            ".",
+            "It",
+            "would",
+            "n't",
+            "be",
+            "particularly",
+            "extravagant",
+            "to",
+            "surmise",
+            "that",
+            "the",
+            "'",
+            "Moon",
+            "'",
+            "of",
+            "the",
+            "title",
+            "suggests",
+            "the",
+            "Crescent",
+            "Moon",
+            "of",
+            "Islam",
+            ",",
+            "thereby",
+            "narrowing",
+            "down",
+            "the",
+            "candidates",
+            "for",
+            "'",
+            "Fall",
+            "Dog",
+            "'",
+            "fairly",
+            "decisively",
+            ".",
+            "\"",
+            "Pegg",
+            "concludes",
+            "writing",
+            "that",
+            "the",
+            "song",
+            "cocks",
+            "a",
+            "\"",
+            "contemptuous",
+            "at",
+            "the",
+            "increasing",
+            "predilection",
+            "of",
+            "political",
+            "parties",
+            "to",
+            "find",
+            "'",
+            "someone",
+            "to",
+            "hate",
+            "'",
+            "while",
+            "jumping",
+            "into",
+            "bed",
+            "with",
+            "business",
+            "corporations",
+            "\"",
+            "and",
+            "that",
+            "dialogue",
+            "with",
+            "other",
+            "Bowie",
+            "'s",
+            "songs",
+            "like",
+            "\"",
+            "Fantastic",
+            "Voyage",
+            "\"",
+            ",",
+            "\"",
+            "Loving",
+            "the",
+            "Alien",
+            "\"",
+            "and",
+            "\"",
+            "I",
+            "'m",
+            "Afraid",
+            "of",
+            "Americans",
+            "\"",
+            ".",
+            "\"",
+            "Fall",
+            "Dog",
+            "Bombs",
+            "the",
+            "Moon",
+            "\"",
+            "is",
+            "based",
+            "on",
+            "short",
+            "melodic",
+            "motives",
+            ",",
+            "the",
+            "kind",
+            "that",
+            "seemed",
+            "to",
+            "permeate",
+            "his",
+            "previous",
+            "album",
+            ",",
+            "Heathen",
+            ".",
+            "A",
+            "live",
+            "performance",
+            "of",
+            "the",
+            "song",
+            ",",
+            "recorded",
+            "in",
+            "November",
+            "2003",
+            "during",
+            "the",
+            "A",
+            "Reality",
+            "Tour",
+            ",",
+            "is",
+            "included",
+            "on",
+            "the",
+            "A",
+            "Reality",
+            "Tour",
+            "album",
+            ",",
+            "released",
+            "in",
+            "2010",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Fall Dog Bombs the Moon",
+                        "start": 1,
+                        "end": 5
+                    },
+                    {
+                        "value": "Fall Dog Bombs the Moon",
+                        "start": 347,
+                        "end": 351
+                    },
+                    {
+                        "value": "Fall Dog",
+                        "start": 279,
+                        "end": 280
+                    },
+                    {
+                        "value": "Fall Dog",
+                        "start": 106,
+                        "end": 107
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "David Bowie",
+                        "start": 12,
+                        "end": 13
+                    },
+                    {
+                        "value": "Bowie",
+                        "start": 323,
+                        "end": 323
+                    },
+                    {
+                        "value": "Bowie",
+                        "start": 23,
+                        "end": 23
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "2003",
+                        "start": 15,
+                        "end": 15
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Reality",
+                        "start": 19,
+                        "end": 19
+                    },
+                    {
+                        "value": "Reality",
+                        "start": 179,
+                        "end": 179
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Kellogg Brown & Root",
+                        "start": 41,
+                        "end": 44
+                    },
+                    {
+                        "value": "Kellogg Brown & Root",
+                        "start": 62,
+                        "end": 65
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Halliburton",
+                        "start": 49,
+                        "end": 49
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Dick Cheney",
+                        "start": 54,
+                        "end": 55
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Iraq",
+                        "start": 72,
+                        "end": 72
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "Nicholas Pegg",
+                        "start": 151,
+                        "end": 152
+                    },
+                    {
+                        "value": "Pegg",
+                        "start": 286,
+                        "end": 286
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Iraq War",
+                        "start": 197,
+                        "end": 198
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Moon",
+                        "start": 260,
+                        "end": 260
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "Crescent Moon of Islam",
+                        "start": 267,
+                        "end": 270
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Fantastic Voyage",
+                        "start": 328,
+                        "end": 329
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Loving the Alien",
+                        "start": 333,
+                        "end": 335
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "I 'm Afraid of Americans",
+                        "start": 339,
+                        "end": 343
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "Heathen",
+                        "start": 370,
+                        "end": 370
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "November 2003",
+                        "start": 381,
+                        "end": 382
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "A Reality Tour",
+                        "start": 385,
+                        "end": 387
+                    },
+                    {
+                        "value": "A Reality Tour",
+                        "start": 393,
+                        "end": 395
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "2010",
+                        "start": 400,
+                        "end": 400
+                    }
+                ],
+                "type": "TIME"
+            }
+        ],
+        "relations": [
+            [
+                4,
+                "founded by",
+                6
+            ],
+            [
+                9,
+                "country",
+                7
+            ],
+            [
+                0,
+                "part of",
+                3
+            ],
+            [
+                3,
+                "follows",
+                15
+            ],
+            [
+                12,
+                "followed by",
+                13
+            ],
+            [
+                13,
+                "producer",
+                1
+            ],
+            [
+                13,
+                "performer",
+                1
+            ],
+            [
+                13,
+                "lyrics by",
+                1
+            ],
+            [
+                13,
+                "followed by",
+                14
+            ],
+            [
+                14,
+                "follows",
+                13
+            ],
+            [
+                15,
+                "performer",
+                1
+            ],
+            [
+                15,
+                "followed by",
+                3
+            ],
+            [
+                0,
+                "publication date",
+                2
+            ],
+            [
+                3,
+                "publication date",
+                2
+            ],
+            [
+                12,
+                "performer",
+                1
+            ],
+            [
+                3,
+                "performer",
+                1
+            ],
+            [
+                14,
+                "performer",
+                1
+            ],
+            [
+                0,
+                "performer",
+                1
+            ],
+            [
+                17,
+                "performer",
+                1
+            ],
+            [
+                17,
+                "publication date",
+                18
+            ],
+            [
+                6,
+                "employer",
+                5
+            ],
+            [
+                3,
+                "has part",
+                0
+            ],
+            [
+                13,
+                "follows",
+                12
+            ],
+            [
+                1,
+                "notable work",
+                13
+            ],
+            [
+                1,
+                "notable work",
+                15
+            ],
+            [
+                1,
+                "notable work",
+                12
+            ],
+            [
+                1,
+                "notable work",
+                3
+            ],
+            [
+                1,
+                "notable work",
+                14
+            ],
+            [
+                1,
+                "notable work",
+                0
+            ],
+            [
+                1,
+                "notable work",
+                17
+            ]
+        ]
+    },
+    {
+        "id": 6,
+        "tokenized_text": [
+            "The",
+            "Millburn",
+            "Township",
+            "Public",
+            "Schools",
+            "are",
+            "a",
+            "comprehensive",
+            "community",
+            "public",
+            "school",
+            "district",
+            "that",
+            "serves",
+            "students",
+            "in",
+            "pre",
+            "-",
+            "kindergarten",
+            "through",
+            "twelfth",
+            "grade",
+            "from",
+            "Millburn",
+            ",",
+            "in",
+            "Essex",
+            "County",
+            ",",
+            "New",
+            "Jersey",
+            ",",
+            "United",
+            "States",
+            ".",
+            "As",
+            "of",
+            "the",
+            "2015",
+            "-",
+            "16",
+            "school",
+            "year",
+            ",",
+            "the",
+            "district",
+            "'s",
+            "eight",
+            "schools",
+            "had",
+            "an",
+            "enrollment",
+            "of",
+            "4,943",
+            "students",
+            "and",
+            "404.1",
+            "classroom",
+            "teachers",
+            "(",
+            "on",
+            "an",
+            "FTE",
+            "basis",
+            ")",
+            ",",
+            "for",
+            "a",
+            "student",
+            "–",
+            "teacher",
+            "ratio",
+            "of",
+            "12.2:1",
+            ".",
+            "The",
+            "district",
+            "is",
+            "classified",
+            "by",
+            "the",
+            "New",
+            "Jersey",
+            "Department",
+            "of",
+            "Education",
+            "as",
+            "being",
+            "in",
+            "District",
+            "Factor",
+            "Group",
+            "\"",
+            "J",
+            "\"",
+            ",",
+            "the",
+            "highest",
+            "of",
+            "eight",
+            "groupings",
+            ".",
+            "District",
+            "Factor",
+            "Groups",
+            "organize",
+            "districts",
+            "statewide",
+            "to",
+            "allow",
+            "comparison",
+            "by",
+            "common",
+            "socioeconomic",
+            "characteristics",
+            "of",
+            "the",
+            "local",
+            "districts",
+            ".",
+            "From",
+            "lowest",
+            "socioeconomic",
+            "status",
+            "to",
+            "highest",
+            ",",
+            "the",
+            "categories",
+            "are",
+            "A",
+            ",",
+            "B",
+            ",",
+            "CD",
+            ",",
+            "DE",
+            ",",
+            "FG",
+            ",",
+            "GH",
+            ",",
+            "I",
+            "and",
+            "J."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Millburn Township Public Schools",
+                        "start": 1,
+                        "end": 4
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Millburn",
+                        "start": 23,
+                        "end": 23
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Essex County",
+                        "start": 26,
+                        "end": 27
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "New Jersey",
+                        "start": 29,
+                        "end": 30
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "United States",
+                        "start": 32,
+                        "end": 33
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "2015",
+                        "start": 38,
+                        "end": 38
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "16",
+                        "start": 40,
+                        "end": 40
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "eight",
+                        "start": 47,
+                        "end": 47
+                    },
+                    {
+                        "value": "eight",
+                        "start": 99,
+                        "end": 99
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "4,943",
+                        "start": 53,
+                        "end": 53
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "404.1",
+                        "start": 56,
+                        "end": 56
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "FTE",
+                        "start": 62,
+                        "end": 62
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "12.2:1",
+                        "start": 73,
+                        "end": 73
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "New Jersey Department of Education",
+                        "start": 81,
+                        "end": 85
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "District Factor Group",
+                        "start": 89,
+                        "end": 91
+                    },
+                    {
+                        "value": "District Factor Groups",
+                        "start": 102,
+                        "end": 104
+                    }
+                ],
+                "type": "ORG"
+            }
+        ],
+        "relations": [
+            [
+                0,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                0,
+                "country",
+                4
+            ],
+            [
+                1,
+                "located in the administrative territorial entity",
+                2
+            ],
+            [
+                1,
+                "country",
+                4
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                3
+            ],
+            [
+                2,
+                "country",
+                4
+            ],
+            [
+                3,
+                "contains administrative territorial entity",
+                2
+            ],
+            [
+                3,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                3,
+                "country",
+                4
+            ],
+            [
+                4,
+                "contains administrative territorial entity",
+                3
+            ],
+            [
+                12,
+                "country",
+                4
+            ],
+            [
+                12,
+                "applies to jurisdiction",
+                3
+            ],
+            [
+                0,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                1,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                12,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                1,
+                "located in the administrative territorial entity",
+                3
+            ]
+        ]
+    },
+    {
+        "id": 7,
+        "tokenized_text": [
+            "The",
+            "Emergency",
+            "(",
+            ")",
+            "was",
+            "the",
+            "state",
+            "of",
+            "emergency",
+            "which",
+            "existed",
+            "in",
+            "the",
+            "state",
+            "of",
+            "Ireland",
+            "during",
+            "the",
+            "Second",
+            "World",
+            "War",
+            ".",
+            "The",
+            "state",
+            "of",
+            "Ireland",
+            "remained",
+            "neutral",
+            "throughout",
+            "the",
+            "war",
+            ".",
+            "\"",
+            "The",
+            "Emergency",
+            "\"",
+            "has",
+            "been",
+            "used",
+            "metonymically",
+            "in",
+            "historical",
+            "and",
+            "cultural",
+            "commentary",
+            "to",
+            "refer",
+            "to",
+            "the",
+            "state",
+            "during",
+            "the",
+            "war",
+            ".",
+            "The",
+            "state",
+            "of",
+            "emergency",
+            "was",
+            "proclaimed",
+            "by",
+            "Dáil",
+            "Éireann",
+            "on",
+            "2",
+            "September",
+            "1939",
+            ",",
+            "allowing",
+            "the",
+            "passage",
+            "of",
+            "the",
+            "Emergency",
+            "Powers",
+            "Act",
+            "1939",
+            "by",
+            "the",
+            "Oireachtas",
+            "the",
+            "following",
+            "day",
+            ".",
+            "This",
+            "gave",
+            "sweeping",
+            "new",
+            "powers",
+            "to",
+            "the",
+            "government",
+            "for",
+            "the",
+            "duration",
+            "of",
+            "the",
+            "Emergency",
+            ",",
+            "including",
+            "internment",
+            ",",
+            "censorship",
+            "of",
+            "the",
+            "press",
+            "and",
+            "correspondence",
+            ",",
+            "and",
+            "government",
+            "control",
+            "of",
+            "the",
+            "economy",
+            ".",
+            "The",
+            "Emergency",
+            "Powers",
+            "Act",
+            "lapsed",
+            "on",
+            "2",
+            "September",
+            "1946",
+            ".",
+            "Although",
+            "the",
+            "state",
+            "of",
+            "emergency",
+            "itself",
+            "was",
+            "not",
+            "rescinded",
+            "until",
+            "1",
+            "September",
+            "1976",
+            ",",
+            "no",
+            "emergency",
+            "legislation",
+            "was",
+            "ever",
+            "in",
+            "force",
+            "after",
+            "1946",
+            "to",
+            "exploit",
+            "this",
+            "anomaly",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "The Emergency Powers Act",
+                        "start": 116,
+                        "end": 119
+                    },
+                    {
+                        "value": "The Emergency",
+                        "start": 33,
+                        "end": 34
+                    },
+                    {
+                        "value": "The Emergency",
+                        "start": 0,
+                        "end": 1
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "Ireland",
+                        "start": 15,
+                        "end": 15
+                    },
+                    {
+                        "value": "Ireland",
+                        "start": 25,
+                        "end": 25
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Second World War",
+                        "start": 18,
+                        "end": 20
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Dáil Éireann",
+                        "start": 61,
+                        "end": 62
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "2 September 1939",
+                        "start": 64,
+                        "end": 66
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Emergency Powers Act 1939",
+                        "start": 73,
+                        "end": 76
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Oireachtas",
+                        "start": 79,
+                        "end": 79
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Emergency",
+                        "start": 97,
+                        "end": 97
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "2 September 1946",
+                        "start": 122,
+                        "end": 124
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "1 September 1976",
+                        "start": 136,
+                        "end": 138
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "1946",
+                        "start": 148,
+                        "end": 148
+                    }
+                ],
+                "type": "TIME"
+            }
+        ],
+        "relations": [
+            [
+                1,
+                "legislative body",
+                6
+            ],
+            [
+                6,
+                "country",
+                1
+            ],
+            [
+                6,
+                "applies to jurisdiction",
+                1
+            ],
+            [
+                5,
+                "country",
+                1
+            ],
+            [
+                0,
+                "inception",
+                4
+            ],
+            [
+                5,
+                "applies to jurisdiction",
+                1
+            ],
+            [
+                0,
+                "dissolved, abolished or demolished",
+                8
+            ],
+            [
+                6,
+                "located in the administrative territorial entity",
+                1
+            ]
+        ]
+    },
+    {
+        "id": 8,
+        "tokenized_text": [
+            "Giovanni",
+            "Gussone",
+            "(",
+            "8",
+            "February",
+            "1787",
+            ",",
+            "Villamaina",
+            "–",
+            "14",
+            "January",
+            "1866",
+            ",",
+            "Naples",
+            ")",
+            "was",
+            "an",
+            "Italian",
+            "academic",
+            "and",
+            "botanist",
+            ",",
+            "remembered",
+            "for",
+            "his",
+            "work",
+            "in",
+            "plant",
+            "taxonomy",
+            "and",
+            "his",
+            "research",
+            "of",
+            "Sicilian",
+            "flora",
+            ".",
+            "He",
+            "studied",
+            "medicine",
+            "in",
+            "Naples",
+            ",",
+            "where",
+            "he",
+            "came",
+            "under",
+            "the",
+            "influence",
+            "of",
+            "botanist",
+            "Michele",
+            "Tenore",
+            ".",
+            "Following",
+            "graduation",
+            "in",
+            "1811",
+            ",",
+            "he",
+            "worked",
+            "under",
+            "Tenore",
+            "as",
+            "a",
+            "manager",
+            "of",
+            "the",
+            "Orto",
+            "Botanico",
+            "di",
+            "Napoli",
+            "(",
+            "botanical",
+            "garden",
+            "in",
+            "Naples",
+            ")",
+            ".",
+            "In",
+            "1817",
+            "he",
+            "moved",
+            "to",
+            "Sicily",
+            ",",
+            "where",
+            "he",
+            "was",
+            "appointed",
+            "director",
+            "of",
+            "the",
+            "botanical",
+            "garden",
+            "at",
+            "Boccadifalco",
+            ",",
+            "outside",
+            "of",
+            "Palermo",
+            ".",
+            "In",
+            "Sicily",
+            ",",
+            "he",
+            "conducted",
+            "extensive",
+            "investigations",
+            "of",
+            "the",
+            "island",
+            "'s",
+            "flora",
+            ",",
+            "publishing",
+            "two",
+            "major",
+            "works",
+            "as",
+            "a",
+            "result",
+            ",",
+            "\"",
+            "Florae",
+            "Siculae",
+            "Prodromus",
+            "\"",
+            "and",
+            "\"",
+            "Florae",
+            "Siculae",
+            "Synopsis",
+            "\"",
+            ".",
+            "In",
+            "1827",
+            "he",
+            "returned",
+            "to",
+            "Naples",
+            "as",
+            "superintendent",
+            "of",
+            "the",
+            "botanical",
+            "gardens",
+            ".",
+            "In",
+            "1861",
+            "he",
+            "was",
+            "named",
+            "by",
+            "Victor",
+            "Emmanuel",
+            "as",
+            "professor",
+            "emeritus",
+            "of",
+            "the",
+            "University",
+            "of",
+            "Naples",
+            ".",
+            "Plants",
+            "with",
+            "the",
+            "specific",
+            "epithet",
+            "of",
+            "gussonei",
+            "are",
+            "named",
+            "in",
+            "his",
+            "honor",
+            ",",
+            "an",
+            "example",
+            "being",
+            "Petagnaea",
+            "gussonei",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Giovanni Gussone",
+                        "start": 0,
+                        "end": 1
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "8 February 1787",
+                        "start": 3,
+                        "end": 5
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "Villamaina",
+                        "start": 7,
+                        "end": 7
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "14 January 1866",
+                        "start": 9,
+                        "end": 11
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Naples",
+                        "start": 13,
+                        "end": 13
+                    },
+                    {
+                        "value": "Naples",
+                        "start": 40,
+                        "end": 40
+                    },
+                    {
+                        "value": "Naples",
+                        "start": 75,
+                        "end": 75
+                    },
+                    {
+                        "value": "Naples",
+                        "start": 139,
+                        "end": 139
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Italian",
+                        "start": 17,
+                        "end": 17
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Sicilian",
+                        "start": 33,
+                        "end": 33
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Michele Tenore",
+                        "start": 50,
+                        "end": 51
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "1811",
+                        "start": 56,
+                        "end": 56
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "Tenore",
+                        "start": 61,
+                        "end": 61
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Orto Botanico di Napoli",
+                        "start": 67,
+                        "end": 70
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "1817",
+                        "start": 79,
+                        "end": 79
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "Sicily",
+                        "start": 83,
+                        "end": 83
+                    },
+                    {
+                        "value": "Sicily",
+                        "start": 102,
+                        "end": 102
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Boccadifalco",
+                        "start": 95,
+                        "end": 95
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Palermo",
+                        "start": 99,
+                        "end": 99
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "two",
+                        "start": 115,
+                        "end": 115
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "Florae Siculae Prodromus",
+                        "start": 123,
+                        "end": 125
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Florae Siculae Synopsis",
+                        "start": 129,
+                        "end": 131
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "1827",
+                        "start": 135,
+                        "end": 135
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "1861",
+                        "start": 148,
+                        "end": 148
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    {
+                        "value": "Victor Emmanuel",
+                        "start": 153,
+                        "end": 154
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    {
+                        "value": "University of Naples",
+                        "start": 160,
+                        "end": 162
+                    }
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    {
+                        "value": "Petagnaea gussonei",
+                        "start": 180,
+                        "end": 181
+                    }
+                ],
+                "type": "MISC"
+            }
+        ],
+        "relations": [
+            [
+                0,
+                "date of birth",
+                1
+            ],
+            [
+                0,
+                "date of death",
+                3
+            ],
+            [
+                0,
+                "place of death",
+                4
+            ],
+            [
+                0,
+                "employer",
+                21
+            ],
+            [
+                0,
+                "country of citizenship",
+                5
+            ],
+            [
+                0,
+                "place of birth",
+                2
+            ],
+            [
+                21,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                10,
+                "located in the administrative territorial entity",
+                4
+            ],
+            [
+                5,
+                "contains administrative territorial entity",
+                12
+            ],
+            [
+                4,
+                "country",
+                5
+            ],
+            [
+                5,
+                "contains administrative territorial entity",
+                6
+            ],
+            [
+                2,
+                "country",
+                5
+            ],
+            [
+                10,
+                "country",
+                5
+            ],
+            [
+                4,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                2,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                10,
+                "located in the administrative territorial entity",
+                5
+            ],
+            [
+                21,
+                "located in the administrative territorial entity",
+                5
+            ]
+        ]
+    },
+    {
+        "id": 9,
+        "tokenized_text": [
+            "Antonio",
+            "Maria",
+            "Bononcini",
+            "(",
+            "18",
+            "June",
+            "1677",
+            "–",
+            "8",
+            "July",
+            "1726",
+            ")",
+            "was",
+            "an",
+            "Italian",
+            "cellist",
+            "and",
+            "composer",
+            ",",
+            "the",
+            "younger",
+            "brother",
+            "of",
+            "the",
+            "better",
+            "-",
+            "known",
+            "Giovanni",
+            "Bononcini",
+            ".",
+            "Bononcini",
+            "was",
+            "born",
+            "and",
+            "died",
+            "at",
+            "Modena",
+            "in",
+            "Italy",
+            ".",
+            "Like",
+            "his",
+            "brother",
+            ",",
+            "he",
+            "studied",
+            "with",
+            "Giovanni",
+            "Paolo",
+            "Colonna",
+            ".",
+            "Between",
+            "1690",
+            "and",
+            "1693",
+            ",",
+            "he",
+            "played",
+            "in",
+            "the",
+            "orchestra",
+            "of",
+            "Cardinal",
+            "Pamphili",
+            ".",
+            "In",
+            "1698",
+            "he",
+            "composed",
+            "an",
+            "allegory",
+            ",",
+            "La",
+            "fama",
+            "eroica",
+            ",",
+            "for",
+            "performance",
+            "in",
+            "Rome",
+            ".",
+            "He",
+            "worked",
+            "for",
+            "some",
+            "years",
+            "with",
+            "his",
+            "brother",
+            ",",
+            "and",
+            "joined",
+            "him",
+            "in",
+            "the",
+            "court",
+            "orchestra",
+            "at",
+            "Vienna",
+            ",",
+            "where",
+            "in",
+            "1705",
+            "he",
+            "became",
+            "Kapellmeister",
+            "to",
+            "the",
+            "future",
+            "Holy",
+            "Roman",
+            "Emperor",
+            "Charles",
+            "VI",
+            ".",
+            "In",
+            "1713",
+            "he",
+            "returned",
+            "to",
+            "Italy",
+            ",",
+            "where",
+            "he",
+            "worked",
+            "in",
+            "Milan",
+            ",",
+            "Naples",
+            "and",
+            "Modena",
+            ".",
+            "In",
+            "1721",
+            "he",
+            "became",
+            "the",
+            "maestro",
+            "di",
+            "cappella",
+            "in",
+            "Modena",
+            ",",
+            "where",
+            "he",
+            "remained",
+            "for",
+            "the",
+            "rest",
+            "of",
+            "his",
+            "life",
+            ".",
+            "In",
+            "addition",
+            "to",
+            "his",
+            "stage",
+            "works",
+            ",",
+            "he",
+            "composed",
+            "over",
+            "40",
+            "cantatas",
+            "(",
+            "most",
+            "of",
+            "them",
+            "for",
+            "solo",
+            "voice",
+            "and",
+            "harpsichord",
+            ")",
+            ",",
+            "as",
+            "well",
+            "as",
+            "sacred",
+            "music",
+            "including",
+            "a",
+            "Mass",
+            "in",
+            "G",
+            "minor",
+            ",",
+            "a",
+            "Stabat",
+            "Mater",
+            "in",
+            "C",
+            "Minor",
+            ",",
+            "and",
+            "a",
+            "Salve",
+            "Regina",
+            "."
+        ],
+        "mentions": [
+            {
+                "id": 0,
+                "mentions": [
+                    {
+                        "value": "Antonio Maria Bononcini",
+                        "start": 0,
+                        "end": 2
+                    },
+                    {
+                        "value": "Bononcini",
+                        "start": 30,
+                        "end": 30
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    {
+                        "value": "18 June 1677",
+                        "start": 4,
+                        "end": 6
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    {
+                        "value": "8 July 1726",
+                        "start": 8,
+                        "end": 10
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    {
+                        "value": "Italian",
+                        "start": 14,
+                        "end": 14
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    {
+                        "value": "Giovanni Bononcini",
+                        "start": 27,
+                        "end": 28
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    {
+                        "value": "Modena",
+                        "start": 36,
+                        "end": 36
+                    },
+                    {
+                        "value": "Modena",
+                        "start": 130,
+                        "end": 130
+                    },
+                    {
+                        "value": "Modena",
+                        "start": 141,
+                        "end": 141
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    {
+                        "value": "Italy",
+                        "start": 38,
+                        "end": 38
+                    },
+                    {
+                        "value": "Italy",
+                        "start": 120,
+                        "end": 120
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    {
+                        "value": "Giovanni Paolo Colonna",
+                        "start": 47,
+                        "end": 49
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    {
+                        "value": "1690",
+                        "start": 52,
+                        "end": 52
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    {
+                        "value": "1693",
+                        "start": 54,
+                        "end": 54
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    {
+                        "value": "Cardinal Pamphili",
+                        "start": 62,
+                        "end": 63
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    {
+                        "value": "1698",
+                        "start": 66,
+                        "end": 66
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    {
+                        "value": "La fama eroica",
+                        "start": 72,
+                        "end": 74
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    {
+                        "value": "Rome",
+                        "start": 79,
+                        "end": 79
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    {
+                        "value": "Vienna",
+                        "start": 98,
+                        "end": 98
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    {
+                        "value": "1705",
+                        "start": 102,
+                        "end": 102
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    {
+                        "value": "Kapellmeister",
+                        "start": 105,
+                        "end": 105
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    {
+                        "value": "Holy Roman Emperor",
+                        "start": 109,
+                        "end": 111
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    {
+                        "value": "Charles VI",
+                        "start": 112,
+                        "end": 113
+                    }
+                ],
+                "type": "PER"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    {
+                        "value": "1713",
+                        "start": 116,
+                        "end": 116
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    {
+                        "value": "Milan",
+                        "start": 126,
+                        "end": 126
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    {
+                        "value": "Naples",
+                        "start": 128,
+                        "end": 128
+                    }
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    {
+                        "value": "1721",
+                        "start": 133,
+                        "end": 133
+                    }
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    {
+                        "value": "40",
+                        "start": 163,
+                        "end": 163
+                    }
+                ],
+                "type": "NUM"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    {
+                        "value": "Mass",
+                        "start": 183,
+                        "end": 183
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    {
+                        "value": "Stabat Mater",
+                        "start": 189,
+                        "end": 190
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    {
+                        "value": "C Minor",
+                        "start": 192,
+                        "end": 193
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    {
+                        "value": "Salve Regina",
+                        "start": 197,
+                        "end": 198
+                    }
+                ],
+                "type": "MISC"
+            }
+        ],
+        "relations": [
+            [
+                0,
+                "country of citizenship",
+                6
+            ],
+            [
+                0,
+                "sibling",
+                4
+            ],
+            [
+                0,
+                "place of birth",
+                5
+            ],
+            [
+                0,
+                "place of death",
+                5
+            ],
+            [
+                0,
+                "date of birth",
+                1
+            ],
+            [
+                0,
+                "date of death",
+                2
+            ],
+            [
+                0,
+                "languages spoken, written or signed",
+                3
+            ],
+            [
+                4,
+                "sibling",
+                0
+            ],
+            [
+                5,
+                "country",
+                6
+            ],
+            [
+                18,
+                "position held",
+                17
+            ],
+            [
+                20,
+                "country",
+                6
+            ],
+            [
+                21,
+                "country",
+                6
+            ],
+            [
+                4,
+                "place of birth",
+                5
+            ],
+            [
+                4,
+                "place of death",
+                5
+            ],
+            [
+                7,
+                "place of death",
+                5
+            ],
+            [
+                12,
+                "composer",
+                0
+            ],
+            [
+                0,
+                "country of citizenship",
+                3
+            ],
+            [
+                25,
+                "composer",
+                0
+            ],
+            [
+                5,
+                "country",
+                3
+            ],
+            [
+                0,
+                "notable work",
+                12
+            ],
+            [
+                0,
+                "notable work",
+                25
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                6
+            ],
+            [
+                20,
+                "located in the administrative territorial entity",
+                6
+            ],
+            [
+                21,
+                "located in the administrative territorial entity",
+                6
+            ],
+            [
+                5,
+                "located in the administrative territorial entity",
+                3
+            ]
+        ]
+    }
+]
